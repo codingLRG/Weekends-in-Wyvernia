@@ -13,31 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Main Character Template.md",
+                "file": "Templates/Templates - Global.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Character Template"
+              "title": "Templates - Global"
             }
-          }
-        ]
-      },
-      {
-        "id": "5d0a60094d9935a6",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "4436de5bb35a237d",
+            "id": "b613bb9cd9ec2c5b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Location/City Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "City Template"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Main Character Template.md",
+                "file": "Templates/Location/City Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Main Character Template"
+              "title": "Backlinks for City Template"
             }
           },
           {
@@ -129,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Main Character Template.md",
+                "file": "Templates/Location/City Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Main Character Template"
+              "title": "Outgoing links from City Template"
             }
           },
           {
@@ -158,16 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Main Character Template.md",
+                "file": "Templates/Location/City Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Main Character Template"
+              "title": "Outline of City Template"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -185,10 +185,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "bd3391decd3a1dc3",
+  "active": "b613bb9cd9ec2c5b",
   "lastOpenFiles": [
+    "Templates/Location/Building Template.md",
+    "Templates/Characters/Not Relevant Character Template.md",
+    "Templates/Characters/Main Character Template.md",
+    "Templates/Location/City Template.md",
+    "Templates/Templates - Global.md",
     "Welcome.md",
-    "Characters/Main Character Template.md",
-    "Characters"
+    "Templates",
+    "Templates/Location",
+    "Religion Template.md",
+    "Templates/Characters"
   ]
 }
