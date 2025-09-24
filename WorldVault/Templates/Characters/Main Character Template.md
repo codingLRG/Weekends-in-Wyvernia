@@ -1,9 +1,8 @@
 > A simple description in order to give the perfect feel of what the characters should be looking for, provide standout details so they don't feel all the same
 ## Appearance
-Have a picture to show to your players so you can help them personafy the character
+Have a picture to show to your players so you can help them personify the character
 ## How to play
 This is where you describe the accent and speaking mannerisms that the character would describe
-
 ## Relationships
 This is where you put any characters (PC or NPC) that has interacted with the character in any way, linking any notes from previous session notes and current standing with
 Example:

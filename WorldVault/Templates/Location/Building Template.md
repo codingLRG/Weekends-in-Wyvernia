@@ -7,3 +7,4 @@
 This would be where you list characters that are associated with this building, whether they own it, are employees, is part of their routine
 - Character 1 -> Job Title
 - Character 2 -> Routine
+## Purpose
