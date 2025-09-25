@@ -16,6 +16,7 @@
 [[Religion Template]]
 [[Local Culture Template]]
 [[Holiday Template]]
+[[Job Template]]
 # Items
 [[Item of Importance Template]]
 [[Notable Item Template]]
@@ -23,4 +24,3 @@
 [[Plot Hook Template]]
 [[Prep Template]]
 [[Lore Template]]
-[[History Template]]

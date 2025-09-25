@@ -8,6 +8,6 @@ Speaks in a nasally tone and frequently sniffs
 ## Relationships
 
 ## Backstory
-A dwarf merchant that attempt to make a profit from a sword he thought was undervalued, until he became the undesirable host of the curse
+A dwarf merchant that attempt to make a profit from a sword he thought was undervalued, until he became the undesirable host of the curse [[Sword of Impotence]]
 ## Story interactions
-This is the story after the party has interacted with their lives, this will not be a total recap of the the plot involving this character so far, but inspiring moments to implement this character in a potentially meaningful way
+Attempted to sell [[Sword of Impotence]] to 

@@ -14,9 +14,9 @@ tags:
 ## Places to Eat
 [[Singing Siren]]
 ## Places to Sleep
-
+[[The Hearth]]
 ## Places to Relax
-
+[[Sko's Grand Library]]
 ## Places to Spend
 
 ## Primary Export
