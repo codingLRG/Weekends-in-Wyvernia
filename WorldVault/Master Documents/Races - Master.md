@@ -7,3 +7,4 @@
 - [[Gnome]]
 - [[Tiefling]]
 - [[Dragonborn]]
+- [[Plasmoid]]

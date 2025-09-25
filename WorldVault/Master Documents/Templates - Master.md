@@ -1,5 +1,5 @@
 # Character
-[[Main Character Template]]
+[[Important Character Template]]
 [[Not Relevant Character Template]]
 [[Leader or Member of Influence Template]]
 [[BBEG Template]]
@@ -18,7 +18,7 @@
 [[Holiday Template]]
 # Items
 [[Item of Importance Template]]
-
+[[Notable Item Template]]
 # Story
 [[Plot Hook Template]]
 [[Prep Template]]

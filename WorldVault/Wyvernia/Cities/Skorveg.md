@@ -2,13 +2,15 @@
 tags:
   - city
 ---
-> Description of the town and its design inspirations, describe the quality of the buildings, the state they are in and their influence
+> A large walled off trade city, 
 
 ## Population
 ~1000 residence
 - [[Human]] -> Common
-- [[Elf]] -> Uncommon
-- 
+- [[Elf]] -> Rare
+- [[Half-elf]] -> Uncommon
+- [[Halfling]] -> Uncommon
+- [[Half-orc]] -> Rare
 ## Places to Eat
 [[Singing Siren]]
 ## Places to Sleep
@@ -18,3 +20,4 @@ tags:
 ## Places to Spend
 
 ## Primary Export
+[[Skorveg Beer]]

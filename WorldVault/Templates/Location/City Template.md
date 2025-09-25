@@ -2,6 +2,8 @@
 
 ## Population
 This is where you describe the type of races, along side how common it is to come across one and est population amount (Common, Uncommon, Rare).
+## Primary Export
+
 
 ## Places to Eat
 
@@ -11,4 +13,5 @@ This is where you describe the type of races, along side how common it is to com
 
 ## Places to Spend
 
-## Primary Export
+## Places of Interest
+

@@ -3,6 +3,8 @@
 Have a picture to show to your players so you can help them personify the character
 ## How to play
 This is where you describe the accent and speaking mannerisms that the character would describe
+## Geography
+Where is this person a resident or introduced and what is their race
 ## Relationships
 This is where you put any characters (PC or NPC) that has interacted with the character in any way, linking any notes from previous session notes and current standing with
 Example:
