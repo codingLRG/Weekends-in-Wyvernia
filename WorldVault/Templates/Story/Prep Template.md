@@ -20,19 +20,10 @@ Back to the master doc: [[Session Master Doc]]
 - Location B
 	- Actor 3
 	- Actor 4
-## Chapter Title
-### Scene A
-- Location A
-	- Actor 1
-	- Actor 2
-- Location B
-	- Actor 3
-	- Actor 4
-### Scene B
-- Location A
-	- Actor 1
-	- Actor 2
-- Location B
-	- Actor 3
-	- Actor 4
+## Encounter
+### Stakes
+### Action
+### Visceral Detail
+### Escalation
+
 ## In Session Notes
