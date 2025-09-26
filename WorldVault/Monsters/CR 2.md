@@ -1,0 +1,2 @@
+[[Lizardfolk Shaman]]
+[[Quaggoth]]
