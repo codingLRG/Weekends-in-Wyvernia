@@ -3,7 +3,7 @@
 Lately the residences and [[City Guard]] of [[Skorveg]] have noticed a surge in violent crimes and forged [[Skorveg Entry Ticket]]
 ## Key Characters
 - [[Pixie Dust Bust BBEG]]
-- 
+- [[Roger Pirate Character]]
 ## Key Locations
 - [[Skorveg]]
 	- [[Pixie Dust BBEG Lair]]
