@@ -8,3 +8,5 @@
 - [[Tiefling]]
 - [[Dragonborn]]
 - [[Plasmoid]]
+- [[Giant]]
+- [[Fey]]
