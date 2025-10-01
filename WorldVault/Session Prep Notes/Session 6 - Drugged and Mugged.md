@@ -1,13 +1,24 @@
 Back to the master doc: [[Sessions - Master]]
 ## Introduction
 ### Session Description
-After the gang's arrival at the town
-
+After [[PCs - Master|the gang]]'s arrival at the town,  
+- [ ] Alice
+- [ ] Angel
+- [ ] Cameron
+- [ ] Isaac
+- [x] Jose
+- [x] Roger
 ### Opening Monologue
 > Rev up those friers 
 
 ## Jailhouse
-The party is called into questioning regarding the [[Halfling]] bandit possession of [[Pixie Dust]], reveal dealers location either by getting it out of the 
+The party is called into questioning regarding the [[Halfling Bandits]] possession of [[Pixie Dust]]
+### Purpose
+- [ ] Gain knowledge from guards of [[Infamous Pirate]] involvement
+- [ ] Gain knowledge from [[Halfling Bandits]] of illegal [[Gambling]] ring 
+- [ ] Gain knowledge of dealer's whereabouts of [[Lizardfolk Shaman]]
+- [ ] 
+## Gambling Ring 
 ## Encounter
 - 3x [[Spy]]
 - [[Lizardfolk Shaman]]

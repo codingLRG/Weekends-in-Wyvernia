@@ -20,6 +20,7 @@
 # Items
 [[Item of Importance Template]]
 [[Notable Item Template]]
+[[Curses Template]]
 # Story
 [[Plot Hook Template]]
 [[Prep Template]]
