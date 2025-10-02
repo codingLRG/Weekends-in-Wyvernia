@@ -4,8 +4,8 @@ Back to the master doc: [[Sessions - Master]]
 After [[PCs - Master|the gang]]'s arrival at the town,  
 - [ ] Alice
 - [ ] Angel
-- [ ] Cameron
-- [ ] Isaac
+- [x] Cameron
+- [x] Isaac
 - [x] Jose
 - [x] Roger
 ### Opening Monologue
@@ -17,8 +17,10 @@ The party is called into questioning regarding the [[Halfling Bandits]] possessi
 - [ ] Gain knowledge from guards of [[Infamous Pirate]] involvement
 - [ ] Gain knowledge from [[Halfling Bandits]] of illegal [[Gambling]] ring 
 - [ ] Gain knowledge of dealer's whereabouts of [[Lizardfolk Shaman]]
-- [ ] 
-## Gambling Ring 
+- [ ] Introduce a [[goblin tinker]] in a jail cell
+- [ ] Have [[Isaac|Steeve]] be given the opportunity to fool the [[Halfling Bandits]] to act as the head  
+
+## Dealer's Drop-off
 ## Encounter
 - 3x [[Spy]]
 - [[Lizardfolk Shaman]]
