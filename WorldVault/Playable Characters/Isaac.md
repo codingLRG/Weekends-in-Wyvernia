@@ -2,6 +2,8 @@
 aliases:
   - Steeve
 ---
+## Race
+[[Dwarf]]
 ## Background
 [[Isaac|Steeve]] didn't get to indulge in many personal interest growing up since he was trained as a soldier from an early age. Since his retirement, [[Isaac|Steeve]]'s began studying about [[Giant|Giants]] given their similarity to [[Dwarf|Dwarves]] (swing big thing for big damage) and believes he can improve on their fighting tactics even with his smaller size. [[Amnesia|Head trauma]] from previous battles has worsened his thinking ability, but occasionally he'll form a decent idea; ie. he a little dumb, but he got the spirit.
 ## Goals

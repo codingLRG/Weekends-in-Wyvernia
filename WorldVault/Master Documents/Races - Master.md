@@ -10,3 +10,4 @@
 - [[Plasmoid]]
 - [[Giant]]
 - [[Fey]]
+- [[Goblin]]

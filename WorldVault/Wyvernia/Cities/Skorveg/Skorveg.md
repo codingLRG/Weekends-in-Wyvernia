@@ -21,3 +21,7 @@ tags:
 [[Grand Distillery]]
 ## Primary Export
 [[Skorveg Beer]]
+
+## Other Buildings
+[[Abandoned Building]]
+

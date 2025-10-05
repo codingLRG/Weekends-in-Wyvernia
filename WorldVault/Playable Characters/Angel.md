@@ -2,6 +2,8 @@
 aliases:
   - Mirnes
 ---
+## Race
+[[Dragonborn]]
 ## Background
 [[Angel|Mirnes]] was born into a warrior clan, but was a terrible fighter. With no competent combat prowess she was ostracized. Then the [[Mirnes's Mentor|clan's shaman]] took her in as an apprentice feeling her talents lies elsewhere. Throughout her time there she would write down all of her mentor's knowledge and teachings in a [[Mirnes's Journal|book]]. Even with the teaching could only cast the beginner spells. So her mentor told her to leave the clan and explore the world to master his teachings. Later that night she while she was asleep something happened but she has no clue what as when she woke up she was in [[Lost|unknown territory]]. So her journey starts.  
 ## Goal

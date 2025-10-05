@@ -2,6 +2,8 @@
 aliases:
   - Anta
 ---
+## Race
+[[Plasmoid]]
 ## Background
 Coming from a [[Civil-War-Torn Planet]], the deserter [[Cameron|Anta]] crash landed years ago. With little to his name, he used the natural resources to dye himself white and begin life anew. Though, [[Running from the Past|life has a funny way of catching up]]
 ## Goals
