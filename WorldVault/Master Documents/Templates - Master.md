@@ -7,7 +7,6 @@
 # Location
 [[Continent Template]]
 [[City Template]]
-[[Town Template]]
 [[Tribe Template]]
 [[Building Template]]
 [[Dungeon Template]]

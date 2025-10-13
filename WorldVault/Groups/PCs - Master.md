@@ -3,5 +3,5 @@
 [[Isaac|Steeve]]
 [[Jose|John "Ranger" Booth]]
 [[Cameron|Anta]]
-[[Angel]]
+[[Angel|Mirnes]]
 

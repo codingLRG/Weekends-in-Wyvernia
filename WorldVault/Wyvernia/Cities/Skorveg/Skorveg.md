@@ -11,17 +11,17 @@ tags:
 - [[Half-elf]] -> Uncommon
 - [[Halfling]] -> Uncommon
 - [[Half-orc]] -> Rare
-## Places to Eat
-[[Singing Siren]]
-## Places to Sleep
-[[The Hearth]]
-## Places to Relax
-[[Sko's Grand Library]]
-## Places to Spend
-[[Grand Distillery]]
-## Primary Export
+## Government
+[[Sko Manor]]
+## Underground Happenings
+[[Inner Circle]]
+## Altars
+[[Paladine - Religion]]
+## Resources
 [[Skorveg Beer]]
-
-## Other Buildings
-[[Abandoned Building]]
-
+## Defenses
+[[Skorveg Guard Post]]
+[[Skorveg Naval Fleet]]
+## Social Hubs
+[[Singing Siren]]
+[[The Hearth]]

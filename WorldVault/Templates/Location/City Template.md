@@ -2,16 +2,10 @@
 
 ## Population
 This is where you describe the type of races, along side how common it is to come across one and est population amount (Common, Uncommon, Rare).
-## Primary Export
-
-
-## Places to Eat
-
-## Places to Sleep
-
-## Places to Relax
-
-## Places to Spend
-
-## Places of Interest
+## Government
+## Underground Happenings
+## Altars
+## Resources
+## Defenses
+## Social Hubs
 
