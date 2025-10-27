@@ -25,14 +25,12 @@
             "id": "3b0e58712fdf2a95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Ass Pull/Location Names.md",
-                "mode": "source",
-                "source": false
+                "file": "Attatchments/bank-inspo.webp"
               },
-              "icon": "lucide-file",
-              "title": "Location Names"
+              "icon": "lucide-image",
+              "title": "bank-inspo"
             }
           },
           {
@@ -185,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ass Pull/Location Names.md",
+                "file": "Attatchments/bank-inspo.webp",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Location Names"
+              "title": "Outline of bank-inspo"
             }
           }
         ],
@@ -212,10 +210,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "3b0e58712fdf2a95",
+  "active": "4a1006b2e44e8e16",
   "lastOpenFiles": [
-    "Ass Pull/Character Names.md",
     "Ass Pull/Location Names.md",
+    "Attatchments/bank-inspo.webp",
+    "Ass Pull/Character Names.md",
     "Ass Pull/Untitled.md",
     "Session Prep Notes/Session 6.5 - Jose's Combat at the Inn.md",
     "Ass Pull",
@@ -240,7 +239,6 @@
     "Master Documents/Templates - Master.md",
     "Groups/PCs - Master.md",
     "party members.md",
-    "Wyvernia/Cities/Skorveg/Buildings/The Hearth.md",
     "Groups",
     "Curses",
     "Religions/Ideologies",
