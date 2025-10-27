@@ -25,12 +25,14 @@
             "id": "3b0e58712fdf2a95",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attatchments/bank-inspo.webp"
+                "file": "Attatchments/Link.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "bank-inspo"
+              "icon": "lucide-file",
+              "title": "Link"
             }
           },
           {
@@ -183,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attatchments/bank-inspo.webp",
+                "file": "Attatchments/Link.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bank-inspo"
+              "title": "Outline of Link"
             }
           }
         ],
@@ -210,11 +212,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "4a1006b2e44e8e16",
+  "active": "3b0e58712fdf2a95",
   "lastOpenFiles": [
+    "Attatchments/bank-inspo.webp",
+    "Attatchments/Link.md",
     "Attatchments/jenny-harder-tavern-small-day-1.jpg",
     "Ass Pull/Location Names.md",
-    "Attatchments/bank-inspo.webp",
     "Ass Pull/Character Names.md",
     "Ass Pull/Untitled.md",
     "Session Prep Notes/Session 6.5 - Jose's Combat at the Inn.md",
@@ -239,7 +242,6 @@
     "Templates/Location/Town Template.md",
     "Master Documents/Templates - Master.md",
     "Groups/PCs - Master.md",
-    "party members.md",
     "Groups",
     "Curses",
     "Religions/Ideologies",
