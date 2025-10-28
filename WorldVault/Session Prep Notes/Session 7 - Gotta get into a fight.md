@@ -13,3 +13,5 @@ I want the party to get into a combat scenario
 - Location B
 	- Actor 3
 	- Actor 4
+[[Bandit Captain]]
+2x [[Thug]]
