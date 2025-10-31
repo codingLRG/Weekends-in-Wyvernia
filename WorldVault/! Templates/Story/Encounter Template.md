@@ -10,3 +10,5 @@ What is stopping them from standing still and attacking
 What is giving the scene uniqueness
 #### Escalation
 What happens if the players are winning too hard
+#### Reward
+What loot/loot table do the party get as a reward

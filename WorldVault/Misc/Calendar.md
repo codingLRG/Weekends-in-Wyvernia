@@ -20,3 +20,19 @@
     - [Feast of the Moon](https://forgottenrealms.fandom.com/wiki/Feast_of_the_Moon "Feast of the Moon") between [Uktar 30](https://forgottenrealms.fandom.com/wiki/Uktar_30 "Uktar 30") and [Nightal 1](https://forgottenrealms.fandom.com/wiki/Nightal_1 "Nightal 1")
 - Nightal, "The Drawing Down", the twelfth month
     - [Winter Solstice](https://forgottenrealms.fandom.com/wiki/Winter_Solstice "Winter Solstice") on [Nightal 20](https://forgottenrealms.fandom.com/wiki/Nightal_20 "Nightal 20")
+
+
+| Months        | DnD Alt   | Nicknames           |
+| ------------- | --------- | ------------------- |
+| 01. January   | Hammer    | Deepwinger          |
+| 02. February  | Alturiak  | The Claw of Winter  |
+| 03. March     | Ches      | The Claw of Sunsets |
+| 04. April     | Tarsakh   | The Claw of Storms  |
+| 05. May       | Mirtul    | The Melting         |
+| 06. June      | Kythorn   | The Time of Flowers |
+| 07. July      | Flamerule | Summertide          |
+| 08. August    | Eleasis   | -                   |
+| 09. September | Eleint    | -                   |
+| 10. October   | Marpenoth | Leaffall            |
+| 11. November  | Uktar     | The Rotting         |
+| 12. December  | Nightal   | The Drawing Down    |
