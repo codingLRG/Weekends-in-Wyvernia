@@ -1,4 +1,5 @@
 Back to the master doc: [[Sessions - Master]]
+[[Calendar]]
 ## Introduction
 ### Session Description
 
@@ -20,15 +21,6 @@ Back to the master doc: [[Sessions - Master]]
 - Location B
 	- Actor 3
 	- Actor 4
-## Encounter
-### Stakes
-What are the heroes fighting for
-What happens if they lose
-### Action
-What is stopping them from standing still and attacking
-### Visceral Detail
-What is giving the scene uniqueness
-### Escalation
-What happens if the players are winning too hard
+
 
 ## In Session Notes

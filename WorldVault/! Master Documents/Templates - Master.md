@@ -24,3 +24,4 @@
 [[Plot Hook Template]]
 [[Prep Template]]
 [[Lore Template]]
+[[Encounter Template]]

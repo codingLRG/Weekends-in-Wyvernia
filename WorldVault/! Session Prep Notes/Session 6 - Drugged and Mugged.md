@@ -17,5 +17,5 @@ With enough prying, they talk about how [[Lizardfolk Shaman]] leaves notes in [[
 Offered 500 gold pieces for the head of the [[Pixie Dust]] head
 40 GP for the pony armor - offered 10GP to hold it for 7 days
 Anta Casper 
-69420 Elven Rd
-[[Angel|Mirnes]] and [[Cameron|Anta]] are at the bank, [[Jose|John "Ranger" Booth]] is headed towards the in and [[Alice|Sylvy]] [[Roger|Casper]] and [[Isaac|Steeve]] head to the farm land
+69420 Elven Rd - Halflings Home
+[[Angel|Mirnes]] and [[Cameron|Anta]] are at [[the bank]], [[Jose|John "Ranger" Booth]] is headed towards [[The Hearth]] and [[Alice|Sylvy]] [[Roger|Casper]] and [[Isaac|Steeve]] head to the [[farm land]]
