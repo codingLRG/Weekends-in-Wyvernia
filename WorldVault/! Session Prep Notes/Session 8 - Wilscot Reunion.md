@@ -16,6 +16,9 @@ Back to the master doc: [[Sessions - Master]]
 [[Alice|Sylvy]]
 [[Roger|Casper]]
 ### Roleplay Encounter - Meeting at the farmland
+- [x] [[Wilscot|Wilscot's]] friend [[Kasmere Tidetrout]] is currently missed his reunion party - [[Kasmere Tidetrout's Disappearance]]
+- [ ] [[Tuk-tuk]] talks about wanting to join the [[Adventurers Tournament]]
+- [ ] 
 - Barley Field
 	- [[Tuk-tuk]]
 	- [[Tuk-tuk's Dad]]
@@ -28,23 +31,39 @@ Back to the master doc: [[Sessions - Master]]
 ### Encounter - EXPECTED DIFFICULTY
 https://kastark.co.uk/rpgs/encounter-calculator-5th/
 https://www.aidedd.org/dnd-filters/monsters.php
-#### Stakes
-What are the heroes fighting for
-What happens if they lose
-#### Action
-What is stopping them from standing still and attacking
-#### Visceral Detail
-What is giving the scene uniqueness
-#### Escalation
-What happens if the players are winning too hard
 
-### Scene B
-- Location A
-	- Actor 1
-	- Actor 2
-- Location B
-	- Actor 3
-	- Actor 4
+[[Ochre Jelly]]
+[[Gray Ooze]]
+#### Stakes
+The barley fields will become tainted causing a zombie encounter in the future
+#### Action
+[[Ochre Jelly]] make their way through the field
+#### Visceral Detail
+The Jelly bursts out of the back of the carriage
+#### Escalation
+[[Gibbering Mouther]] 
+
+### Encounter - EXPECTED DIFFICULTY
+https://kastark.co.uk/rpgs/encounter-calculator-5th/
+https://www.aidedd.org/dnd-filters/monsters.php
+
+[[Bandit Captain]]
+2x [[Thug]]
+#### Stakes
+Everyone at [[The Hearth]] is being threatened to death
+#### Action
+The mercenaries will make their way to commoners
+#### Visceral Detail
+The Jelly bursts out of the back of the carriage
+#### Escalation
+[[Gibbering Mouther]] 
+
 
 
 ## In Session Notes
+Harry Potter
+10 GPs
+Gun misfires
+[[Alice|Sylvy]] falls unconscious
+No NPCs died
+Did not meet Tuk Tuk
