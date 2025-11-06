@@ -11,16 +11,21 @@
 ## Chapter Title
 [[Encounter Template]]
 ### Guards crash the party
-- [ ] Have guards interrogate [[PCs - Master]]
-- [ ] Have [[Amal]] step up for the [[PCs - Master]] and pledge a life debt to [[Jose|John "Ranger" Booth]]
+- [x] Have guards interrogate [[PCs - Master]]
+- [x] Have [[Amal]] step up for the [[PCs - Master]] and pledge a life debt to [[Jose|John "Ranger" Booth]]
 - [ ] Discuss about [[Aerdrie Faenya]] followers would be celebrating [[Dance of the Swirling Winds]]
-- [ ] Have a party
-- [ ] Have a nightmare sequence
-	- [ ] [[Cameron|Anta]]: A [[meteor crashes]] and causes a large explosion
-	- [ ] [[Angel|Mirnes]]: A [[Dragonborn]] heard walks to a [[Burning Wizard Tower]]
-	- [ ] [[Jose|John "Ranger" Booth]]: A [[Werebear|a battle worn, deformed bear]] feasts over an unidentifiable corpse
+- [x] Have a party
+- [x] Have a nightmare sequence
+	- [x] [[Cameron|Anta]]: A [[meteor crashes]] and causes a large explosion
+	- [x] [[Angel|Mirnes]]: A [[Dragonborn]] heard walks to a [[Burning Wizard Tower]]
+	- [x] [[Jose|John "Ranger" Booth]]: A [[Werebear|a battle worn, deformed bear]] feasts over an unidentifiable corpse
+	- [x] [[Roger|Casper]]: Stranded in the ocean, a island a giant tentacle creature eats you whole
+	- [x] [[Isaac|Steeve]]: In the battlefield of a desert landscape, you hold the wound shut of an ally, 
 ### Loot
-- [ ] [[Loaded Dice]]
-- [ ] [[Dread Helm]]
+- [x] [[Loaded Dice]]
+- [x] [[Dread Helm]]
 
 ## In Session Notes
+Make Fire Rune Stone - Pocket warmer 
+Caspa fooled [[Ezeequel]]
+Vanta is [[Cameron|Anta]] twin
