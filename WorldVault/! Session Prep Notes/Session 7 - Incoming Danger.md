@@ -64,7 +64,7 @@ Make a song for [[Cameron|Anta]] and [[Angel|Mirnes]]
 [[Angel|Mirnes]] remembered their birth
 They gained a map
 
-Amal - Redheaded Fisherman and Heva - Southern Cowgirl
+[[Amal]] - Redheaded Fisherman and Heva - Southern Cowgirl
 
 Leovigild - Eskalag
 - Yelled about swapping dice
