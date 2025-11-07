@@ -8,12 +8,13 @@
 
 ### Opening Monologue
 > Night ensues over, it is **Eleint (pronounced: eh-LAYNT) 21st** in [[Skorveg]]
-## Chapter Title
+## Party at the Hearth
+[[Roger|Casper]]
+
 [[Encounter Template]]
 ### Guards crash the party
 - [x] Have guards interrogate [[PCs - Master]]
 - [x] Have [[Amal]] step up for the [[PCs - Master]] and pledge a life debt to [[Jose|John "Ranger" Booth]]
-- [ ] Discuss about [[Aerdrie Faenya]] followers would be celebrating [[Dance of the Swirling Winds]]
 - [x] Have a party
 - [x] Have a nightmare sequence
 	- [x] [[Cameron|Anta]]: A [[meteor crashes]] and causes a large explosion
@@ -27,5 +28,5 @@
 
 ## In Session Notes
 Make Fire Rune Stone - Pocket warmer 
-Caspa fooled [[Ezeequel]]
+[[Roger|"Caspa"]] fooled [[Ezeequel]]
 Vanta is [[Cameron|Anta]] twin

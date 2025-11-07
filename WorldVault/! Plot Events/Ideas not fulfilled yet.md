@@ -1,0 +1,2 @@
+- [ ] [[Tuk-tuk]] talks about wanting to join the [[Adventurers Tournament]]
+- [ ] [[PCs - Master]] join the [[Adventurers Tournament]]

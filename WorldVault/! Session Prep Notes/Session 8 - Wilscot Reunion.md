@@ -17,7 +17,7 @@ Back to the master doc: [[Sessions - Master]]
 [[Roger|Casper]]
 ### Roleplay Encounter - Meeting at the farmland
 - [x] [[Wilscot|Wilscot's]] friend [[Kasmere Tidetrout]] is currently missed his reunion party - [[Kasmere Tidetrout's Disappearance]]
-- [ ] [[Tuk-tuk]] talks about wanting to join the [[Adventurers Tournament]]
+
 - [ ] 
 - Barley Field
 	- [[Tuk-tuk]]
