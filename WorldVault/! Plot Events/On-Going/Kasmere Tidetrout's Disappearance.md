@@ -6,7 +6,7 @@
 	- hidden compartment in his primary place of residence
 	- childhood friends with [[Wilscot]], got distant after some legal trouble and adventuring life
 	- 
-- [ ] [[PCs - Master]] figures out [[Kasmere Tidetrout]] was murdered because of an object he stole
+- [x] [[PCs - Master]] figures out [[Kasmere Tidetrout]] was murdered because of an object he stole
 	- Thieves Cant in place of murder
 	- Underground ally
 - [ ] [[PCs - Master]] figure out whoever killed [[Kasmere Tidetrout]] didn't get the stolen object
