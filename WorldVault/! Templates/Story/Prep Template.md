@@ -1,31 +1,23 @@
 Back to the master doc: [[Sessions - Master]]
 [[Calendar Events - Master]]
-## Introduction
-### Upcoming Events (1 Week)
-### Session Description
-
-### Opening Monologue
+# Opening Monologue
 > Rev up those friers 
-## Chapter Title
+# Prepared Content
 [[Encounter Template]]
-### Scene A
-- PC 1
-- PC 2
+- [ ] Goal 1
+- [ ] Goal 2
+## Scene A
 - Location A
 	- NPC 1
 	- NPC 2
 - Location B
 	- NPC 3
 	- NPC 4
-### Scene B
-- PC 1
-- PC 2
+## Scene B
 - Location A
 	- NPC 1
 	- NPC 2
 - Location B
 	- NPC 3
 	- NPC 4
-
-
-## In Session Notes
+# In Session Notes
