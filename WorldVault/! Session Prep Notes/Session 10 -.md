@@ -8,15 +8,15 @@ Back to the master doc: [[Sessions - Master]]
 | 24  | [[Gambling Hall Raid]]                                                            |
 | 25  | [[Adventurers Tournament]]                                                        |
 [[Encounter Template]]
-# A Bump in the Night
-- [[Jose|John "Ranger" Booth]]
- > Have a encounter happen in the middle of the night to be intercepted by the ranger
-- [ ] Have a shadow figure break into the inn
-- [ ] Present the option to interrupt their long rest
-	- Will have to reset long rest for the rest of the party
-	- If the party does not rest, they suffer a level of exhaustion
-- [ ] Remove the disguise self spell from [[Alice|Sylvy]]
+
 # [[Kasmere Tidetrout's Disappearance]]
 - [[PCs - Master]]
-- [ ] 
+- [x] [[Kasmere Tidetrout]] lives on the northern side of town
 # In Session Notes
+4 Bottles from [[Roger|Casper]]
+2560 Diddly Nut
+[[Roger|Casper]] saved [[Jose|John "Ranger" Booth]] fumbling the deal
+[[Roger|Casper]] finds Kilfarn 
+Cursed Skull of a trapped devil
+- A scratching sensation fill the back of your mind, the room turns dark, and the skull becones 
+10:00AM end session time
