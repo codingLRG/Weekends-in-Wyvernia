@@ -13,7 +13,10 @@ Back to the master doc: [[Sessions - Master]]
 [[Encounter Template]]
 - [ ] [[Alice|Sylvy]] confrontation with [[The Ancient One|her patron]] 
 	- [ ] Threaten her families lifespan
-	- [ ] Establish that patrons are destined to dream forever so they grant them more powers
+	- [ ] Bring up how patrons are formed by ideas
+	- [ ] Establish that patrons' followers are destined to dream forever
+	- [ ] Give reason patron kill other patron's cultists
+		- [ ] To embolden their ideals
 - [ ] Give them a [[Lantern of Revealing]]
 	- [ ] Dead body in the marsh lands
 - [ ] Give them an encounter with a noble
