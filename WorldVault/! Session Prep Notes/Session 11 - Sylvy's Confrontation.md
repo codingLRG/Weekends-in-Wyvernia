@@ -12,8 +12,8 @@ Back to the master doc: [[Sessions - Master]]
 # Prepared Content
 [[Encounter Template]]
 - [ ] [[Alice|Sylvy]] confrontation with [[The Ancient One|her patron]] 
-	- [ ] Threaten her families lifespan
-	- [ ] Bring up how patrons are formed by ideas
+	- [x] Mock Ciel's death
+	- [x] Bring up how patrons are formed by ideas
 	- [ ] Establish that patrons' followers are destined to dream forever
 	- [ ] Give reason patron kill other patron's cultists
 		- [ ] To embolden their ideals
@@ -25,3 +25,9 @@ Back to the master doc: [[Sessions - Master]]
 	- [ ] Demonstrate the [[Pipe of Smoke Monsters]]
 	- [ ] Give a hint about a trader that so happens to be the [[Bard Character]]
 # In Session Notes
+10 gallon of Skorveg for 70 GP
+Compass - +1 to Survival with direction
+Skull Zaju
+Anta has the skull
+Anta's wand of secrets revealed the trap door
+Casper and Mirnes recognized that a red dragon hoard
