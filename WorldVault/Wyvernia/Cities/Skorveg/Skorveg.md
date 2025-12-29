@@ -16,7 +16,7 @@ tags:
 ## Underground Happenings
 [[Inner Circle]]
 ## Altars
-[[Paladine - Religion]]
+[[Paladine]]
 ## Resources
 [[Skorveg Beer]]
 ## Defenses

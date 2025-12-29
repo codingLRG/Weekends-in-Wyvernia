@@ -2,11 +2,12 @@
 tags:
   - continent
 ---
-## History
-## Cities
+# History
+# Cities
 [[Skorveg]]
-## Town
+# Town
 [[Dista]]
-## Tribes
-## Lairs
-## Religion
+# Tribes
+# Lairs
+
+# Religion

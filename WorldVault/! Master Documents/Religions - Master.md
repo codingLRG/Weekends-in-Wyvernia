@@ -1,1 +1,1 @@
-[[Paladine - Religion]]
+[[Paladine]]
