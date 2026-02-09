@@ -10,3 +10,6 @@ aliases:
 His goal is basically to travel around and meet other species (maybe be racist towards them too)
 ## Beliefs
 He believes in the protection of nature, and can sometimes be swayed by coin.
+
+# DM Notes
+Given [[lycanthropy]] and is a [[Werebear]]

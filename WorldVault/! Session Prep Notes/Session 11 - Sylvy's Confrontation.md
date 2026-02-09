@@ -20,14 +20,14 @@ Back to the master doc: [[Sessions - Master]]
 - [ ] Give them a [[Lantern of Revealing]]
 	- [ ] Dead body in the marsh lands
 - [ ] Give them an encounter with a noble
-	- [ ] Bring reference to the [[Druid Character]] 
+	- [ ] Bring reference to the [[Fabbio Otimorn - Wizard]] 
 - [ ] Give an encounter with [[Martha]]
 	- [ ] Demonstrate the [[Pipe of Smoke Monsters]]
-	- [ ] Give a hint about a trader that so happens to be the [[Bard Character]]
+	- [ ] Give a hint about a trader that so happens to be the [[Lanzu Brassmane - Bard]]
 # In Session Notes
 10 gallon of Skorveg for 70 GP
 Compass - +1 to Survival with direction
-Skull Zaju
+[[Skull Zaju]]
 Anta has the skull
 Anta's wand of secrets revealed the trap door
 Casper and Mirnes recognized that a red dragon hoard

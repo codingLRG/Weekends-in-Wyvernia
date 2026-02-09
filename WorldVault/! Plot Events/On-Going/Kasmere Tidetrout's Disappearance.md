@@ -1,15 +1,15 @@
 [[Kasmere Tidetrout]] has been assassinated after coming back from the other world continent with an important artifact by a previous party member, he is a [[Plasmoid]] as well
 # Hints
 - [ ] [[Kasmere Tidetrout]] keeps a record of his contracts, including the one he just came back from
-	- A request for a [[Rogue Character]], [[Druid Character]], [[Paladin Character]], and a [[Wizard Character]] 
+	- A request for a [[Rogue Character]], [[Fabbio Otimorn - Wizard]], [[Bidove Elmspark - Druid]], and a [[Baladin Coldtale - Paladin]] 
 	- Target is a relic of undisclosed origin
 	- Location will be discussed upon acceptance
 	- Seal of the [[Kilfarn]] 
-- [ ] [[Wizard Character]] attempted to keep the relic for themselves but [[Kasmere Tidetrout]] stole it
+- [ ] [[Baladin Coldtale - Paladin]] attempted to keep the relic for themselves but [[Kasmere Tidetrout]] stole it
 # Pointless Info
 - [ ] [[Kasmere Tidetrout]] keeps a journal of his travels
-- [ ] [[Paladin Character]] has a unbridled hatred for [[Kasmere Tidetrout]]
-- [ ] [[Druid Character]] has had an emotional connection with [[Kasmere Tidetrout]] 
+- [ ] [[Bidove Elmspark - Druid]] has a unbridled hatred for [[Kasmere Tidetrout]]
+- [ ] [[Fabbio Otimorn - Wizard]] has had an emotional connection with [[Kasmere Tidetrout]] 
 
 
 - [ ] [[PCs - Master]] find [[Kasmere Tidetrout]] body (where is his body?)
