@@ -3,10 +3,11 @@ tags:
   - session
 ---
 # Last Session Summary
->[[Alice|Sylvy]], [[Isaac|Steeve]] and [[Cameron|Anta]] fought along side [[Ezeequel]] and [[John the Guard]] to against some foreigner
+>[[Alice|Sylvy]], [[Isaac|Steeve]] and [[Cameron|Anta]] fought along side [[Ezeequel]] and [[John the Guard]] to against some foreigner while [[Jose|John "Ranger" Booth]] and [[Angel|Mirnes]] discover a dowry scheme from [[Explorers Merchant]]
 # Last Session Actors
 [[Ezeequel]]
 [[John the Guard]]
+[[Cee the Guard]]
 [[Orange robed man]]
 [[Explorers Merchant]]
 # Relevant Locations
@@ -16,8 +17,8 @@ tags:
 - [ ] Interrogate [[Orange robed man]] with [[Fabbio Otimorn - Wizard]] 
 	- [ ] [[The Astara]] (Astarian) -> his people
 - [ ] Meet up with [[Martha]] at the north side of [[Skorveg]]
-- [ ] Pull [[Roger|Casper]] away from the group with a message from a little boy and an envelope. 
-	- [ ] "The Captain sends his regards"
+- [x] Pull [[Roger|Casper]] away from the group with a message from a little boy and an envelope. 
+	- [x] "The Captain sends his regards"
 - [ ] 
 # Random Character Names
 ## Male
@@ -34,5 +35,11 @@ tags:
  - [ ] Dorrey Jacobs
 
 # In Session Notes
-
+[[Roger|Casper]] knocks out the kid messenger by kicking open a stall but receives the [[captains message]]
+[[Ezeequel]] walks off with [[Orange robed man]] to the jail after a frustrating confrontation with [[PCs - Master]]
+[[Isaac|Steeve]] tracked [[Roger|Casper]] by his shit smell
+[[Restkeeper's Aid]] is [[Fabbio Otimorn - Wizard]]'s clinic, [[Roger|Casper]] is banned, the kid messenger is left there 
+[[Jose|John "Ranger" Booth]] has 12 days to slay the [[Werebear]], heads towards [[Ocean District]] to find [[Niketas O'Neill]]
+Tab is 87, payed 35
+Short rest at [[The Hearth]], John not there
 # Post Session To-do
