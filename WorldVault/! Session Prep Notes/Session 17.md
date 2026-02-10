@@ -40,6 +40,16 @@ tags:
 [[Isaac|Steeve]] tracked [[Roger|Casper]] by his shit smell
 [[Restkeeper's Aid]] is [[Fabbio Otimorn - Wizard]]'s clinic, [[Roger|Casper]] is banned, the kid messenger is left there 
 [[Jose|John "Ranger" Booth]] has 12 days to slay the [[Werebear]], heads towards [[Ocean District]] to find [[Niketas O'Neill]]
-Tab is 87, payed 35
+Tab is 87, paid 35
 Short rest at [[The Hearth]], John not there
+Introduced the [[Skorveg]] pipe from [[Barnabus the Smith]] 
 # Post Session To-do
+- [ ] Create potential character sheets for the following
+	- [ ] [[Martha]]
+	- [ ] [[Fabbio Otimorn - Wizard]] -> Hold person
+	- [ ] [[Niketas O'Neill]]
+	- [ ] [[Limpy Tommand]]
+- [ ] Write [[Casper's Captain Reunion]] message
+	- [ ] What's the point of this?
+- [ ] [[Martha]] roleplay encounter
+- [ ] 

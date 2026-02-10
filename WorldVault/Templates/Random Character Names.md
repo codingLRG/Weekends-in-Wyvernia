@@ -1,5 +1,5 @@
 ## Male
-- [ ] Tommand Loingrey
+- [x] Tommand Loingrey
 - [ ] Aldrias Stark
 - [ ] Cinder Moonstep
 - [ ] Gut Presscoat
