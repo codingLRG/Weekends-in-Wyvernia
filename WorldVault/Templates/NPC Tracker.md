@@ -7,3 +7,4 @@
 | [[Tuk-tuk]]                 | Goblin |              |                     | Farmer        | Short stacked with grey hair and smokey  cracked goggles            | Scratchy     |
 | [[Limpy Tommand]]           | Human  |              |                     | Fisherman     | Fisherman who gives a limp when he walks due to a mistreated leg    | British      |
 | [[Fabbio Otimorn - Wizard]] |        |              |                     | Doctor        |                                                                     |              |
+|                             |        |              |                     |               |                                                                     |              |

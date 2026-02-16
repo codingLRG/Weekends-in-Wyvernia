@@ -8,5 +8,5 @@
  - [ ] Bryanne Tusk
  - [ ] Grezelda Wildflow
  - [ ] Arina Raven
- - [ ] 'Ori' Orriana Gassner
+ - [x] 'Ori' Orriana Gassner
  - [ ] Dorrey Jacobs
