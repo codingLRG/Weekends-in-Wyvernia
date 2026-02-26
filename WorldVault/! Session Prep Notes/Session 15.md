@@ -15,6 +15,6 @@ Back to the master doc: [[Sessions - Master]]
 [[Cameron|Anta]] can now freely talk to [[Skull Zaju]] with the construct deployed
 - Jose ration - elven bread called the health brick
 - Isaac shield - bought
-- Cameron wondrous item - found [[Lanzu Brassmane - Bard]]
+- Cameron wondrous item - found [[Lanzu Brassmane]]
 - Alice finds guards and tries to blend in with a foreign crowd  
 Isaac, Alice, Cameron are in combat with foreigners

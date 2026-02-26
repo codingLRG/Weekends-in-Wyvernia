@@ -8,8 +8,8 @@
 [[Alice|Sylvy]] failed the [[Skull Zaju]] con save again
 Drama between [[Martha]] and [[Wilscot]]
 List of potential adversaries
-- [[Fabbio Otimorn - Wizard]]  
+- [[Fabbio Otimorn]]  
 - [[Baladin Coldtale - Paladin]]  
 - [[Bidove Elmspark - Druid]]  
-- [[Lanzu Brassmane - Bard]]
+- [[Lanzu Brassmane]]
 Told the story of [[Paladine]] and [[Takhisis]]

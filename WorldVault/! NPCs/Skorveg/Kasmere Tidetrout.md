@@ -1,7 +1,7 @@
 Rogue and collector of cursed objects 
 
 ## Connections
-- [[Fabbio Otimorn - Wizard]]
+- [[Fabbio Otimorn]]
 - [[Baladin Coldtale - Paladin]]
 - [[Bidove Elmspark - Druid]]
-- [[Lanzu Brassmane - Bard]]
+- [[Lanzu Brassmane]]

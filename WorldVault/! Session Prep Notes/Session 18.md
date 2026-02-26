@@ -9,7 +9,7 @@ tags:
 - [[kid messenger]]
 - [[Ezeequel]]
 - [[Orange robed man]]
-- [[Fabbio Otimorn - Wizard]]
+- [[Fabbio Otimorn]]
 - [[Barnabus the Smith]]
 - [[The Hearth Innkeeper]]
 # Relevant Locations
