@@ -1,5 +1,5 @@
 ## Male
-- [x] Tommand Loingrey
+- [ ] Adam Blink
 - [ ] Aldrias Stark
 - [ ] Cinder Moonstep
 - [ ] Gut Presscoat
@@ -8,5 +8,5 @@
  - [ ] Bryanne Tusk
  - [ ] Grezelda Wildflow
  - [ ] Arina Raven
- - [x] 'Ori' Orriana Gassner
+ - [ ] 'Catnip' Katrina Nipton
  - [ ] Dorrey Jacobs

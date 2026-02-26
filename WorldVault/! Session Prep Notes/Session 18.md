@@ -41,3 +41,6 @@ Took 5x Common Wine, adding 1gp to debt
 - Leather flask with silver dragon spicket 
 [[Isaac|Steeve]] and [[Alice|Sylvy]] stepped on a stick alerting the goblins
 # Post Session To-do
+- [ ] Finalize Goblin fight
+- [ ] Do [[Niketas O'Neill]] dialogue
+- [ ] Incorporate [[Amal]]
