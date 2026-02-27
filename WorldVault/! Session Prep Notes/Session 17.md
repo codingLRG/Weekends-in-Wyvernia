@@ -35,7 +35,7 @@ tags:
  - [ ] Dorrey Jacobs
 
 # In Session Notes
-[[Roger|Casper]] knocks out the [[kid messenger]] by kicking open a stall but receives the [[captains message]]
+[[Roger|Casper]] knocks out the [[kid messenger]] by kicking open a stall but receives the [[Captains Message]]
 [[Ezeequel]] walks off with [[Orange robed man]] to the jail after a frustrating confrontation with [[PCs - Master]]
 [[Isaac|Steeve]] tracked [[Roger|Casper]] by his shit smell
 [[Restkeeper's Aid]] is [[Fabbio Otimorn]]'s clinic, [[Roger|Casper]] is banned, the kid messenger is left there 

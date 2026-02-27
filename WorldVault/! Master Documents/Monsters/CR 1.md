@@ -1,3 +1,0 @@
-[[Duergar]] 
-[[Spy]]
-[[Dryad]]

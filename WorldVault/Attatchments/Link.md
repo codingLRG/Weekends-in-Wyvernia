@@ -1,1 +1,0 @@
-https://payday.fandom.com/wiki/Category:Pre-Planning_Images

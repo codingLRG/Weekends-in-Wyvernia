@@ -18,7 +18,7 @@ tags:
 - [ ] [[Martha]] navigation
 	- [ ] Potential Goblin Encounter
 - [ ] [[Jose|John "Ranger" Booth]] encounter with [[Niketas O'Neill]] and [[Ori Gassner]]
-- [ ] Read have [[Roger|Casper]] [[captains message]]
+- [ ] Read have [[Roger|Casper]] [[Captains Message]]
 - [ ] 
 # Random Character Names
 ## Male

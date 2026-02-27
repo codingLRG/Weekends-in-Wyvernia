@@ -2,26 +2,33 @@
 tags:
   - city
 ---
-> A large walled off trade city, 
+> Skorveg: City of Seas
 
-## Population
-~1000 residence
-- [[Human]] -> Common
-- [[Elf]] -> Rare
-- [[Half-elf]] -> Uncommon
-- [[Halfling]] -> Uncommon
-- [[Half-orc]] -> Rare
-## Government
-[[Sko Manor]]
-## Underground Happenings
-[[Inner Circle]]
-## Altars
-[[Paladine]]
-## Resources
-[[Skorveg Beer]]
-## Defenses
-[[Skorveg Guard Post]]
-[[Skorveg Naval Fleet]]
-## Social Hubs
-[[Singing Siren]]
-[[The Hearth]]
+# City Map: 
+![[Skorveg-Labeled.png]]
+
+
+# Locations
+
+| Location                 | Use                        | Brief Descriptor |
+| ------------------------ | -------------------------- | ---------------- |
+| [[Paladine Chapel]]      | [[Altars]]                 |                  |
+| [[Skorveg Wall Guild]]   | [[Defenses]]               |                  |
+| [[Southern Jailhouse]]   | [[Defenses]]               |                  |
+| [[Northern Jainhouse]]   | [[Defenses]]               |                  |
+| [[Sko Manor]]            | [[Government]]             |                  |
+| [[Ocean District]]       | [[Resources]]              |                  |
+| [[Skorveg Barley Field]] | [[Resources]]              |                  |
+| [[Restkeeper's Aid]]     | [[Resources]]              |                  |
+| [[Skorveg Bank]]         | [[Resources]]              |                  |
+| [[Market District]]      | [[Resources]]              |                  |
+| [[The Hearth]]           | [[Social Hubs]]            |                  |
+| [[Singing Siren]]        | [[Social Hubs]]            |                  |
+| [[Ugly Devils ]]         | [[Underground Happenings]] |                  |
+
+# RNG Discover Race
+
+| Roll Range | Race |
+| ---------- | ---- |
+|            |      |
+|            |      |

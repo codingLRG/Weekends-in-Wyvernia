@@ -1,1 +1,0 @@
-John's conscience, dies every full moon, comes back on a new moon, remembers dying 
