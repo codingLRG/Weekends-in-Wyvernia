@@ -4,8 +4,9 @@ aliases:
 tags:
   - NPCs
 ---
-# Martha
-
+> **Martha Strout**
+> Race, Size
+> [Gold Dragon Wyrmling](https://5e.tools/bestiary.html#gold%20dragon%20wyrmling_xmm )
 ## Motivations
 
 | What do they want?                               | How do they do it?                                                  | What is stopping them?                                                                               |

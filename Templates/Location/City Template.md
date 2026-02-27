@@ -5,11 +5,11 @@ tags:
 
 > {{title}}: City of (ie The City of Gold)
 
-# City Map: 
+# City Map
 
 # Locations
 
-| Location | Use                        | Brief Descriptor |
+| Location | Category                   | Brief Descriptor |
 | -------- | -------------------------- | ---------------- |
 |          | [[Government]]             |                  |
 |          | [[Underground Happenings]] |                  |
@@ -24,3 +24,9 @@ tags:
 | ---------- | ---- |
 |            |      |
 |            |      |
+
+# History
+
+| Date | Name | Descriptor |
+| ---- | ---- | ---------- |
+|      |      |            |
