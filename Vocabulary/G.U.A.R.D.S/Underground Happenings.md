@@ -1,0 +1,2 @@
+# Underground Activities
+> Every fantasy town harbors secrets, from discrete fences in alleyways to expansive thieves' guilds, every town need a place where you can talk to a shady character outside the law's watchful eye

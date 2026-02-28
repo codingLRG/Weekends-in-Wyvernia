@@ -1,2 +1,0 @@
-# Altars
-> Whether it's a simple shrine in a small town or a majestic cathedral, the town needs a place where the locals can worship the divine. Here you can get leads from not only the locals but from the deities that they serve.

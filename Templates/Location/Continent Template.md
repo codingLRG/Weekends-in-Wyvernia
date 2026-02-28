@@ -7,20 +7,20 @@ tags:
 
 # Civilizations 
 
-| Name | Coordinate | Descriptor |
-| ---- | ---------- | ---------- |
-|      |            |            |
+| Coordinate | Name | Descriptor |
+| ---------- | ---- | ---------- |
+|            |      |            |
 
 # Dungeons
 
-| Name | Coordinate | Descriptor |
-| ---- | ---------- | ---------- |
-|      |            |            |
+| Coordinate | Name | Descriptor |
+| ---------- | ---- | ---------- |
+|            |      |            |
 # Natural Wonder
 
-| Name | Coordinate | Descriptor |
-| ---- | ---------- | ---------- |
-|      |            |            |
+| Coordinate | Name | Descriptor |
+| ---------- | ---- | ---------- |
+|            |      |            |
 
 # History
 | Date | Name | Descriptor |

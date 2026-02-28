@@ -1,2 +1,0 @@
-# Defenses
->Whether it's a sheriff's office in a small town or a military barrack for an army protecting a kingdom, every fantasy town needs some kind of safeguard. There is always a looming threat and the people you find here will be on the frontline of that conflict.

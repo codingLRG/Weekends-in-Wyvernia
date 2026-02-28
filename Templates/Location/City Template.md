@@ -9,14 +9,14 @@ tags:
 
 # Locations
 
-| Location | Category                   | Brief Descriptor |
-| -------- | -------------------------- | ---------------- |
-|          | [[Government]]             |                  |
-|          | [[Underground Happenings]] |                  |
-|          | [[Altars]]                 |                  |
-|          | [[Resources]]              |                  |
-|          | [[Defenses]]               |                  |
-|          | [[Social Hubs]]            |                  |
+| Coordinates | Location | Category                   | Brief Descriptor |
+| ----------- | -------- | -------------------------- | ---------------- |
+|             |          | [[Government]]             |                  |
+|             |          | [[Underground Happenings]] |                  |
+|             |          | [[Altars]]                 |                  |
+|             |          | [[Resources]]              |                  |
+|             |          | [[Defenses]]               |                  |
+|             |          | [[Social Hubs]]            |                  |
 
 # RNG Discover Race
 

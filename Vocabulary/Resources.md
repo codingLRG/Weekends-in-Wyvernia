@@ -1,2 +1,0 @@
-# Resources
->From bustling trade districts in grand kingdoms to quaint general stores in smaller settlements, there needs to be a place where the locals can trade services and information that the party can make use of on their journey.
