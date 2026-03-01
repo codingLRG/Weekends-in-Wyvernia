@@ -3,6 +3,22 @@ tags:
   - NPCs
 ---
 # Lanzu Brassmane
+> **Lanzu Brassmane**
+> _Medium Elf (Wizard), Neutral_
+> [Mage](https://5e.tools/bestiary.html#mage_xmm) (https://5e.tools/bestiary.html) 
+# Descriptors
+
+| Physical Distinction                                  | Verbal Distinction |
+| ----------------------------------------------------- | ------------------ |
+| Blonde headed with a green cap and a elven women robe |                    
+# Motivations
+
+| What do they want? | How do they do it? | What is stopping them? |
+| ------------------ | ------------------ | ---------------------- |
+|                    |                    |                        |
+
+# Notes
+
 
 ## Motivations
 
@@ -14,5 +30,5 @@ tags:
 
 | Physical Destinction | Verbal Distinction |
 | -------------------- | ------------------ |
-| Blonde               |                    |
+|                      |                    |
 ## Notes

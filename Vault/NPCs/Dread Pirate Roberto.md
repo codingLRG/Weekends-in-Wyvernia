@@ -3,8 +3,8 @@ tags:
   - NPCs
 ---
 > **Dread Pirate Roberto**
-> Race, Size
-> [MM Name].(Link) (https://5e.tools/bestiary.html) 
+> _Medium Humanoid Human, Neutral_
+> [Pirate Captain](https://5e.tools/bestiary.html#pirate%20captain_xmm) (https://5e.tools/bestiary.html) 
 # Descriptors
 
 | Physical Distinction | Verbal Distinction |
