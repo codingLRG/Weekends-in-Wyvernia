@@ -9,6 +9,7 @@
 | [[Niketas O'Neill]]    | Half Orc | Naval Captain |                                    |
 | [[Tuk-tuk]]            | Goblin   | Farmer        |                                    |
 | [[Burbrow Everest]]    | Dwarf    | Smith         |                                    |
+| [[Orange robed man]]   | Human    | Royal         | Anger towards [[]]                 |
 |                        |          |               |                                    |
 
 # Graveyard

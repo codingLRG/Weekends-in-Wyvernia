@@ -32,9 +32,16 @@ flowchart TD
 
 # Rooms
 
-| ID  | Room | Lighting | Mood | Descriptor |
-| --- | ---- | -------- | ---- | ---------- |
-|     |      |          |      |            |
+| ID  | Room          | Lighting | Mood | Descriptor | Notes |
+| --- | ------------- | -------- | ---- | ---------- | ----- |
+|     | Entrance 1    |          |      |            |       |
+|     | Entrance 2    |          |      |            |       |
+|     | Main Hub      |          |      |            |       |
+|     | Mini Boss     |          |      |            |       |
+|     | Secret Area   |          |      |            |       |
+|     | Locked Door   |          |      |            |       |
+|     | Boss Arena    |          |      |            |       |
+|     | Treasure Room |          |      |            |       |
 
 # Battle map
 

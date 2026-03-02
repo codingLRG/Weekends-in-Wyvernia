@@ -4,11 +4,12 @@ tags:
 ---
 > {{title}}
 
-| Size | Shape | Materials | Distinguishing Features |
-| ---- | ----- | --------- | ----------------------- |
-|      |       |           |                         |
+| Stories | Shape | Materials | Distinguishing Features |
+| ------- | ----- | --------- | ----------------------- |
+|         |       |           |                         |
 
-| ID  | Room | Descriptor | Mood |
-| --- | ---- | ---------- | ---- |
-|     |      |            |      |
+| ID  | Room      | Theme | Mood | Sense 1 | Sense 2 |
+| --- | --------- | ----- | ---- | ------- | ------- |
+|     | Main Area |       |      |         |         |
+
 # Battle map
