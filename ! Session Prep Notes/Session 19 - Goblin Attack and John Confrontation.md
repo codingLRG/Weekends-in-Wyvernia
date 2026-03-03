@@ -29,7 +29,6 @@ tags:
 		2x Animated Trees
 	- Loot
 		- [ ] Clockwork Amulet
-- [ ] 450+25*6+400
 # Random Character Names
 ## Male
 - [ ] Adam Blink
@@ -48,3 +47,6 @@ tags:
 Fought 1 animated tree and all goblins
 [[Jose|John "Ranger" Booth]] gets locked into a crate with 2 other slaves headed to [[Apostos]]
 # Post Session To-do
+- [ ] [[Martha Strout]] dialogue
+- [ ] [[Jose|John "Ranger" Booth]] first battle
+- [ ] [[Northern Town]]

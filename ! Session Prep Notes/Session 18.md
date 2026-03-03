@@ -3,17 +3,6 @@ tags:
   - session
 ---
 
-# Last Session Summary
-> Casper knocked out [[kid messenger]], got banned from [[Restkeeper's Aid]], [[Jose|John "Ranger" Booth]] went to go find [[Niketas O'Neill]],
-# Last Session Actors
-- [[kid messenger]]
-- [[Ezeequel]]
-- [[Orange robed man]]
-- [[Fabbio Otimorn]]
-- [[Barnabus the Smith]]
-- [[The Hearth Innkeeper]]
-# Relevant Locations
-
 # To Do List
 - [ ] [[Martha Strout]] navigation
 	- [ ] Potential Goblin Encounter

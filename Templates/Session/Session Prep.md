@@ -3,10 +3,6 @@ tags:
   - session
 ---
 > In world day and time
-# Last Session Summary
-
-# Prepared Locations
-
 # To Do List
 - [ ] 
 # Random Character Names
