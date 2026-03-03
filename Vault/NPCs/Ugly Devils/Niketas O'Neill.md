@@ -4,7 +4,6 @@ tags:
 ---
 > **Niketas O'Neill**
 > _Medium Half-orc Humanoid, Neutral_
-> [Bandit Deceiver](https://5e.tools/bestiary.html#bandit%20deceiver_xmm) (https://5e.tools/bestiary.html) 
 > [[Bandit Deceiver]]
 # Descriptors
 

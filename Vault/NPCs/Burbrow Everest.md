@@ -4,7 +4,7 @@ tags:
 ---
 > **Burbrow Everest**
 > _Small Humanoid Dwarf (Cleric), Neutral_
-> [Priest](https://5e.tools/bestiary.html#priest_xmm) (https://5e.tools/bestiary.html) 
+> [[Priest]]
 # Descriptors
 
 | Physical Distinction                                         | Verbal Distinction                                    |

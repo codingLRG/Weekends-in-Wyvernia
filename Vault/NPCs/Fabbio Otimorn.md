@@ -4,7 +4,7 @@ tags:
 ---
 > **Fabbio Otimorn**
 > _Medium Humanoid Human, Chaotic Good_
-> [Blood Witch](https://5e.tools/bestiary.html#blood%20witch_ggr) (https://5e.tools/bestiary.html) 
+> [[Blood Witch]] 
 # Descriptors
 
 | Physical Distinction                                                    | Verbal Distinction |

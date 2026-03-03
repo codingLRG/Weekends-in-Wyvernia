@@ -4,7 +4,7 @@ tags:
 ---
 > **Lanzu Brassmane**
 > _Medium Elf (Wizard), Neutral_
-> [Mage](https://5e.tools/bestiary.html#mage_xmm) (https://5e.tools/bestiary.html) 
+> [[Mage]]
 # Descriptors
 
 | Physical Distinction                                  | Verbal Distinction        |

@@ -6,7 +6,7 @@ tags:
 ---
 > **Tuk-tuk**
 > _Small Humanoid (Goblinoid)_
-> [Booyahg Wielder](https://5e.tools/bestiary.html#booyahg%20wielder_vgm) (https://5e.tools/bestiary.html) 
+> [[Booyahg Wielder]]
 # Descriptors
 
 | Physical Distinction                                                                                                  | Verbal Distinction   |

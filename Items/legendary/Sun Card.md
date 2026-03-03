@@ -1,0 +1,15 @@
+---
+Source: "BMT"
+Rarity: "legendary"
+Type: "Wondrous Item"
+Attunement: 
+Damage: 
+Properties: 
+Mastery: 
+Weight: 
+Value: 
+---
+
+# Sun Card
+
+As an action, you can brandish this card and use it to cast the Sunbeam spell (save DC 17), projecting the light from the card's face. Once this property is used, it can't be used again until the next dawn.

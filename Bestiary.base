@@ -1,42 +1,25 @@
-filters:
-  and:
-    - file.folder.startsWith("Bestiary")
+filters: file.folder == "Bestiary"
 views:
   - type: table
     name: Table
     order:
       - file.name
-      - Name
       - Source
-      - Page
       - Size
       - Type
       - Alignment
       - AC
       - HP
-      - Speed
       - Strength
       - Dexterity
       - Constitution
       - Intelligence
       - Wisdom
       - Charisma
-      - Saving Throws
-      - Skills
       - Damage Vulnerabilities
       - Damage Resistances
       - Damage Immunities
       - Condition Immunities
-      - Senses
       - Languages
       - CR
-      - Traits
-      - Actions
-      - Bonus Actions
-      - Reactions
-      - Legendary Actions
-      - Mythic Actions
-      - Lair Actions
-      - Regional Effects
       - Environment
-      - Treasure

@@ -5,7 +5,7 @@ tags:
 ---
 > **Martha Strout**
 > Human, Medium
-> [Gold Dragon Wyrmling](https://5e.tools/bestiary.html#gold%20dragon%20wyrmling_xmm )
+> [[Gold Dragon Wyrmling]]
 # Descriptors
 
 | Physical Destinction                                    | Verbal Distinction                                        |

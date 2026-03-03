@@ -4,7 +4,7 @@ tags:
 ---
 > **Zaju**
 > _Large Fiend (Demon)_
-> [Glabrezu](https://5e.tools/bestiary.html#glabrezu_xmm) 
+> [[Glabrezu]] 
 ## Motivations
 
 | What do they want?           | How do they do it?                                             | What is stopping them?             |

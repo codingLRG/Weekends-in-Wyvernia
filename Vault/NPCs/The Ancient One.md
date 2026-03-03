@@ -4,7 +4,7 @@ tags:
 ---
 > **The Ancient One**
 > _Gargantuan Aberration_
-> [Cosmic Horror](https://5e.tools/bestiary.html#cosmic%20horror_bam) (https://5e.tools/bestiary.html) 
+> [[Cosmic Horror]]
 # Descriptors
 
 | Physical Distinction                                                                                                                                                                                                    | Verbal Distinction               |
@@ -18,9 +18,3 @@ tags:
 
 # Notes
 
-
-# Playing as
-Speak in unwavering confidence, deep base
-# Geography
-[[The Shadowisle]]
-# Important Interactions

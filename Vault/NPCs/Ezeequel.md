@@ -4,7 +4,7 @@ tags:
 ---
 > **Ezeequel**
 > _Medium Human Humanoid, Neutral_
-> [Guard Captain](https://5e.tools/bestiary.html#guard%20captain_xmm) (https://5e.tools/bestiary.html) 
+> [[Guard Captain]]
 # Descriptors
 
 | Physical Distinction                                                                         | Verbal Distinction                  |

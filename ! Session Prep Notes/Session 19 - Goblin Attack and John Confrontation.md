@@ -28,7 +28,7 @@ tags:
 	- Panic Button
 		2x Animated Trees
 	- Loot
-		- [ ] Clockwork Amulet
+		- [x] [[Clockwork Amulet]]
 # Random Character Names
 ## Male
 - [ ] Adam Blink

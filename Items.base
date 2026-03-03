@@ -1,0 +1,25 @@
+filters:
+  and:
+    - file.folder.startsWith("Items")
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Source == "DMG'24"
+    order:
+      - file.name
+      - Source
+      - Rarity
+      - Type
+      - Attunement
+      - Damage
+      - Properties
+      - Mastery
+      - Weight
+      - Value
+    sort:
+      - property: Rarity
+        direction: DESC
+      - property: Source
+        direction: DESC

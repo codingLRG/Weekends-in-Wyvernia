@@ -4,7 +4,7 @@ tags:
 ---
 > **Limpy Tommand**
 > _Medium Human Humanoid, Neutral_
-> [Pirate](https://5e.tools/bestiary.html#pirate_xmm) (https://5e.tools/bestiary.html) 
+> [[Pirate]]
 # Descriptors
 
 | Physical Distinction                                                                  | Verbal Distinction |
