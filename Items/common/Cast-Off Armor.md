@@ -1,13 +1,13 @@
 ---
-Source: "DMG'24"
-Rarity: "common"
-Type: "Generic Variant"
-Attunement: 
-Damage: 
-Properties: 
-Mastery: 
-Weight: 
-Value: 
+Source: DMG'24
+Rarity: common
+Type: Generic Variant
+Attunement:
+Damage:
+Properties:
+Mastery:
+Weight:
+Value:
 ---
 
 # Cast-Off Armor

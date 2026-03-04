@@ -19,14 +19,14 @@ tags:
 	- [ ] [[Amal]]: "Sir I request the prisoner engage in quarters combat"
 - [ ] Goblin Combat Encounter - Difficulty Level
 	- Actors
-		6x Goblins
-		2x Goblin Bosses
+		6x [[Goblin Minion]]
+		2x [[Goblin Boss]]
 	-  Scene Uniqueness
 		Defending the barrel is integral 
 	- Stakes Amplifier
 		Warhorn blown
 	- Panic Button
-		2x Animated Trees
+		2x [[Awakened Tree]]
 	- Loot
 		- [x] [[Clockwork Amulet]]
 # Random Character Names
@@ -49,4 +49,4 @@ Fought 1 animated tree and all goblins
 # Post Session To-do
 - [ ] [[Martha Strout]] dialogue
 - [ ] [[Jose|John "Ranger" Booth]] first battle
-- [ ] [[Northern Town]]
+- [ ] [[Farafel]]

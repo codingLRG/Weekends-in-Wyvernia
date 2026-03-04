@@ -1,13 +1,13 @@
 ---
-Source: "DMG'24"
-Rarity: "common"
-Type: "Wondrous Item"
-Attunement: 
-Damage: 
-Properties: 
-Mastery: 
-Weight: 
-Value: 
+Source: DMG'24
+Rarity: common
+Type: Wondrous Item
+Attunement:
+Damage:
+Properties:
+Mastery:
+Weight:
+Value:
 ---
 
 # Cloak of Billowing

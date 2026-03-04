@@ -1,5 +1,8 @@
-Back to the master doc: [[Sessions - Master]]
-[[Calendar Events - Master]]
+---
+tags:
+  - session
+---
+
 # Opening Monologue
 > Its the 22nd of Eleint, the sun beacons awakening, your long rest has been completed.
 # Upcoming Events (1 Week)

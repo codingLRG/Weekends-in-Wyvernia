@@ -3,7 +3,7 @@ aliases:
   - John "Ranger" Booth
 ---
 ## Race
-[[Elf]]
+[[Elf]] 
 ## Background
 [[Jose|John "Ranger" Booth]] was raised in an [[Elf|Elven]] village but a [[Group of Adventurers]] had visited once and he was inspired to adventure out. His people (a bunch of speciesism’s) were against it so he ran away. Bro knew shit about society though and became addicted to [[Gambling]]. The farm helps him [[Nature Reattunement|reconnect a little to nature]] so he took it as a part-time job.
 ## Goals

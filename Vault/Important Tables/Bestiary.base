@@ -1,4 +1,6 @@
-filters: file.folder == "Bestiary"
+filters:
+  and:
+    - file.folder.startsWith("Bestiary")
 views:
   - type: table
     name: Table

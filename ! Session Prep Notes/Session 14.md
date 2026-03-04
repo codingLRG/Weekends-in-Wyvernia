@@ -1,3 +1,8 @@
+---
+tags:
+  - session
+---
+
 - [x] Find [[Kasmere Tidetrout]]'s bag of holding
 - [x] Find [[Kasmere Tidetrout]] final message to [[Martha Strout]]
 - [ ] 

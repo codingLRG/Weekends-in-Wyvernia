@@ -12,4 +12,7 @@ Value:
 
 # Bag of Tricks
 
-Multiple variations of this item exist, as listed below:Bag of Tricks, GrayBag of Tricks, RustBag of Tricks, Tan
+Multiple variations of this item exist, as listed below:
+- [[Bag of Tricks, Gray]]
+- [[Bag of Tricks, Rust]]
+- [[Bag of Tricks, Tan]]

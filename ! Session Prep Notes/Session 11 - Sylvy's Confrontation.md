@@ -1,5 +1,8 @@
-Back to the master doc: [[Sessions - Master]]
-[[Calendar Events - Master]]
+---
+tags:
+  - session
+---
+
 # Opening Monologue
 > Its the 22nd of Eleint, the sun is nearing its apex. 
 # Upcoming Events (1 Week)

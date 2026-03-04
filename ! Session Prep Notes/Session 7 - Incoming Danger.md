@@ -1,5 +1,8 @@
-Back to the master doc: [[Sessions - Master]]
-Encounter template: 
+---
+tags:
+  - session
+---
+
 ## Introduction
 ### Session Description
 After finally spending a full day in [[Skorveg]], not everything is what it seems.

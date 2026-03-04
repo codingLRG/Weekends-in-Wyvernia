@@ -22,4 +22,6 @@ Environment: "Coastal, Desert, Forest, Grassland, Hill, Swamp"
 
 # Giant Venomous Snake - 0.25 (XP 50; PB +2)
 ```mermaid
+flowchart TD
+	B[Bite a bitch] --> exit((End turn))
 ```

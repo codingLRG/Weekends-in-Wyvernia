@@ -20,6 +20,4 @@ views:
       - Value
     sort:
       - property: Rarity
-        direction: DESC
-      - property: Source
-        direction: DESC
+        direction: ASC

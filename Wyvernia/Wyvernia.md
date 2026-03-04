@@ -7,11 +7,11 @@ tags:
 ![[WyverniaMap-DM.png]]
 # Civilizations 
 
-| Coordinate | Name        | Descriptor                       |
-| ---------- | ----------- | -------------------------------- |
-| C12        | [[Skorveg]] | The walled city of salt and beer |
-| C10        | [[Slaat]]   |                                  |
-| F14        | [[Dista]]   |                                  |
+| Coordinate | Name              | Descriptor                       |
+| ---------- | ----------------- | -------------------------------- |
+| C12        | [[Skorveg]]       | The walled city of salt and beer |
+| C10        | [[Farafel]] |                                  |
+| F14        | [[Dista]]         |                                  |
 
 # Dungeons
 

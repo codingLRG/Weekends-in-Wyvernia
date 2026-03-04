@@ -1,4 +1,8 @@
-Back to the master doc: [[Sessions - Master]]
+---
+tags:
+  - session
+---
+
 ## Introduction
 ### Session Description
 After [[PCs - Master|the gang]]'s arrival at the town, they get seemingly get wrangled up in a drug bust scene happening in the city's underground market

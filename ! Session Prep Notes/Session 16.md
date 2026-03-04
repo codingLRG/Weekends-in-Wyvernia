@@ -1,5 +1,8 @@
-Back to the master doc: [[Sessions - Master]]
-[[Calendar Events - Master]]
+---
+tags:
+  - session
+---
+
 # Opening Monologue
 > Rev up those friers 
 # Prepared Content

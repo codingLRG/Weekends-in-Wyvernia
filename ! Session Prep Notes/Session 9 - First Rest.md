@@ -1,5 +1,8 @@
-[[Sessions - Master]]
-[[Calendar Events - Master]]
+---
+tags:
+  - session
+---
+
 ## Introduction
 ### Upcoming Events (1 Week)
 | 24  | [[Gambling Hall Raid]]     |
