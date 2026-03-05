@@ -18,7 +18,7 @@ tags:
 - [ ] [[Martha Strout]] dialogue
 	> Nightfall covers the land scape, those with dark vision see the color fade from the surroundings, those with not start to see a blanket of darkness. Only the embers of the fallen tree provide any faint sort of visual clarity. The cool air whirls and the running water of river rages Westwards towards the distant ocean. A sudden crack breaks the silence of nature and a torch begins to bring the colors back into your view.
 	- [ ] Bring up [[Takhisis]] followers
-	- [ ] Next destination is [[Farafel]] as there is a ally there to grant safe passage to [[Giant's Forge]]
+	- [ ] Next destination is [[Farafel]] as there is a ally there to grant safe passage to [[Tholmort's Passage]]
 	- [ ] Travel on foot for a day
 - [ ] [[Farafel]]
 # Random Character Names
