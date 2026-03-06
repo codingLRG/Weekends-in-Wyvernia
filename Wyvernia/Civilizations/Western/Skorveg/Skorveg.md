@@ -2,7 +2,7 @@
 tags:
   - city
 ---
-> Skorveg: City of Salt and Beer
+> Skorveg: City of Fish and Beer
 
 # City Map
 ![[Skorveg-Labeled.png]]

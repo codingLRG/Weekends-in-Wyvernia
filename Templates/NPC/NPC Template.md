@@ -3,8 +3,8 @@ tags:
   - NPCs
 ---
 > **{{title}}**
-> Race, Size
-> [MM Name].(Link) (https://5e.tools/bestiary.html) 
+> _Race, Size_
+> StatSheet
 # Descriptors
 
 | Physical Distinction | Verbal Distinction |

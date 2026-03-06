@@ -8,9 +8,9 @@ tags:
 > [[Gold Dragon Wyrmling]]
 # Descriptors
 
-| Physical Destinction                                    | Verbal Distinction                                        |
-| ------------------------------------------------------- | --------------------------------------------------------- |
-| Heavyset dark skinned woman with cornroy and amber eyes | Deeper woman voice, oh-ho dear, can't imagine her yelling |
+| Physical Destinction                                     | Verbal Distinction                                        |
+| -------------------------------------------------------- | --------------------------------------------------------- |
+| Heavyset dark skinned woman with cornrows and amber eyes | Deeper woman voice, oh-ho dear, can't imagine her yelling |
 
 # Motivations
 

@@ -22,4 +22,6 @@ Environment: "Any"
 
 # Satyr Reveler - 1 (XP 200; PB +2)
 ```mermaid
+flowchart TD
+	
 ```

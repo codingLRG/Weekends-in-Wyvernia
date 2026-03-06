@@ -9,21 +9,14 @@ tags:
 
 # Locations
 
-| Coordinates | Location | Category                   | Brief Descriptor |
-| ----------- | -------- | -------------------------- | ---------------- |
-|             |          | [[Government]]             |                  |
-|             |          | [[Underground Happenings]] |                  |
-|             |          | [[Altars]]                 |                  |
-|             |          | [[Resources]]              |                  |
-|             |          | [[Defenses]]               |                  |
-|             |          | [[Social Hubs]]            |                  |
-
-# RNG Discover Race
-
-| Roll Range | Race |
-| ---------- | ---- |
-|            |      |
-|            |      |
+| Coordinates | Location | Category                   |
+| ----------- | -------- | -------------------------- |
+|             |          | [[Government]]             |
+|             |          | [[Underground Happenings]] |
+|             |          | [[Altars]]                 |
+|             |          | [[Resources]]              |
+|             |          | [[Defenses]]               |
+|             |          | [[Social Hubs]]            |
 
 # History
 
