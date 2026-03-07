@@ -9,6 +9,7 @@ tags:
 		- [[Spy]]
 	- Scene
 		- Ship vessel below deck
+		> The sway of the floor makes footing constantly remind you that your body is at sea. The air leaves your body sweating to the humidity in this wooden cage. Surrounding you in this hardly lit room are cages and crates of varying shapes and sizes, none smaller than the size of a halfling. Ropes tie down the containers to not damage the goods during the travels, and before you is a cloaked figure, staring at you with bloodshot eyes.
 	- Stakes Amplifier
 		- Has to find [[Leche]] in closed crates before the candle extinguishes
 	- Panic Button
@@ -21,6 +22,7 @@ tags:
 	- [ ] Next destination is [[Farafel]] as there is a ally there to grant safe passage to [[Tholmort's Passage]]
 	- [ ] Travel on foot for a day
 - [ ] [[Farafel]]
+    > A small town paved not in stone but finely walked dirt, you can see one end of the town to the other, the buildings of humble wood and hay, save for the village prized building, the mayor's suite, which seems to be made entirely of wood.
 - [ ] [[Desmond Belmont]]
 # Random Character Names
 ## Male
