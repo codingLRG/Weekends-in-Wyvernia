@@ -24,9 +24,6 @@ tags:
 	- [x] Next destination is [[Farafel]] as there is a ally there to grant safe passage to [[Tholmort's Passage]]
 	- [x] Travel on foot for a day
 	- [ ] [[Martha Strout]] has [[Wilscot]] in a [[Amulet of Banishment]]
-- [ ] [[Farafel]]
-    > A small town paved not in stone but finely walked dirt, you can see one end of the town to the other, the buildings of humble wood and hay, save for the village prized building, the mayor's suite, which seems to be made entirely of wood.
-- [ ] [[Desmond Belmont]]
 # Random Character Names
 ## Male
 - [ ] Adam Blink

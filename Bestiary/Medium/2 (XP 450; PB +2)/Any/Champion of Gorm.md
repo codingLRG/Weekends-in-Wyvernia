@@ -22,4 +22,8 @@ Environment: "Any"
 
 # Champion of Gorm - 2 (XP 450; PB +2)
 ```mermaid
+flowchart TD
+	canMelee{{Can you get in melee?}} -->|Yes|thunder[[Thunder Mace 2x]]
+	canMelee -->|no|handAxe[[Throw Handaxe]]
+	savingThrows{{Have opponents cast spells with saving throws?}} -->|yes|aura[[Bonus action Aura of Resilience]]
 ```
