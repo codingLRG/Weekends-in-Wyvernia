@@ -3,7 +3,7 @@
 - [ ] Aldrias Stark
 - [ ] Cinder Moonstep
 - [ ] Gut Presscoat
-- [ ] Painter (no family name)
+- [ ] Selvester Totentaz
 ## Female
  - [ ] Bryanne Tusk
  - [ ] Grezelda Wildflow
