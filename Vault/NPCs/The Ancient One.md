@@ -1,6 +1,11 @@
 ---
 tags:
   - NPCs
+Profession: Patron
+Size: Gargantuan
+Type: Aberration
+Alignment: neutral evil
+Last Date Recorded: 11
 ---
 > **The Ancient One**
 > _Gargantuan Aberration_
@@ -14,7 +19,6 @@ tags:
 
 | What do they want? | How do they do it? | What is stopping them? |
 | ------------------ | ------------------ | ---------------------- |
-|                    |                    |                        |
+| ???                | ???                | ???                    |
 
 # Notes
-

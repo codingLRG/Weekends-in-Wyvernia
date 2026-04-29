@@ -1,11 +1,14 @@
 ---
-aliases:
-  - Goblin Tinkerer
 tags:
   - NPCs
+Profession: Farmer
+Size: Small
+Type: Humanoid (Goblinoid)
+Alignment: chaotic good
+Last Location: Wyvernia
+Last Date Recorded: 6
 ---
 > **Tuk-tuk**
-> _Small Humanoid (Goblinoid)_
 > [[Booyahg Wielder]]
 # Descriptors
 

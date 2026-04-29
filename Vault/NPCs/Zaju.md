@@ -1,6 +1,12 @@
 ---
 tags:
   - NPCs
+Profession:
+Size: Large
+Type: Fiend (Demon)
+Alignment: chaotic evil
+Dead:
+Last Date Recorded: 20
 ---
 > **Zaju**
 > _Large Fiend (Demon)_

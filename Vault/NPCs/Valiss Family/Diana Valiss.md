@@ -2,9 +2,10 @@
 tags:
   - NPCs
 Profession:
-Size:
-Type:
-Alignment:
+Size: Medium
+Type: Humanoid (Tiefling)
+Alignment: neutral evil
+Last Location: Farafel
 ---
 > **Diana Valiss**
 > _Race, Size_

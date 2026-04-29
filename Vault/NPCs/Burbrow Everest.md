@@ -1,9 +1,14 @@
 ---
 tags:
   - NPCs
+Profession: Merchant
+Size: Small
+Type: Humanoid (Dwarf)
+Alignment: neutral
+Last Location: Wyvernia
+Last Date Recorded: 17
 ---
 > **Burbrow Everest**
-> _Small Humanoid Dwarf (Cleric), Neutral_
 > [[Priest]]
 # Descriptors
 

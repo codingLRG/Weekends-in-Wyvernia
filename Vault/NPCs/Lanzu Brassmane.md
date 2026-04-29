@@ -1,9 +1,14 @@
 ---
 tags:
   - NPCs
+Profession: Cartographer
+Size: Medium
+Type: Humanoid (Elf)
+Alignment: neutral good
+Last Location: Wyvernia
+Last Date Recorded: 15
 ---
 > **Lanzu Brassmane**
-> _Medium Elf (Wizard), Neutral_
 > [[Mage]]
 # Descriptors
 

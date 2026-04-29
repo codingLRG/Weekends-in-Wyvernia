@@ -1,13 +1,14 @@
 ---
 tags:
   - NPCs
-Profession:
-Size:
-Type:
-Alignment:
+Profession: Royal
+Size: Small
+Type: Humanoid (Dwarf)
+Alignment: lawful neutral
+Last Location: Moore
 ---
-> **{{title}}**
-> StatSheet
+> **Talabut, King of Moore**
+> [[Storm Giant]]
 
 | Physical Distinction | Verbal Distinction |
 | -------------------- | ------------------ |

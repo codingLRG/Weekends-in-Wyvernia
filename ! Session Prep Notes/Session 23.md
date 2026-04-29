@@ -4,7 +4,7 @@ tags:
 ---
 > Morning, [[InteriFore]] of the Calm
 # To Do List
-- [ ] Invasion of [[Skorveg]]
+- [ ] Arrival at [[Skorveg]]
 	- [ ] Arrival of [[Estvolans]]
 	- [ ] [[Zhven, Prince of Estvola]]
 		- [ ] [[Eye of Vecna]]
@@ -15,7 +15,7 @@ tags:
 	- [ ] Has knowledge of the invader's belief in thought immortality
 		- [ ] "They have a belief in the two deaths, the death of your body, and the death of your name. The closest claim to godhood in their eyes is an everlasting legacy."
 	- [ ] Anticipates a continental invasion
-	- [ ] "Father is currently in negotiations with [[Talabut]] in [[Moore]]"
+	- [ ] "Father is currently in negotiations with [[Talabut, King of Moore]] in [[Moore]]"
 # Random Character Names
 ## Male
 - [ ] Adam Blink

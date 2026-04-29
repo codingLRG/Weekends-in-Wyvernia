@@ -1,0 +1,22 @@
+properties:
+  note.Last Date Recorded:
+    displayName: Last Session Recorded
+views:
+  - type: table
+    name: Toybox
+    filters:
+      and:
+        - file.inFolder("Vault/NPCs")
+        - Dead != true
+    order:
+      - file.name
+      - Last Location
+      - Last Date Recorded
+      - Profession
+      - Type
+      - Alignment
+      - Size
+      - Dead
+    sort:
+      - property: Profession
+        direction: ASC

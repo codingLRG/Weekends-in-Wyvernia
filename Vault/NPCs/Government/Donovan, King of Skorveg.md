@@ -1,16 +1,17 @@
 ---
 tags:
   - NPCs
+Profession:
+Size:
+Type:
+Alignment:
 ---
-> **Dread Pirate Roberto**
-> _Medium Humanoid Human, Neutral_
-> [[Pirate Captain]]
-# Descriptors
+> **Donovan, King of Skorveg**
+> [[Revenant]]
 
 | Physical Distinction | Verbal Distinction |
 | -------------------- | ------------------ |
-|                      |                    
-# Motivations
+| o                    |                    
 
 | What do they want? | How do they do it? | What is stopping them? |
 | ------------------ | ------------------ | ---------------------- |

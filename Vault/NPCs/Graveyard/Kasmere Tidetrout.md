@@ -1,3 +1,6 @@
+---
+Dead: true
+---
 Rogue and collector of cursed objects 
 
 ## Connections

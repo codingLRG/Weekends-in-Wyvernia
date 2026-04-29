@@ -1,10 +1,14 @@
 ---
-aliases:
 tags:
   - NPCs
+Profession: Butcher
+Size: Medium
+Type: Humanoid (Human)
+Alignment: neutral good
+Last Location: Wyvernia
+Last Date Recorded: 22
 ---
 > **Martha Strout**
-> Human, Medium
 > [[Gold Dragon Wyrmling]]
 # Descriptors
 
@@ -18,4 +22,3 @@ tags:
 | ------------------------------------------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | Live a quiet life and protect the ones they love | Retreat into a quiet village and kill those who threaten her life on the down low | People are actively hunting her, and there are a number of them |
 # Notes
-

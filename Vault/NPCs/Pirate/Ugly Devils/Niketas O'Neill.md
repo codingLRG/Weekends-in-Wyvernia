@@ -1,9 +1,14 @@
 ---
 tags:
   - NPCs
+Profession: Pirate
+Size: Medium
+Type: Humanoid (Human, Orc)
+Alignment: chaotic neutral
+Last Location: Open Water (West)
+Last Date Recorded: 21
 ---
 > **Niketas O'Neill**
-> _Medium Half-orc Humanoid, Neutral_
 > [[Bandit Deceiver]]
 # Descriptors
 

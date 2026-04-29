@@ -1,9 +1,13 @@
 ---
 tags:
   - NPCs
+Profession: Priest
+Size: Small
+Type: Fey
+Alignment: chaotic good
+Last Location: Farafel
 ---
 > **Desmond Belmont**
-> _Medium Fey_
 > [[Satyr Revelmaster]]
 # Descriptors
 ![[Satyr.webp]]
@@ -18,4 +22,4 @@ tags:
 | Break the curse that forces him to drink alcohol like water | Find a fey creature that can end this curse | The creature is only reported in fey legend and hasn't been found in centuries |
 
 # Notes
-Has the poisoned condition permanently until goal finished
+Has the poisoned condition permanently until goal finished> **Desmond Belmont**

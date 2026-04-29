@@ -1,6 +1,12 @@
 ---
 tags:
   - NPCs
+Profession: Pirate
+Size: Medium
+Type: Humanoid (Human)
+Alignment: neutral
+Last Location: Open Water (West)
+Last Date Recorded: 19
 ---
 > **Limpy Tommand**
 > _Medium Human Humanoid, Neutral_

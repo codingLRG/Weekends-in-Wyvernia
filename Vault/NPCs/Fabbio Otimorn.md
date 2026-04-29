@@ -1,15 +1,21 @@
 ---
 tags:
   - NPCs
+Profession: Doctor
+Size: Medium
+Type: Humanoid (Human)
+Alignment: chaotic good
+Last Location: Wyvernia
+Last Session Recorded:
+Last Date Recorded: 22
 ---
 > **Fabbio Otimorn**
-> _Medium Humanoid Human, Chaotic Good_
 > [[Blood Witch]] 
 # Descriptors
 
-| Physical Distinction                                                    | Verbal Distinction |
-| ----------------------------------------------------------------------- | ------------------ |
-| Dark rings around his eyes and blood stained white doctors coat with a  |                    
+| Physical Distinction                                                                  | Verbal Distinction |
+| ------------------------------------------------------------------------------------- | ------------------ |
+| Dark rings around his eyes and blood stained white doctors coat, and white blond hair | Hyper autism       |
 # Motivations
 
 | What do they want?                                                                                       | How do they do it?            | What is stopping them?                                                       |
