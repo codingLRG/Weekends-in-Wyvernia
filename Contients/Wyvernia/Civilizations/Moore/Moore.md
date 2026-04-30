@@ -2,21 +2,20 @@
 tags:
   - city
 ---
-
-> Moore: City of (ie The City of Gold)
+> Moore: City of Power and Riches
 
 # City Map
 
 # Locations
 
-| Coordinates | Location | Category                   |
-| ----------- | -------- | -------------------------- |
-|             |          | [[Government]]             |
-|             |          | [[Underground Happenings]] |
-|             |          | [[Altars]]                 |
-|             |          | [[Resources]]              |
-|             |          | [[Defenses]]               |
-|             |          | [[Social Hubs]]            |
+| Coordinates | Location                      | Category                   |
+| ----------- | ----------------------------- | -------------------------- |
+|             | [[Moore's Chamber of Heroes]] | [[Government]]             |
+|             | [[Valiss Network]]            | [[Underground Happenings]] |
+|             | [[Gond's Forge]]              | [[Altars]]                 |
+|             | [[Lost Treasures]]            | [[Resources]]              |
+|             | [[Moore Barracks]]            | [[Defenses]]               |
+|             | [[Rock n Stoned]]             | [[Social Hubs]]            |
 
 # History
 

@@ -5,7 +5,7 @@ Profession: Butcher
 Size: Medium
 Type: Humanoid (Human)
 Alignment: neutral good
-Last Location: Wyvernia
+Last Location: Skorveg
 Last Date Recorded: 22
 ---
 > **Martha Strout**

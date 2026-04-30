@@ -1,12 +1,13 @@
 ---
 tags:
   - NPCs
-Profession:
+Profession: Mercenary
 Size: Large
 Type: Fiend (Demon)
 Alignment: chaotic evil
 Dead:
 Last Date Recorded: 20
+Last Location: Another Plane
 ---
 > **Zaju**
 > _Large Fiend (Demon)_

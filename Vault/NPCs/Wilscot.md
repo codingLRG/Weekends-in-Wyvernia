@@ -5,7 +5,7 @@ Profession: Farmer
 Type: Humanoid (Human)
 Alignment: lawful neutral
 Size: Medium
-Last Location: Wyvernia
+Last Location: Skorveg
 Last Date Recorded: 16
 ---
 > **Wilscot**

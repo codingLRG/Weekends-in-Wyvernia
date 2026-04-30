@@ -5,7 +5,7 @@ Profession: Farmer
 Size: Small
 Type: Humanoid (Goblinoid)
 Alignment: chaotic good
-Last Location: Wyvernia
+Last Location: Skorveg
 Last Date Recorded: 6
 ---
 > **Tuk-tuk**

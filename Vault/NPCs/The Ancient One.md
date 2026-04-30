@@ -6,6 +6,7 @@ Size: Gargantuan
 Type: Aberration
 Alignment: neutral evil
 Last Date Recorded: 11
+Last Location: Another Plane
 ---
 > **The Ancient One**
 > _Gargantuan Aberration_

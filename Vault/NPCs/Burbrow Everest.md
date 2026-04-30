@@ -5,7 +5,7 @@ Profession: Merchant
 Size: Small
 Type: Humanoid (Dwarf)
 Alignment: neutral
-Last Location: Wyvernia
+Last Location: Skorveg
 Last Date Recorded: 17
 ---
 > **Burbrow Everest**

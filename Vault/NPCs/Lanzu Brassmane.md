@@ -5,7 +5,7 @@ Profession: Cartographer
 Size: Medium
 Type: Humanoid (Elf)
 Alignment: neutral good
-Last Location: Wyvernia
+Last Location: Skorveg
 Last Date Recorded: 15
 ---
 > **Lanzu Brassmane**

@@ -5,7 +5,7 @@ tags:
 > Skorveg: City of Fish and Beer
 
 # City Map
-![[Skorveg-Labeled.png]]
+![[Skorveg-DM.png]]
 
 
 # Locations
@@ -25,10 +25,3 @@ tags:
 | H10         | [[Skorveg Bank]]          | [[Resources]]              |                  |
 | H11         | [[Singing Siren]]         | [[Social Hubs]]            |                  |
 | K12         | [[Skorveg Barley Field]]  | [[Resources]]              |                  |
-
-# RNG Discover Race
-
-| Roll Range | Race |
-| ---------- | ---- |
-|            |      |
-|            |      |

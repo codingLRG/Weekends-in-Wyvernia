@@ -5,7 +5,8 @@ Profession: Royal
 Size: Medium
 Type: Humanoid (Human)
 Alignment: lawful evil
-Last Location: Wyvernia
+Last Location: Skorveg
+Age: 23
 ---
 > **Zhven, Prince of Estvola**
 > [[Noble Prodigy]]

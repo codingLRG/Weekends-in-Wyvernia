@@ -21,3 +21,4 @@ tags:
 # Random Character Names
 Use Template
 # In Session Notes
+[[Isaac|Steeve]] attempted to kill [[Painter]] by throwing him at the [[Water Weird]]

@@ -5,7 +5,7 @@ Profession: Doctor
 Size: Medium
 Type: Humanoid (Human)
 Alignment: chaotic good
-Last Location: Wyvernia
+Last Location: Skorveg
 Last Session Recorded:
 Last Date Recorded: 22
 ---

@@ -5,7 +5,7 @@ Profession: Guard
 Size: Medium
 Type: Humanoid (Human)
 Alignment: lawful evil
-Last Location: Wyvernia
+Last Location: Skorveg
 Last Date Recorded: 17
 ---
 > **Ezeequel**

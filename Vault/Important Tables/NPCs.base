@@ -12,11 +12,16 @@ views:
       - file.name
       - Last Location
       - Last Date Recorded
+      - Age
       - Profession
       - Type
       - Alignment
       - Size
       - Dead
     sort:
+      - property: Alignment
+        direction: ASC
+      - property: Age Category
+        direction: ASC
       - property: Profession
         direction: ASC

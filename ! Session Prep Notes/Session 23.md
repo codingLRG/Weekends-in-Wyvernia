@@ -8,6 +8,7 @@ tags:
 	- [ ] Arrival of [[Estvolans]]
 	- [ ] [[Zhven, Prince of Estvola]]
 		- [ ] [[Eye of Vecna]]
+	- [ ] [[Donovan, King of Skorveg]]
 - [ ] [[Desmond Belmont]] introduction at [[Farafel Chapel]]
 	- [ ] Has knowledge how to enter [[Tholmort's Passage]]
 	- [ ] Brings up mayors underground rumors, cursed item smuggling
