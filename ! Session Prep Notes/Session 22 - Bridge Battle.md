@@ -4,8 +4,9 @@ tags:
 ---
 > Morning, InteriFore of the Calm
 # To Do List
-- [ ] Introduce [[Jose]]'s new character
-- [ ] Combat Encounter - Difficulty Level
+- [x] Introduce [[Jose]]'s new character
+- [x] [[The Twins]] introduction
+- [x] Combat Encounter - Difficulty Level
 	- Actors
 		- [[Water Weird]]
 	- Scene Uniqueness
@@ -19,6 +20,19 @@ tags:
 - [ ] Destroy [[Skorveg]]
 	- [ ] 
 # Random Character Names
-Use Template
+## Male
+- [ ] Adam Blink
+- [ ] Aldrias Stark
+- [ ] Cinder Moonstep
+- [ ] Gut Presscoat
+- [ ] Selvester Totentaz
+## Female
+ - [ ] Bryanne Tusk
+ - [ ] Grezelda Wildflow
+ - [ ] Arina Raven
+ - [ ] 'Catnip' Katrina Nipton
+ - [ ] Dorrey Jacobs
 # In Session Notes
 [[Isaac|Steeve]] attempted to kill [[Painter]] by throwing him at the [[Water Weird]]
+Black sea vessels
+[[Tusks Bradley]] has a body part collection

@@ -36,7 +36,7 @@ tags:
 		- [ ] 
 - [ ] [[Desmond Belmont]] introduction
     > A shirtless man with rosy cheeks, and warm amber facial hair in the style of a petite goatee. Horns are sprouted from the top of his head and his bottoms are a thick dark wooly fur. His size is that barely taller than a dwarf, yet his belly and the stench of booze would have you believe that of an appetite to a dwarf.
-- [ ] Dinner with the Captain [[Niketas O'Neill]]
+- [x] Dinner with the Captain [[Niketas O'Neill]]
     > A quarters suited for a captain, fine dark-oak dressers with varying leather coats, a map table with scribblings and miniatures laid about, and a fine wooden table, with a globe, dagger and a few skull goblets 
 	- [ ] Crowned champion
 	- [ ] Hold Person
