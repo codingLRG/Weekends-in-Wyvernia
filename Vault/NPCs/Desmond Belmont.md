@@ -6,6 +6,7 @@ Size: Small
 Type: Fey
 Alignment: chaotic good
 Last Location: Farafel
+Last Date Recorded:
 ---
 > **Desmond Belmont**
 > [[Satyr Revelmaster]]

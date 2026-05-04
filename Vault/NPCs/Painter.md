@@ -1,6 +1,8 @@
 ---
 tags:
   - NPCs
+Last Location: Farafel
+Last Date Recorded: 22
 ---
 > **Painter**
 > _Race, Size_

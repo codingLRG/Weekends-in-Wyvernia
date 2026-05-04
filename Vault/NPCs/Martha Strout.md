@@ -5,8 +5,8 @@ Profession: Butcher
 Size: Medium
 Type: Humanoid (Human)
 Alignment: neutral good
-Last Location: Skorveg
-Last Date Recorded: 22
+Last Location: Farafel
+Last Date Recorded: 23
 ---
 > **Martha Strout**
 > [[Gold Dragon Wyrmling]]

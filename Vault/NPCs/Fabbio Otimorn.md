@@ -5,9 +5,9 @@ Profession: Doctor
 Size: Medium
 Type: Humanoid (Human)
 Alignment: chaotic good
-Last Location: Skorveg
+Last Location: Farafel
 Last Session Recorded:
-Last Date Recorded: 22
+Last Date Recorded: 23
 ---
 > **Fabbio Otimorn**
 > [[Blood Witch]] 

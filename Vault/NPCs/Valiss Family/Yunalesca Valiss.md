@@ -5,15 +5,16 @@ Profession:
 Size: Medium
 Type: Humanoid (Tiefling)
 Alignment: neutral evil
-Last Location: Farafel
+Last Location: Skorveg
+Last Date Recorded: 23
 ---
-> **Diana Valiss**
+> **Yunalesca Valiss**
 > _Race, Size_
 > StatSheet
 
-| Physical Distinction                                                        | Verbal Distinction |
-| --------------------------------------------------------------------------- | ------------------ |
-| Tentacle burn marks across her upper arm, light blue skin with a stump horn | Posh blonde        
+| Physical Distinction                                                                                                         | Verbal Distinction |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Lighter blue, long black hair, one horn pierced. Tentacle burn marks across her upper arm, light blue skin with a stump horn | Posh blonde        
 
 | What do they want?            | How do they do it?                                                     | What is stopping them?                                                                                               |
 | ----------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
