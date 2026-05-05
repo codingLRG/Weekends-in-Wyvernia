@@ -4,7 +4,12 @@ tags:
 ---
 > Wyvernia
 # Map
-![[WyverniaMap-DM.png]]
+```leaflet
+id: Wyvernia
+image: WyverniaMap.png
+darkmode: true
+```
+
 # Civilizations 
 
 | Coordinate | Name         | Descriptor                       |

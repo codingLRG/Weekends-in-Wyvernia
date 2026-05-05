@@ -38,6 +38,5 @@ Write possible encounter with skinwalker and
 	[[Alice|Sylvy]] by the gates
 	[[Isaac|Steeve]] and [[Angel|Mirnes]] going to [[Barnabus the Smith]]
 	Everyone else to the markets
-	faucet  
 [[Alice|Sylvy]] went into the chapel following [[Yunalesca Valiss]]
 End near end of day, with ships and dragon in view

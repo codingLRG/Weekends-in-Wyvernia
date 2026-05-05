@@ -21,3 +21,4 @@ Last Date Recorded: 23
 | Take over the family business | Take control of the primary blackmarket network in the Western regions | [[The Twins]] are currently control the blackmarket network of the Western region and have been for a very long time |
 
 # Notes
+Follower of [[Eldath, goddess of peace]] due to grief of of [[Ciel]]'s death
