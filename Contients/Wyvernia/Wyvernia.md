@@ -7,30 +7,16 @@ tags:
 ```leaflet
 id: Wyvernia
 image: WyverniaMap.png
+recenter: true
+unit: miles
+lat: 585.36
+long: 329.27
+scale: 2
+bounds: [[0,0],[1170.73,658.54]]
 darkmode: true
+width: 95%
+height: 500px
+minZoom: -2
+maxZoom: 2
+defaultZoom: -1
 ```
-
-# Civilizations 
-
-| Coordinate | Name         | Descriptor                       |
-| ---------- | ------------ | -------------------------------- |
-| C12        | [[Skorveg]]  | The walled city of fish and beer |
-| C10        | [[Farafel]]  | The salt village                 |
-| F14        | [[Dista]]    |                                  |
-| C19        | [[Seerodia]] | The                              |
-
-# Dungeons
-
-| Coordinate | Name                   | Descriptor |
-| ---------- | ---------------------- | ---------- |
-| C10        | [[Crystal Salt Mines]] |            |
-# Natural Wonder
-
-| Coordinate | Name | Descriptor |
-| ---------- | ---- | ---------- |
-|            |      |            |
-
-# History
-| Date | Name | Descriptor |
-| ---- | ---- | ---------- |
-|      |      |            |

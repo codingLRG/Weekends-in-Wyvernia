@@ -5,6 +5,8 @@ tags:
 > In world day and time
 # To Do List
 - [ ] 
+# NPCs
+![[NPCs.base]]
 # Random Character Names
 Use Template
 # In Session Notes

@@ -5,6 +5,8 @@ Profession:
 Size: Small
 Type: Humanoid (Halfling)
 Alignment: chaotic evil
+Last Location: Farafel
+Last Date Recorded: 23
 ---
 > **Tusks**
 > _Race, Size_

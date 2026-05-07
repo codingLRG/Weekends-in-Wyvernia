@@ -5,6 +5,8 @@ Profession:
 Size: Medium
 Type: Humanoid
 Alignment: chaotic evil
+Last Location: Farafel
+Last Date Recorded: 23
 ---
 > **Sirius Bradley**
 > _Race, Size_

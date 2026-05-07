@@ -2,17 +2,23 @@
 tags:
   - session
 ---
-> Afternoon, [[InteriFore]] of the Calm
+> Late afternoon, [[InteriFore]] of the Calm
 # To Do List
 - [ ] [[Yunalesca Valiss]] church scene
 	- [ ] Charley kneeling standing bit
-	- [ ] After [[Ciel]] died, I search for an answer from father, I said father "Where is [[Ciel]] now?". He told me, "That is a question I can not answer. Maybe if you look in the right place, hear the right verses, someday, someone can give you a convincing response." It a bit hypocritical pray in a chapel when your soul is promised to another, but a little hope can't hurt.
+	- [ ] After [[Ciel]] died, I search for an answer from father, I said father "Where is [[Ciel]] now?". He told me, "That is a question I can not answer. Maybe if you look in the right place, hear the right verses, someday, someone can give you a convincing response." So I seek whenever there is a moment to spare, to find [[Ciel]] once again. 
 	- [ ] You recall why grandfather doomed our bloodline?
 		- [ ] If no: Nobles don't die war, soldiers do
 	- [ ] Rat carrier 
-- [ ] [[Donovan, King of Skorveg]] announcement
 - [ ] [[Yunalesca Valiss]] interact with [[Jose|Tisk]] and [[Logan|Gorbo]]
-	- [ ] WHY???
+	- [ ] Gather flowers and give them to [[Pastor Jyhn]] by [[MidiMast]]
+- [ ] [[Ezeequel]] announcement
+	- [ ] Scene describer: 
+	- [ ] "By "
+- [ ] [[Donovan, King of Skorveg]] announcement
+	- [ ] "Nearly half a century ago, the world was half the size we currently know. Tonight, we celebrate the unification of empires." Dragon spews flame on the castle tower.
+# NPCs
+![[NPCs.base]]
 # Random Character Names
 ## Male
 - [ ] Adam Blink
