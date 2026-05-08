@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Dead": "checkbox",
+    "Allies": "multitext",
+    "Enemies": "multitext",
+    "Knows of": "multitext",
+    "Last Date Recorded": "number",
+    "Last Session Recorded": "number",
+    "Age Category": "number"
+  }
+}
