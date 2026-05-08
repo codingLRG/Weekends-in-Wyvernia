@@ -5,6 +5,8 @@ Profession: Blacksmith
 Size: Small
 Type: Humanoid (Dwarf)
 Alignment: neutral
+Last Location: Skorveg
+Last Date Recorded: 23
 ---
 > **Barnabus the Smith**
 > [[Commoner]]

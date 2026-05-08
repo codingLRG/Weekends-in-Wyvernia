@@ -14,7 +14,7 @@ tags:
 	- [ ] Gather flowers and give them to [[Pastor Jyhn]] by [[MidiMast]]
 - [ ] [[Ezeequel]] announcement
 	- [ ] Scene describer: 
-	- [ ] "By "
+	- [ ] "By the king's announcement, we are pleased to inform of the arrival of [[Zerksi, King of Estvola]], and [[Zhven, Prince of Estvola]]. Be not afraid, as our overseas allies greet us in peace and matrimony. The king's gates shall open at the crack of dusk to celebrate worlds colliding once again and forevermore."
 - [ ] [[Donovan, King of Skorveg]] announcement
 	- [ ] "Nearly half a century ago, the world was half the size we currently know. Tonight, we celebrate the unification of empires." Dragon spews flame on the castle tower.
 # NPCs

@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession:
+Profession: Underworld Dealings
 Size: Medium
 Type: Humanoid (Tiefling)
 Alignment: neutral evil

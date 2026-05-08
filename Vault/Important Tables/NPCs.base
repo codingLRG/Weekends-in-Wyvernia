@@ -1,9 +1,9 @@
 properties:
   note.Last Date Recorded:
-    displayName: Last Session Recorded
+    displayName: Session
 views:
   - type: table
-    name: Toybox
+    name: All NPCs
     filters:
       and:
         - file.inFolder("Vault/NPCs")
@@ -18,10 +18,44 @@ views:
       - Alignment
       - Size
       - Dead
+      - Last Session Recorded
     sort:
+      - property: Last Session Recorded
+        direction: ASC
+      - property: Last Date Recorded
+        direction: DESC
+      - property: file.name
+        direction: ASC
       - property: Alignment
         direction: ASC
       - property: Age Category
         direction: ASC
       - property: Profession
         direction: ASC
+    limit: 10
+  - type: table
+    name: Skorveg NPCs
+    filters:
+      and:
+        - file.inFolder("Vault/NPCs")
+        - Dead != true
+        - note["Last Location"] == "Skorveg"
+    order:
+      - file.name
+      - Last Date Recorded
+      - Age
+      - Profession
+      - Type
+      - Alignment
+      - Size
+      - Dead
+    sort:
+      - property: Last Date Recorded
+        direction: ASC
+      - property: Alignment
+        direction: ASC
+      - property: Age Category
+        direction: ASC
+      - property: Profession
+        direction: ASC
+    limit: 10
