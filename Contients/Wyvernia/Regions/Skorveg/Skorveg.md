@@ -11,9 +11,9 @@ The most recently developed capital, it's construction marked a new and current 
 id: Skorveg
 image: Skorveg.png
 width: 95%
-unit: km
+unit: miles
 bounds: [[0,0],[256,200]]
-scale: 2.4
+scale: 0.4
 lat: 128
 long: 100
 minZoom: 0

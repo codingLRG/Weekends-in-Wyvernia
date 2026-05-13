@@ -6,12 +6,12 @@ tags:
 # Map
 ```leaflet
 id: Wyvernia
-image: WyverniaMap.png
+image: Wyvernia-Hex.png
 recenter: true
 unit: miles
+scale: 0.5
 lat: 585.36
 long: 329.27
-scale: 2
 bounds: [[0,0],[1170.73,658.54]]
 darkmode: true
 width: 95%

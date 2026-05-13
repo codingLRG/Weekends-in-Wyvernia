@@ -1,0 +1,7 @@
+- [[Skorveg]] - Orange
+- [[Prospara]] - Gold
+- [[Moore]] - Red
+- [[Ta'alaki]] - Blue
+- [[Polantis]] - Purple
+- [[Seerodia]] - Green
+- Independent - Cyan

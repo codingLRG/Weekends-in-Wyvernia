@@ -1,435 +1,9 @@
 {
   "mapMarkers": [
     {
-      "id": "Skorveg",
-      "locked": true,
-      "lastAccessed": 1778189477589,
-      "markers": [
-        {
-          "id": "ID_0949bb5b9aca",
-          "type": "Government",
-          "loc": [
-            141.609375,
-            43
-          ],
-          "link": "Donovan Manor",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_49d9e81abbf8",
-          "type": "Underground Happenings",
-          "loc": [
-            63.4912109375,
-            45.4970703125
-          ],
-          "link": "Ugly Devils Warehouse",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_0bfb08ca9979",
-          "type": "Alters",
-          "loc": [
-            142.0400390625,
-            127.236328125
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5089453125,
-            -0.42783144295933734
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_abe88a59793b",
-          "type": "Region",
-          "loc": [
-            125.75,
-            79.25
-          ],
-          "link": "Market District",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.317,
-            -0.37876506024096385
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_688b5b5a1ab8",
-          "type": "Government",
-          "loc": [
-            133,
-            89.4423828125
-          ],
-          "link": "Skorveg Old City Hall",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.35776953125,
-            -0.4006024096385542
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_3ba8fb7a899a",
-          "type": "Defences",
-          "loc": [
-            149.9482421875,
-            95.0830078125
-          ],
-          "link": "Northern Skorveg Jailhouse",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_ba3a79f848f8",
-          "type": "Resources",
-          "loc": [
-            133.25,
-            115.4423828125
-          ],
-          "link": "Restkeeper's Aid",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.46176953125,
-            -0.401355421686747
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_088a0ad8fa9a",
-          "type": "Resources",
-          "loc": [
-            117.7978515625,
-            120.8515625
-          ],
-          "link": "Barnabus Smith Shop",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.48340625,
-            -0.35481280591114456
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_99da5988f889",
-          "type": "Social Hub",
-          "loc": [
-            85.6953125,
-            144.291015625
-          ],
-          "link": "Singing Siren",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5771640625,
-            -0.2581184111445783
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_ca0bdbc9690a",
-          "type": "Social Hub",
-          "loc": [
-            75.2890625,
-            60.765625
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_fa5b897ab98b",
-          "type": "Region",
-          "loc": [
-            54.060546875,
-            65.9375
-          ],
-          "link": "Ocean District",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_3b285b4b99f8",
-          "type": "City",
-          "loc": [
-            233.916015625,
-            170.5654296875
-          ],
-          "link": "Farafel",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_7aa8db080b39",
-          "type": "Resources",
-          "loc": [
-            53.1748046875,
-            169.49609375
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.677984375,
-            -0.16016507435993976
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_c9383babc8da",
-          "type": "Alters",
-          "loc": [
-            86.474609375,
-            55.3466796875
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_5a1b8b0a1bc9",
-          "type": "Defences",
-          "loc": [
-            68.935546875,
-            112.2431640625
-          ],
-          "link": "Southern Skorveg Jailhouse",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.44897265625,
-            -0.20763718938253012
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_5baaa95b0be8",
-          "type": "Resources",
-          "loc": [
-            42.9482421875,
-            76.330078125
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_dbd96ada1a8a",
-          "type": "Alters",
-          "loc": [
-            106.294921875,
-            176.5859375
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_1b4ae93ab97a",
-          "type": "Defences",
-          "loc": [
-            44,
-            48.5
-          ],
-          "link": "Skorveg Naval Academy",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.194,
-            -0.13253012048192772
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_bbd908097a3a",
-          "type": "Notable Locations",
-          "loc": [
-            128.103515625,
-            145.46875
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_9a8958390868",
-          "type": "Social Hub",
-          "loc": [
-            94.966796875,
-            77.490234375
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.3099609375,
-            -0.2860445689006024
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_1a297808c928",
-          "type": "Social Hub",
-          "loc": [
-            82.7900390625,
-            101.17138671875
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_590b9a897af9",
-          "type": "Underground Happenings",
-          "loc": [
-            89.7900390625,
-            108.54638671875
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_7b8a8b489b0a",
-          "type": "Region",
-          "loc": [
-            95.869140625,
-            113.27734375
-          ],
-          "link": "Entertainment District",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.453109375,
-            -0.28876247176204817
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Contients/Wyvernia/Regions/Skorveg/Skorveg.md"
-      ]
-    },
-    {
       "id": "Wyvernia",
       "locked": true,
-      "lastAccessed": 1778254460369,
+      "lastAccessed": 1778513485114,
       "markers": [
         {
           "id": "ID_d9290a89281b",
@@ -1376,6 +950,432 @@
       ],
       "files": [
         "Contients/Wyvernia/Wyvernia.md"
+      ]
+    },
+    {
+      "id": "Skorveg",
+      "locked": true,
+      "lastAccessed": 1778513667392,
+      "markers": [
+        {
+          "id": "ID_0949bb5b9aca",
+          "type": "Government",
+          "loc": [
+            141.609375,
+            43
+          ],
+          "link": "Donovan Manor",
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49d9e81abbf8",
+          "type": "Underground Happenings",
+          "loc": [
+            63.4912109375,
+            45.4970703125
+          ],
+          "link": "Ugly Devils Warehouse",
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0bfb08ca9979",
+          "type": "Alters",
+          "loc": [
+            142.0400390625,
+            127.236328125
+          ],
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5089453125,
+            -0.42783144295933734
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abe88a59793b",
+          "type": "Region",
+          "loc": [
+            125.75,
+            79.25
+          ],
+          "link": "Market District",
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.317,
+            -0.37876506024096385
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_688b5b5a1ab8",
+          "type": "Government",
+          "loc": [
+            133,
+            89.4423828125
+          ],
+          "link": "Skorveg Old City Hall",
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.35776953125,
+            -0.4006024096385542
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3ba8fb7a899a",
+          "type": "Defences",
+          "loc": [
+            149.9482421875,
+            95.0830078125
+          ],
+          "link": "Northern Skorveg Jailhouse",
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba3a79f848f8",
+          "type": "Resources",
+          "loc": [
+            133.25,
+            115.4423828125
+          ],
+          "link": "Restkeeper's Aid",
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.46176953125,
+            -0.401355421686747
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_088a0ad8fa9a",
+          "type": "Resources",
+          "loc": [
+            117.7978515625,
+            120.8515625
+          ],
+          "link": "Barnabus Smith Shop",
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.48340625,
+            -0.35481280591114456
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99da5988f889",
+          "type": "Social Hub",
+          "loc": [
+            85.6953125,
+            144.291015625
+          ],
+          "link": "Singing Siren",
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5771640625,
+            -0.2581184111445783
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca0bdbc9690a",
+          "type": "Social Hub",
+          "loc": [
+            75.2890625,
+            60.765625
+          ],
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa5b897ab98b",
+          "type": "Region",
+          "loc": [
+            54.060546875,
+            65.9375
+          ],
+          "link": "Ocean District",
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b285b4b99f8",
+          "type": "City",
+          "loc": [
+            233.916015625,
+            170.5654296875
+          ],
+          "link": "Farafel",
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7aa8db080b39",
+          "type": "Resources",
+          "loc": [
+            53.1748046875,
+            169.49609375
+          ],
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.677984375,
+            -0.16016507435993976
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9383babc8da",
+          "type": "Alters",
+          "loc": [
+            86.474609375,
+            55.3466796875
+          ],
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a1b8b0a1bc9",
+          "type": "Defences",
+          "loc": [
+            68.935546875,
+            112.2431640625
+          ],
+          "link": "Southern Skorveg Jailhouse",
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.44897265625,
+            -0.20763718938253012
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5baaa95b0be8",
+          "type": "Resources",
+          "loc": [
+            42.9482421875,
+            76.330078125
+          ],
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dbd96ada1a8a",
+          "type": "Alters",
+          "loc": [
+            106.294921875,
+            176.5859375
+          ],
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b4ae93ab97a",
+          "type": "Defences",
+          "loc": [
+            44,
+            48.5
+          ],
+          "link": "Skorveg Naval Academy",
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.194,
+            -0.13253012048192772
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bbd908097a3a",
+          "type": "Notable Locations",
+          "loc": [
+            128.103515625,
+            145.46875
+          ],
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a8958390868",
+          "type": "Social Hub",
+          "loc": [
+            94.966796875,
+            77.490234375
+          ],
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3099609375,
+            -0.2860445689006024
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a297808c928",
+          "type": "Social Hub",
+          "loc": [
+            82.7900390625,
+            101.17138671875
+          ],
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_590b9a897af9",
+          "type": "Underground Happenings",
+          "loc": [
+            89.7900390625,
+            108.54638671875
+          ],
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b8a8b489b0a",
+          "type": "Region",
+          "loc": [
+            95.869140625,
+            113.27734375
+          ],
+          "link": "Entertainment District",
+          "layer": "Skorveg.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.453109375,
+            -0.28876247176204817
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Contients/Wyvernia/Regions/Skorveg/Skorveg.md"
       ]
     }
   ],
