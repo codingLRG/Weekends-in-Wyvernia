@@ -10,7 +10,7 @@ tags:
 | 25  | [[Adventurers Tournament]] |
 
 ### Opening Monologue
-> Night ensues over, it is **Eleint (pronounced: eh-LAYNT) 21st** in [[Skorveg]]
+> Night ensues over, it is **Eleint (pronounced: eh-LAYNT) 21st** in [[Skorveg (Capital)]]
 ## Party at the Hearth
 [[Roger|Casper]]
 

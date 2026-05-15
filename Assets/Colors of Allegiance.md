@@ -1,4 +1,4 @@
-- [[Skorveg]] - Orange
+- [[Skorveg (Capital)]] - Orange
 - [[Prospara]] - Gold
 - [[Moore]] - Red
 - [[Ta'alaki]] - Blue

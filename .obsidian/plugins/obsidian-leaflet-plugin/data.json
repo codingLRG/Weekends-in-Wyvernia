@@ -1,22 +1,122 @@
 {
   "mapMarkers": [
     {
-      "id": "Wyvernia",
+      "id": "Skorveg-Region",
+      "lastAccessed": 1778780712133,
+      "markers": [
+        {
+          "id": "ID_19bae9db19eb",
+          "type": "City",
+          "loc": [
+            42.78515625,
+            38.4013671875
+          ],
+          "link": "Skorveg (Capital)",
+          "layer": "Skorveg-Region.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            15.60436507936508,
+            -11.59047619047619
+          ],
+          "description": null,
+          "minZoom": -1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88eb99abf988",
+          "type": "City",
+          "loc": [
+            60.44140625,
+            46.4248046875
+          ],
+          "link": "Farafel",
+          "layer": "Skorveg-Region.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            18.86468253968254,
+            -16.373544973544973
+          ],
+          "description": null,
+          "minZoom": -1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Contients/Wyvernia/Regions/Skorveg/Skorveg (Region).md"
+      ]
+    },
+    {
+      "id": "Skorveg",
       "locked": true,
-      "lastAccessed": 1778513485114,
+      "lastAccessed": 1778781084967,
+      "markers": [
+        {
+          "id": "ID_ab89798ae969",
+          "type": "Underground Happenings",
+          "loc": [
+            116.136474609375,
+            20.739990234375
+          ],
+          "link": "Ugly Devils Warehouse",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db494acafaca",
+          "type": "Social Hub",
+          "loc": [
+            55.971435546875,
+            110.9013671875
+          ],
+          "link": "The Hearth",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Contients/Wyvernia/Regions/Skorveg/Capital/Skorveg (Capital).md"
+      ]
+    },
+    {
+      "id": "Wyvernia",
+      "locked": false,
+      "lastAccessed": 1778781084967,
       "markers": [
         {
           "id": "ID_d9290a89281b",
           "type": "Region",
           "loc": [
-            545.3125,
-            142
+            542.32421875,
+            149.390625
           ],
-          "link": "Skorveg",
+          "link": "Skorveg (Region)",
           "layer": "WyverniaMap.png",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.06483968098958333,
+            -0.1569225169994213
+          ],
           "description": "",
           "minZoom": null,
           "maxZoom": null,
@@ -26,14 +126,17 @@
           "id": "ID_d84989e95b8b",
           "type": "Region",
           "loc": [
-            178.21875,
-            187
+            105.390625,
+            190.2518898611811
           ],
           "link": "Seerodia",
           "layer": "WyverniaMap.png",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.08257460497447096,
+            -0.030494972511574073
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -43,14 +146,17 @@
           "id": "ID_aadaba09aa3b",
           "type": "Region",
           "loc": [
-            1004.658203125,
-            358.166015625
+            1024.3671875,
+            363.1136665597654
           ],
           "link": "Prospara",
           "layer": "WyverniaMap.png",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.15760141777767597,
+            -0.29640254267939814
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -60,67 +166,19 @@
           "id": "ID_385b3abb4bc8",
           "type": "Region",
           "loc": [
-            504.875,
-            388
+            514.1796875,
+            360.66015625
           ],
           "link": "Polantis",
           "layer": "WyverniaMap.png",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.1565365261501736,
+            -0.14877884476273148
+          ],
           "description": null,
           "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_c8f928e9d8b8",
-          "type": "City",
-          "loc": [
-            635.60546875,
-            157.294921875
-          ],
-          "link": "Farafel",
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_d8ab2b3a0bb8",
-          "type": "City",
-          "loc": [
-            617.109375,
-            444
-          ],
-          "link": "Sercola",
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_2af9b858aa8a",
-          "type": "City",
-          "loc": [
-            561.109375,
-            415
-          ],
-          "link": "Grand Split",
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
           "maxZoom": null,
           "tooltip": "hover"
         },
@@ -145,50 +203,19 @@
           "id": "ID_099b9ab9b84a",
           "type": "Natural Wonders",
           "loc": [
-            450.21875,
-            208
+            448.310546875,
+            234.76953125
           ],
           "link": "Needlepoint",
           "layer": "WyverniaMap.png",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.10189649793836805,
+            -0.12971948694299767
+          ],
           "description": null,
           "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_78e8d9e98828",
-          "type": "City",
-          "loc": [
-            81.21484375,
-            372.771484375
-          ],
-          "link": "Kanoi",
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_d8a9faea5b58",
-          "type": "City",
-          "loc": [
-            143.71484375,
-            593.271484375
-          ],
-          "link": "Hu'kita",
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
           "maxZoom": null,
           "tooltip": "hover"
         },
@@ -196,48 +223,17 @@
           "id": "ID_1b881b9a5928",
           "type": "Region",
           "loc": [
-            150.109375,
-            508
+            133.1484375,
+            493.36271590232275
           ],
           "link": "Ta'alaki",
           "layer": "WyverniaMap.png",
           "mutable": true,
           "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_d92aa90afa6b",
-          "type": "City",
-          "loc": [
-            548.08984375,
-            492.591796875
+          "percent": [
+            0.21413312322149425,
+            -0.03852674696180555
           ],
-          "link": "Va'ant",
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_eaf94b699899",
-          "type": "Natural Wonders",
-          "loc": [
-            286.4375,
-            236
-          ],
-          "link": "Snowedge's Peaks",
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -247,116 +243,17 @@
           "id": "ID_087a1b6ae8c9",
           "type": "Region",
           "loc": [
-            312.109375,
-            323.5
+            307.853515625,
+            318.88671875
           ],
           "link": "Moore",
           "layer": "WyverniaMap.png",
           "mutable": true,
           "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_c84b4b8858c9",
-          "type": "City",
-          "loc": [
-            794.390625,
-            118.404296875
+          "percent": [
+            0.1384056939019097,
+            -0.08907798484519676
           ],
-          "link": "Pesiri",
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_3afafa886949",
-          "type": "City",
-          "loc": [
-            853.265625,
-            172.318359375
-          ],
-          "link": "Pari",
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_b81baa5a2bc9",
-          "type": "Region",
-          "loc": [
-            809.265625,
-            278.318359375
-          ],
-          "link": "Pistopara",
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -2,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_59ea79ca582a",
-          "type": "City",
-          "loc": [
-            693.658203125,
-            484.419921875
-          ],
-          "link": "Puntar",
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_a948db8bcaba",
-          "type": "City",
-          "loc": [
-            661.609375,
-            85
-          ],
-          "link": "Sleek",
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_8b3a2a0aa84b",
-          "type": "Natural Wonders",
-          "loc": [
-            1004.884765625,
-            248.021484375
-          ],
-          "link": "Oasis of Rebirth",
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -400,50 +297,19 @@
           "id": "ID_ca3a6aabdbb9",
           "type": "Natural Wonders",
           "loc": [
-            419.5390625,
-            588.0859375
+            456.4375,
+            529.3179395549854
           ],
           "link": "Grim Waste",
           "layer": "WyverniaMap.png",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.2297386890429624,
+            -0.13207103587962962
+          ],
           "description": null,
           "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_d88b7b19dba9",
-          "type": "City",
-          "loc": [
-            413.609375,
-            293.5
-          ],
-          "link": "Dista",
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_e938f9e9fbc9",
-          "type": "City",
-          "loc": [
-            862.609375,
-            402.5
-          ],
-          "link": "Pospos",
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
           "maxZoom": null,
           "tooltip": "hover"
         },
@@ -451,14 +317,17 @@
           "id": "ID_4a9b385acb89",
           "type": "Natural Wonders",
           "loc": [
-            59.609375,
-            384.5
+            51.453125,
+            366.75114918831423
           ],
           "link": "Volcanic Spire",
           "layer": "WyverniaMap.png",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.15918018627965028,
+            -0.014888057002314815
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -484,97 +353,19 @@
           "id": "ID_b9eadb59a8bb",
           "type": "Natural Wonders",
           "loc": [
-            206.4375,
-            414
+            161.171875,
+            407.63528351735613
           ],
           "link": "Sunken Empire Reef",
           "layer": "WyverniaMap.png",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.17692503624885247,
+            -0.04663538049768518
+          ],
           "description": null,
           "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_6b6a798a9baa",
-          "type": "City",
-          "loc": [
-            336.5390625,
-            425.064453125
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_3b9bcbc839aa",
-          "type": "Dungeon",
-          "loc": [
-            663.109375,
-            342.5
-          ],
-          "link": "Tholmort's Passage",
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_8a28ca28bb48",
-          "type": "City",
-          "loc": [
-            483.609375,
-            505
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_59f8c87b592b",
-          "type": "City",
-          "loc": [
-            125.71875,
-            232.474609375
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_fae999788a2b",
-          "type": "City",
-          "loc": [
-            260.47265625,
-            126.78125
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
           "maxZoom": null,
           "tooltip": "hover"
         },
@@ -582,126 +373,16 @@
           "id": "ID_e8a8395929bb",
           "type": "Natural Wonders",
           "loc": [
-            171.109375,
-            264
+            162.984375,
+            273.53143659992975
           ],
           "layer": "WyverniaMap.png",
           "mutable": true,
           "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_da2aa9eb9978",
-          "type": "City",
-          "loc": [
-            149.21875,
-            370
+          "percent": [
+            0.11872024157983062,
+            -0.047159830729166664
           ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_e90a89b9f988",
-          "type": "City",
-          "loc": [
-            280.21875,
-            467
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_6baa88dab8f9",
-          "type": "City",
-          "loc": [
-            350.21875,
-            560
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_4acbf929591b",
-          "type": "Dungeon",
-          "loc": [
-            408.21875,
-            455
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_aa2a48982839",
-          "type": "City",
-          "loc": [
-            349.294921875,
-            273.796875
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_18f8ab8beb7b",
-          "type": "Dungeon",
-          "loc": [
-            275.84375,
-            197.08203125
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_b87a38892b38",
-          "type": "Natural Wonders",
-          "loc": [
-            783.21875,
-            204
-          ],
-          "link": "Three Dunes",
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -727,182 +408,19 @@
           "id": "ID_b84ba92b494b",
           "type": "Natural Wonders",
           "loc": [
-            411.21875,
-            358
+            429.865234375,
+            363.2265625
           ],
           "link": "Dead Plains",
           "layer": "WyverniaMap.png",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.1576504177517361,
+            -0.12438230161313657
+          ],
           "description": null,
           "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_fa7beb993aea",
-          "type": "City",
-          "loc": [
-            956.21875,
-            350
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_7b08b80828b9",
-          "type": "City",
-          "loc": [
-            969.89453125,
-            205.44921875
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.3804615162037037,
-            -1.0103068033854166
-          ],
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_696979eb7bdb",
-          "type": "City",
-          "loc": [
-            350.40625,
-            183
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_6a8808bb7889",
-          "type": "City",
-          "loc": [
-            573.8125,
-            201
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_e989fb3b8a4b",
-          "type": "Dungeon",
-          "loc": [
-            400.625,
-            222
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_9bebaa8858e9",
-          "type": "Dungeon",
-          "loc": [
-            66.625,
-            196
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_29c86b0a6a69",
-          "type": "Dungeon",
-          "loc": [
-            684.625,
-            552
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_4b490bbbdab8",
-          "type": "Dungeon",
-          "loc": [
-            852.625,
-            488
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_39f8a92ada28",
-          "type": "Dungeon",
-          "loc": [
-            903.140625,
-            252.1484375
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.46694155092592593,
-            -0.940771484375
-          ],
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_39c92898699b",
-          "type": "Dungeon",
-          "loc": [
-            1057.3125,
-            200
-          ],
-          "layer": "WyverniaMap.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
           "maxZoom": null,
           "tooltip": "hover"
         }
@@ -950,432 +468,6 @@
       ],
       "files": [
         "Contients/Wyvernia/Wyvernia.md"
-      ]
-    },
-    {
-      "id": "Skorveg",
-      "locked": true,
-      "lastAccessed": 1778513667392,
-      "markers": [
-        {
-          "id": "ID_0949bb5b9aca",
-          "type": "Government",
-          "loc": [
-            141.609375,
-            43
-          ],
-          "link": "Donovan Manor",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_49d9e81abbf8",
-          "type": "Underground Happenings",
-          "loc": [
-            63.4912109375,
-            45.4970703125
-          ],
-          "link": "Ugly Devils Warehouse",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_0bfb08ca9979",
-          "type": "Alters",
-          "loc": [
-            142.0400390625,
-            127.236328125
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5089453125,
-            -0.42783144295933734
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_abe88a59793b",
-          "type": "Region",
-          "loc": [
-            125.75,
-            79.25
-          ],
-          "link": "Market District",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.317,
-            -0.37876506024096385
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_688b5b5a1ab8",
-          "type": "Government",
-          "loc": [
-            133,
-            89.4423828125
-          ],
-          "link": "Skorveg Old City Hall",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.35776953125,
-            -0.4006024096385542
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_3ba8fb7a899a",
-          "type": "Defences",
-          "loc": [
-            149.9482421875,
-            95.0830078125
-          ],
-          "link": "Northern Skorveg Jailhouse",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_ba3a79f848f8",
-          "type": "Resources",
-          "loc": [
-            133.25,
-            115.4423828125
-          ],
-          "link": "Restkeeper's Aid",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.46176953125,
-            -0.401355421686747
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_088a0ad8fa9a",
-          "type": "Resources",
-          "loc": [
-            117.7978515625,
-            120.8515625
-          ],
-          "link": "Barnabus Smith Shop",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.48340625,
-            -0.35481280591114456
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_99da5988f889",
-          "type": "Social Hub",
-          "loc": [
-            85.6953125,
-            144.291015625
-          ],
-          "link": "Singing Siren",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5771640625,
-            -0.2581184111445783
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_ca0bdbc9690a",
-          "type": "Social Hub",
-          "loc": [
-            75.2890625,
-            60.765625
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_fa5b897ab98b",
-          "type": "Region",
-          "loc": [
-            54.060546875,
-            65.9375
-          ],
-          "link": "Ocean District",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_3b285b4b99f8",
-          "type": "City",
-          "loc": [
-            233.916015625,
-            170.5654296875
-          ],
-          "link": "Farafel",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_7aa8db080b39",
-          "type": "Resources",
-          "loc": [
-            53.1748046875,
-            169.49609375
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.677984375,
-            -0.16016507435993976
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_c9383babc8da",
-          "type": "Alters",
-          "loc": [
-            86.474609375,
-            55.3466796875
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_5a1b8b0a1bc9",
-          "type": "Defences",
-          "loc": [
-            68.935546875,
-            112.2431640625
-          ],
-          "link": "Southern Skorveg Jailhouse",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.44897265625,
-            -0.20763718938253012
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_5baaa95b0be8",
-          "type": "Resources",
-          "loc": [
-            42.9482421875,
-            76.330078125
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_dbd96ada1a8a",
-          "type": "Alters",
-          "loc": [
-            106.294921875,
-            176.5859375
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_1b4ae93ab97a",
-          "type": "Defences",
-          "loc": [
-            44,
-            48.5
-          ],
-          "link": "Skorveg Naval Academy",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.194,
-            -0.13253012048192772
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_bbd908097a3a",
-          "type": "Notable Locations",
-          "loc": [
-            128.103515625,
-            145.46875
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_9a8958390868",
-          "type": "Social Hub",
-          "loc": [
-            94.966796875,
-            77.490234375
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.3099609375,
-            -0.2860445689006024
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_1a297808c928",
-          "type": "Social Hub",
-          "loc": [
-            82.7900390625,
-            101.17138671875
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_590b9a897af9",
-          "type": "Underground Happenings",
-          "loc": [
-            89.7900390625,
-            108.54638671875
-          ],
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_7b8a8b489b0a",
-          "type": "Region",
-          "loc": [
-            95.869140625,
-            113.27734375
-          ],
-          "link": "Entertainment District",
-          "layer": "Skorveg.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.453109375,
-            -0.28876247176204817
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Contients/Wyvernia/Regions/Skorveg/Skorveg.md"
       ]
     }
   ],

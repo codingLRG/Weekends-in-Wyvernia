@@ -11,7 +11,7 @@ tags:
 ### Session Description
 
 ### Opening Monologue
-> Dusk approaches, it is **Eleint (pronounced: eh-LAYNT) 21st** in [[Skorveg]]
+> Dusk approaches, it is **Eleint (pronounced: eh-LAYNT) 21st** in [[Skorveg (Capital)]]
 
 ## Skorveg Barley Farm
 [[Encounter Template]]

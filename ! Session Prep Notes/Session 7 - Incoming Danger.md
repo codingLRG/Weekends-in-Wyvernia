@@ -5,10 +5,10 @@ tags:
 
 ## Introduction
 ### Session Description
-After finally spending a full day in [[Skorveg]], not everything is what it seems.
+After finally spending a full day in [[Skorveg (Capital)]], not everything is what it seems.
 
 ### Opening Monologue
-> Dusk approaches, it is **Eleint (pronounced: eh-LAYNT) 21st** in [[Skorveg]]
+> Dusk approaches, it is **Eleint (pronounced: eh-LAYNT) 21st** in [[Skorveg (Capital)]]
 
 ## Chapter Title
 ### Into the Tavern

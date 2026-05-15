@@ -19,6 +19,6 @@ Last Date Recorded: 17
 
 | What do they want?                | How do they do it?                                                                                            | What is stopping them?                                  |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| Become the admiral of [[Skorveg]] | Studying naval strategies and working with underground entities like [[The Twins]] to gain political leverage | The current admiral is being past down through nepotism |
+| Become the admiral of [[Skorveg (Capital)]] | Studying naval strategies and working with underground entities like [[The Twins]] to gain political leverage | The current admiral is being past down through nepotism |
 
 # Notes

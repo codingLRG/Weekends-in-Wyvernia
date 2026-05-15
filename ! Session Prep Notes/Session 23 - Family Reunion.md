@@ -4,7 +4,7 @@ tags:
 ---
 > Morning, [[InteriFore]] of the Calm
 # To Do List
-- [ ] Arrival at [[Skorveg]]
+- [ ] Arrival at [[Skorveg (Capital)]]
 	- [ ] Arrival of [[Estvolans]]
 	- [ ] [[Zhven, Prince of Estvola]]
 		- [ ] [[Eye of Vecna]]

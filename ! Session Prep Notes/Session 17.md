@@ -16,7 +16,7 @@ tags:
 - [ ] Investigate [[Niketas O'Neill]] whereabouts on the southern side of town
 - [ ] Interrogate [[Orange robed man]] with [[Fabbio Otimorn]] 
 	- [ ] [[The Astara]] (Astarian) -> his people
-- [ ] Meet up with [[Martha Strout]] at the north side of [[Skorveg]]
+- [ ] Meet up with [[Martha Strout]] at the north side of [[Skorveg (Capital)]]
 - [x] Pull [[Roger|Casper]] away from the group with a message from a little boy and an envelope. 
 	- [x] "The Captain sends his regards"
 - [ ] 
@@ -42,7 +42,7 @@ tags:
 [[Jose|John "Ranger" Booth]] has 12 days told by [[Cecil of the Willow]] to slay the [[Werebear]], heads towards [[Ocean District]] to find [[Niketas O'Neill]]
 Tab is 87, paid 35
 Short rest at [[The Hearth]], John not there
-Introduced the [[Skorveg]] pipe from [[Barnabus the Smith]] 
+Introduced the [[Skorveg (Capital)]] pipe from [[Barnabus the Smith]] 
 # Post Session To-do
 - [ ] Create potential character sheets for the following
 	- [ ] [[Martha Strout]]

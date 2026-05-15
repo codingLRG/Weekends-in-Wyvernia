@@ -27,7 +27,7 @@
 | ---------------- | ------------------------------------- | ---------------------- | ---- | --------------------------------------------------------------------- | ----------------------------- |
 | New              |                                       |                        |      |                                                                       |                               |
 | Break (1/4 Full) |                                       |                        |      |                                                                       |                               |
-| Fore (1/2 Full)  |                                       | Arrived at [[Skorveg]] |      | CURRENT DAY                                                           | [[Casper's Captain Reunion]]  |
+| Fore (1/2 Full)  |                                       | Arrived at [[Skorveg (Capital)]] |      | CURRENT DAY                                                           | [[Casper's Captain Reunion]]  |
 | Mast (3/4 Full)  | [[Niketas O'Neill assassination due]] | [[Pixie Drug Bust]]    |      | [[Takhisis delve into Tholmort's Passage]] [[Adventurers Tournament]] |                               |
 | Full             | [[John's Transformation]]             |                        |      |                                                                       |                               |
 | Mizzen (1/4 New) |                                       |                        |      |                                                                       |                               |

@@ -17,7 +17,7 @@ tags:
 		- [[Harpy]]
 	- Loot
 		- [ ] 5 SP each
-- [ ] Destroy [[Skorveg]]
+- [ ] Destroy [[Skorveg (Capital)]]
 	- [ ] 
 # Random Character Names
 ## Male
