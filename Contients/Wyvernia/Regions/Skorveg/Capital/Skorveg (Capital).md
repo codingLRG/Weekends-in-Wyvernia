@@ -12,6 +12,13 @@ id: Skorveg-Capital
 image: Skorveg-Hex.png
 unit: miles
 bounds: [[0,0],[126,189]]
+width: 95%
+height: 500px
+lat: 62
+long: 90
+minZoom: 1
+maxZoom: 5
+defaultZoom: 2
 scale: .1
 ```
-
+[[Government]], [[Underground Happenings]], [[Altars]], [[Resources]], [[Defenses]], [[Social Hubs]]

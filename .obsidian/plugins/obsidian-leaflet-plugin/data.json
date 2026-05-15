@@ -1,103 +1,6 @@
 {
   "mapMarkers": [
     {
-      "id": "Skorveg-Region",
-      "lastAccessed": 1778780712133,
-      "markers": [
-        {
-          "id": "ID_19bae9db19eb",
-          "type": "City",
-          "loc": [
-            42.78515625,
-            38.4013671875
-          ],
-          "link": "Skorveg (Capital)",
-          "layer": "Skorveg-Region.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            15.60436507936508,
-            -11.59047619047619
-          ],
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_88eb99abf988",
-          "type": "City",
-          "loc": [
-            60.44140625,
-            46.4248046875
-          ],
-          "link": "Farafel",
-          "layer": "Skorveg-Region.png",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            18.86468253968254,
-            -16.373544973544973
-          ],
-          "description": null,
-          "minZoom": -1,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Contients/Wyvernia/Regions/Skorveg/Skorveg (Region).md"
-      ]
-    },
-    {
-      "id": "Skorveg",
-      "locked": true,
-      "lastAccessed": 1778781084967,
-      "markers": [
-        {
-          "id": "ID_ab89798ae969",
-          "type": "Underground Happenings",
-          "loc": [
-            116.136474609375,
-            20.739990234375
-          ],
-          "link": "Ugly Devils Warehouse",
-          "layer": "Skorveg-Hex.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_db494acafaca",
-          "type": "Social Hub",
-          "loc": [
-            55.971435546875,
-            110.9013671875
-          ],
-          "link": "The Hearth",
-          "layer": "Skorveg-Hex.png",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Contients/Wyvernia/Regions/Skorveg/Capital/Skorveg (Capital).md"
-      ]
-    },
-    {
       "id": "Wyvernia",
       "locked": false,
       "lastAccessed": 1778781084967,
@@ -468,6 +371,382 @@
       ],
       "files": [
         "Contients/Wyvernia/Wyvernia.md"
+      ]
+    },
+    {
+      "id": "Skorveg-Region",
+      "lastAccessed": 1778887752777,
+      "markers": [
+        {
+          "id": "ID_19bae9db19eb",
+          "type": "City",
+          "loc": [
+            56.888671875,
+            33.123046875
+          ],
+          "link": "Skorveg (Capital)",
+          "layer": "Skorveg-Region.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.420610119047619,
+            -0.48159722222222223
+          ],
+          "description": null,
+          "minZoom": -1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88eb99abf988",
+          "type": "City",
+          "loc": [
+            82.134765625,
+            56.2578125
+          ],
+          "link": "Farafel",
+          "layer": "Skorveg-Region.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7143849206349207,
+            -0.6953207671957672
+          ],
+          "description": null,
+          "minZoom": -1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Contients/Wyvernia/Regions/Skorveg/Skorveg (Region).md"
+      ]
+    },
+    {
+      "id": "Skorveg",
+      "locked": true,
+      "lastAccessed": 1778888729423,
+      "markers": [
+        {
+          "id": "ID_ab89798ae969",
+          "type": "Underground Happenings",
+          "loc": [
+            116.136474609375,
+            20.739990234375
+          ],
+          "link": "Ugly Devils Warehouse",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db494acafaca",
+          "type": "Social Hub",
+          "loc": [
+            55.971435546875,
+            110.9013671875
+          ],
+          "link": "The Hearth",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Contients/Wyvernia/Regions/Skorveg/Capital/Skorveg (Capital).md"
+      ]
+    },
+    {
+      "id": "Skorveg-Capital",
+      "lastAccessed": 1778888729423,
+      "markers": [
+        {
+          "id": "ID_1a1aea89db6a",
+          "type": "Government",
+          "loc": [
+            51.50732421875,
+            114.37890625
+          ],
+          "link": "Southern Skorveg Captains Office",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.968287037037037,
+            -0.6540612599206349
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b908699aab69",
+          "type": "Defences",
+          "loc": [
+            52.75,
+            119.5
+          ],
+          "link": "Southern Skorveg Jailhouse",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.0116402116402117,
+            -0.6698412698412698
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6929aa198be9",
+          "type": "Social Hub",
+          "loc": [
+            63.74267578125,
+            120.0869140625
+          ],
+          "link": "The Hearth",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.0166087962962962,
+            -0.8094308035714286
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b897849aa08",
+          "type": "Alters",
+          "loc": [
+            80.25,
+            146
+          ],
+          "link": "Skorveg Public Chapel",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.235978835978836,
+            -1.019047619047619
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb78ca0959fa",
+          "type": "Government",
+          "loc": [
+            97.408203125,
+            106.701171875
+          ],
+          "link": "Skorveg Grand Castle",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9032903439153439,
+            -1.2369295634920634
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c92afa281b2a",
+          "type": "Resources",
+          "loc": [
+            69.1259765625,
+            94.779296875
+          ],
+          "link": "Skorveg Market District",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.802364417989418,
+            -0.8777901785714286
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab187a2a7b49",
+          "type": "Resources",
+          "loc": [
+            74.126953125,
+            126.92431640625
+          ],
+          "link": "Barnabus's Smithy",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.0744915674603175,
+            -0.9412946428571428
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3969f949d84b",
+          "type": "Underground Happenings",
+          "loc": [
+            116.673828125,
+            20.607421875
+          ],
+          "link": "Ugly Devils Warehouse",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a39a9493b2a",
+          "type": "Resources",
+          "loc": [
+            93.8896484375,
+            35.478515625
+          ],
+          "link": "Skorveg Ocean District",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa2aa92acaa8",
+          "type": "Defences",
+          "loc": [
+            100.5,
+            49.75
+          ],
+          "link": "Skorveg Admiral's Office",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4211640211640212,
+            -1.276190476190476
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_496bb8fa28a8",
+          "type": "Social Hub",
+          "loc": [
+            47.99560546875,
+            107.537841796875
+          ],
+          "link": "Singing Siren",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59eb998a58fa",
+          "type": "Resources",
+          "loc": [
+            59.625,
+            106.75
+          ],
+          "link": "Restkeeper's Aid",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9037037037037037,
+            -0.7571428571428571
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19394969786b",
+          "type": "Resources",
+          "loc": [
+            51.42041015625,
+            155.08740234375
+          ],
+          "link": "Windmill Farm",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c919fa99e8bb",
+          "type": "Resources",
+          "loc": [
+            97.9072265625,
+            154.748046875
+          ],
+          "link": "Lumberyard",
+          "layer": "Skorveg-Hex.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.3100363756613758,
+            -1.2432663690476191
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Contients/Wyvernia/Regions/Skorveg/Capital/Skorveg (Capital).md"
       ]
     }
   ],

@@ -39,7 +39,7 @@ tags:
 [[Ezeequel]] walks off with [[Orange robed man]] to the jail after a frustrating confrontation with [[PCs - Master]]
 [[Isaac|Steeve]] tracked [[Roger|Casper]] by his shit smell
 [[Restkeeper's Aid]] is [[Fabbio Otimorn]]'s clinic, [[Roger|Casper]] is banned, the kid messenger is left there 
-[[Jose|John "Ranger" Booth]] has 12 days told by [[Cecil of the Willow]] to slay the [[Werebear]], heads towards [[Ocean District]] to find [[Niketas O'Neill]]
+[[Jose|John "Ranger" Booth]] has 12 days told by [[Cecil of the Willow]] to slay the [[Werebear]], heads towards [[Skorveg Ocean District]] to find [[Niketas O'Neill]]
 Tab is 87, paid 35
 Short rest at [[The Hearth]], John not there
 Introduced the [[Skorveg (Capital)]] pipe from [[Barnabus the Smith]] 

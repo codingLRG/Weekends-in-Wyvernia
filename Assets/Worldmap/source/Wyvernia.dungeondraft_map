@@ -30,13 +30,13 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 288.481, 3627.73 )",
-			"camera_zoom": 1.6,
+			"camera_position": "Vector2( 1168.61, 3207.33 )",
+			"camera_zoom": 5.333333,
 			"guide_position": "null",
 			"trace_image": {
 				"image": "/Users/devwillis/Documents/Weekends-in-Wyvernia/Assets/Worldmap/WyverniaMap.png",
-				"scale": 3.64,
-				"opacity": 0.01,
+				"scale": 3.63,
+				"opacity": 1,
 				"position": "Vector2( 2304, 3456 )"
 			},
 			"color_palettes": {
@@ -149,14 +149,21 @@
 				]
 			},
 			"object_library_memory": {
-				"mode": "tags",
-				"scroll": 11672.958512,
+				"mode": "used",
+				"scroll": 0,
 				"selected": [
-					"res://packs/PEHboH0e/textures/objects/Pins - Banner (ruins).webp"
+					"res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png"
 				],
 				"search_strictness": 0.9
 			},
-			"scatter_library_memory": null,
+			"scatter_library_memory": {
+				"mode": "used",
+				"scroll": 0,
+				"selected": [
+					"res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png"
+				],
+				"search_strictness": 0.9
+			},
 			"path_library_memory": null,
 			"sharpen_fonts": true
 		}
@@ -165,7 +172,7 @@
 		"format": 3,
 		"width": 18,
 		"height": 27,
-		"next_node_id": "268",
+		"next_node_id": "2fc",
 		"next_prefab_id": "7",
 		"msi": {
 			"offset_map_size": 512,
@@ -180,7 +187,7 @@
 		"building_wear": null,
 		"wall_shadow": true,
 		"object_shadow": true,
-		"trace_image_visible": true,
+		"trace_image_visible": false,
 		"embedded": {
 
 		},
@@ -740,6 +747,72 @@
 				],
 				"objects": [
 					{
+						"position": "Vector2( 3426, -86 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "29c"
+					},
+					{
+						"position": "Vector2( 4617.65, -86 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2a0"
+					},
+					{
+						"position": "Vector2( 1638.52, -86 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "299"
+					},
+					{
+						"position": "Vector2( 2830.17, -86 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "29a"
+					},
+					{
+						"position": "Vector2( 1042.69, -86 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "298"
+					},
+					{
+						"position": "Vector2( 446.869, -86 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "294"
+					},
+					{
 						"position": "Vector2( 2234.35, -86 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -749,6 +822,61 @@
 						"shadow": true,
 						"block_light": false,
 						"node_id": "20e"
+					},
+					{
+						"position": "Vector2( 4021.82, -86 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "29e"
+					},
+					{
+						"position": "Vector2( 3128.08, 86 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "29b"
+					},
+					{
+						"position": "Vector2( 1340.61, 86 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "20b"
+					},
+					{
+						"position": "Vector2( 4319.73, 86 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "29f"
+					},
+					{
+						"position": "Vector2( 148.956, 86 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "293"
 					},
 					{
 						"position": "Vector2( 1936.43, 86 )",
@@ -762,6 +890,17 @@
 						"node_id": "20d"
 					},
 					{
+						"position": "Vector2( 744.782, 86 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "297"
+					},
+					{
 						"position": "Vector2( 2532.26, 86 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -773,7 +912,7 @@
 						"node_id": "20f"
 					},
 					{
-						"position": "Vector2( 1340.61, 86 )",
+						"position": "Vector2( 3723.91, 86 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -781,7 +920,95 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "20b"
+						"node_id": "29d"
+					},
+					{
+						"position": "Vector2( 4617.65, 258 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2a1"
+					},
+					{
+						"position": "Vector2( 1042.69, 258 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "20a"
+					},
+					{
+						"position": "Vector2( -148.956, 258 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "292"
+					},
+					{
+						"position": "Vector2( 446.869, 258 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "295"
+					},
+					{
+						"position": "Vector2( 4021.82, 258 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2a4"
+					},
+					{
+						"position": "Vector2( 2830.17, 258 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "210"
+					},
+					{
+						"position": "Vector2( 3426, 258 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2a2"
+					},
+					{
+						"position": "Vector2( 1638.52, 258 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "20c"
 					},
 					{
 						"position": "Vector2( 2234.35, 258 )",
@@ -796,52 +1023,7 @@
 						"node_id": "18b"
 					},
 					{
-						"position": "Vector2( 2830.17, 258 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "210"
-					},
-					{
-						"position": "Vector2( 1638.52, 258 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "20c"
-					},
-					{
-						"position": "Vector2( 1042.69, 258 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "20a"
-					},
-					{
-						"position": "Vector2( 1340.61, 430 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ff8d6d58",
-						"node_id": "1ac"
-					},
-					{
-						"position": "Vector2( 2532.26, 430 )",
+						"position": "Vector2( 1936.43, 430 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -850,7 +1032,7 @@
 						"shadow": true,
 						"block_light": false,
 						"custom_color": "ffd8c888",
-						"node_id": "18a"
+						"node_id": "18c"
 					},
 					{
 						"position": "Vector2( 3128.08, 430 )",
@@ -875,31 +1057,40 @@
 						"node_id": "209"
 					},
 					{
-						"position": "Vector2( 1936.43, 430 )",
+						"position": "Vector2( 4319.73, 430 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "18c"
+						"node_id": "2a6"
 					},
 					{
-						"position": "Vector2( 2234.35, 602 )",
+						"position": "Vector2( 3723.91, 430 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "1bd"
+						"node_id": "2a3"
 					},
 					{
-						"position": "Vector2( 1638.52, 602 )",
+						"position": "Vector2( 148.956, 430 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "291"
+					},
+					{
+						"position": "Vector2( 2532.26, 430 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -908,7 +1099,30 @@
 						"shadow": true,
 						"block_light": false,
 						"custom_color": "ffd8c888",
-						"node_id": "18d"
+						"node_id": "18a"
+					},
+					{
+						"position": "Vector2( 1340.61, 430 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff8d6d58",
+						"node_id": "1ac"
+					},
+					{
+						"position": "Vector2( -148.956, 602 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "290"
 					},
 					{
 						"position": "Vector2( 3426, 602 )",
@@ -920,18 +1134,6 @@
 						"shadow": true,
 						"block_light": false,
 						"node_id": "212"
-					},
-					{
-						"position": "Vector2( 2830.17, 602 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "189"
 					},
 					{
 						"position": "Vector2( 1042.69, 602 )",
@@ -946,18 +1148,19 @@
 						"node_id": "1ab"
 					},
 					{
-						"position": "Vector2( 2532.26, 774 )",
+						"position": "Vector2( 1638.52, 602 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Banner 4 (blue).webp",
-						"layer": 100,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "25a"
+						"custom_color": "ffd8c888",
+						"node_id": "18d"
 					},
 					{
-						"position": "Vector2( 1936.43, 774 )",
+						"position": "Vector2( 4617.65, 602 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -965,10 +1168,21 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "1f4"
+						"node_id": "2a7"
 					},
 					{
-						"position": "Vector2( 3128.08, 774 )",
+						"position": "Vector2( 4021.82, 602 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2a5"
+					},
+					{
+						"position": "Vector2( 2234.35, 602 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -977,10 +1191,21 @@
 						"shadow": true,
 						"block_light": false,
 						"custom_color": "ffd8c888",
-						"node_id": "188"
+						"node_id": "1bd"
 					},
 					{
-						"position": "Vector2( 2532.26, 774 )",
+						"position": "Vector2( 446.869, 602 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "296"
+					},
+					{
+						"position": "Vector2( 2830.17, 602 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -989,7 +1214,30 @@
 						"shadow": true,
 						"block_light": false,
 						"custom_color": "ffd8c888",
-						"node_id": "1be"
+						"node_id": "189"
+					},
+					{
+						"position": "Vector2( 1936.43, 774 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "2e8"
+					},
+					{
+						"position": "Vector2( 744.782, 774 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "208"
 					},
 					{
 						"position": "Vector2( 1340.61, 774 )",
@@ -1004,15 +1252,15 @@
 						"node_id": "1b3"
 					},
 					{
-						"position": "Vector2( 744.782, 774 )",
+						"position": "Vector2( 2532.26, 774 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
+						"texture": "res://packs/PEHboH0e/textures/objects/Banner 4 (blue).webp",
+						"layer": 100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "208"
+						"node_id": "25a"
 					},
 					{
 						"position": "Vector2( 3723.91, 774 )",
@@ -1024,6 +1272,63 @@
 						"shadow": true,
 						"block_light": false,
 						"node_id": "213"
+					},
+					{
+						"position": "Vector2( 2532.26, 774 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "1be"
+					},
+					{
+						"position": "Vector2( 3128.08, 774 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "188"
+					},
+					{
+						"position": "Vector2( 4319.73, 774 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2a8"
+					},
+					{
+						"position": "Vector2( 148.956, 774 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "28f"
+					},
+					{
+						"position": "Vector2( -148.956, 946 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "28e"
 					},
 					{
 						"position": "Vector2( 1638.52, 946 )",
@@ -1038,7 +1343,7 @@
 						"node_id": "1bc"
 					},
 					{
-						"position": "Vector2( 446.869, 946 )",
+						"position": "Vector2( 4021.82, 946 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1046,7 +1351,7 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "207"
+						"node_id": "214"
 					},
 					{
 						"position": "Vector2( 2234.35, 946 )",
@@ -1059,6 +1364,17 @@
 						"block_light": false,
 						"custom_color": "ffd8c888",
 						"node_id": "1ba"
+					},
+					{
+						"position": "Vector2( 4617.65, 946 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2a9"
 					},
 					{
 						"position": "Vector2( 3426, 946 )",
@@ -1085,7 +1401,7 @@
 						"node_id": "1aa"
 					},
 					{
-						"position": "Vector2( 4021.82, 946 )",
+						"position": "Vector2( 446.869, 946 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1093,7 +1409,7 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "214"
+						"node_id": "207"
 					},
 					{
 						"position": "Vector2( 2830.17, 946 )",
@@ -1108,7 +1424,7 @@
 						"node_id": "1bf"
 					},
 					{
-						"position": "Vector2( 1936.43, 1118 )",
+						"position": "Vector2( 3723.91, 1118 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1116,8 +1432,8 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"custom_color": "ff8d6d58",
-						"node_id": "1c3"
+						"custom_color": "ffd8c888",
+						"node_id": "186"
 					},
 					{
 						"position": "Vector2( 2532.26, 1118 )",
@@ -1132,41 +1448,6 @@
 						"node_id": "1b9"
 					},
 					{
-						"position": "Vector2( 3128.08, 1118 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ff8d6d58",
-						"node_id": "1cc"
-					},
-					{
-						"position": "Vector2( 3723.91, 1118 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "186"
-					},
-					{
-						"position": "Vector2( 148.956, 1118 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "206"
-					},
-					{
 						"position": "Vector2( 1340.61, 1118 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -1177,6 +1458,18 @@
 						"block_light": false,
 						"custom_color": "ff8d6d58",
 						"node_id": "1b2"
+					},
+					{
+						"position": "Vector2( 1936.43, 1118 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff8d6d58",
+						"node_id": "1c3"
 					},
 					{
 						"position": "Vector2( 744.782, 1118 )",
@@ -1191,6 +1484,62 @@
 						"node_id": "1a9"
 					},
 					{
+						"position": "Vector2( 3128.08, 1118 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff8d6d58",
+						"node_id": "1cc"
+					},
+					{
+						"position": "Vector2( 148.956, 1118 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "206"
+					},
+					{
+						"position": "Vector2( 4319.73, 1118 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2aa"
+					},
+					{
+						"position": "Vector2( -148.956, 1290 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "28d"
+					},
+					{
+						"position": "Vector2( 4617.65, 1290 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2ab"
+					},
+					{
 						"position": "Vector2( 1638.52, 1290 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -1201,29 +1550,6 @@
 						"block_light": false,
 						"custom_color": "ffd8c888",
 						"node_id": "1e8"
-					},
-					{
-						"position": "Vector2( 3426, 1290 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ff8d6d58",
-						"node_id": "1a6"
-					},
-					{
-						"position": "Vector2( 4021.82, 1290 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "215"
 					},
 					{
 						"position": "Vector2( 446.869, 1290 )",
@@ -1238,18 +1564,6 @@
 						"node_id": "1a8"
 					},
 					{
-						"position": "Vector2( 2830.17, 1290 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "1b8"
-					},
-					{
 						"position": "Vector2( 2234.35, 1290 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -1260,6 +1574,29 @@
 						"block_light": false,
 						"custom_color": "ff8d6d58",
 						"node_id": "1c4"
+					},
+					{
+						"position": "Vector2( 4021.82, 1290 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "215"
+					},
+					{
+						"position": "Vector2( 2830.17, 1290 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "1b8"
 					},
 					{
 						"position": "Vector2( 1042.69, 1290 )",
@@ -1284,6 +1621,77 @@
 						"block_light": false,
 						"custom_color": "ff8d6d58",
 						"node_id": "1cb"
+					},
+					{
+						"position": "Vector2( 3426, 1290 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff8d6d58",
+						"node_id": "1a6"
+					},
+					{
+						"position": "Vector2( 4319.73, 1462 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2ac"
+					},
+					{
+						"position": "Vector2( 3128.08, 1462 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "1c0"
+					},
+					{
+						"position": "Vector2( 3723.91, 1462 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "185"
+					},
+					{
+						"position": "Vector2( 1340.61, 1462 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "1e7"
+					},
+					{
+						"position": "Vector2( 2532.26, 1462 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff8d6d58",
+						"node_id": "1c5"
 					},
 					{
 						"position": "Vector2( 148.956, 1462 )",
@@ -1321,7 +1729,7 @@
 						"node_id": "1c8"
 					},
 					{
-						"position": "Vector2( 2532.26, 1462 )",
+						"position": "Vector2( 446.869, 1634 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1330,91 +1738,7 @@
 						"shadow": true,
 						"block_light": false,
 						"custom_color": "ff8d6d58",
-						"node_id": "1c5"
-					},
-					{
-						"position": "Vector2( 3723.91, 1462 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "185"
-					},
-					{
-						"position": "Vector2( 1340.61, 1462 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "1e7"
-					},
-					{
-						"position": "Vector2( 3128.08, 1462 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "1c0"
-					},
-					{
-						"position": "Vector2( 2234.35, 1634 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ff8d6d58",
-						"node_id": "1c7"
-					},
-					{
-						"position": "Vector2( 1638.52, 1634 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ff8d6d58",
-						"node_id": "1c1"
-					},
-					{
-						"position": "Vector2( 2830.17, 1634 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "1b7"
-					},
-					{
-						"position": "Vector2( 3426, 1634 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "184"
+						"node_id": "1ad"
 					},
 					{
 						"position": "Vector2( 1042.69, 1634 )",
@@ -1429,6 +1753,17 @@
 						"node_id": "1af"
 					},
 					{
+						"position": "Vector2( 4617.65, 1634 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2ad"
+					},
+					{
 						"position": "Vector2( 4021.82, 1634 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -1440,7 +1775,7 @@
 						"node_id": "216"
 					},
 					{
-						"position": "Vector2( 446.869, 1634 )",
+						"position": "Vector2( 3426, 1634 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1448,11 +1783,11 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"custom_color": "ff8d6d58",
-						"node_id": "1ad"
+						"custom_color": "ffd8c888",
+						"node_id": "184"
 					},
 					{
-						"position": "Vector2( 744.782, 1806 )",
+						"position": "Vector2( 1638.52, 1634 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1461,7 +1796,42 @@
 						"shadow": true,
 						"block_light": false,
 						"custom_color": "ff8d6d58",
-						"node_id": "1ae"
+						"node_id": "1c1"
+					},
+					{
+						"position": "Vector2( -148.956, 1634 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "28c"
+					},
+					{
+						"position": "Vector2( 2830.17, 1634 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "1b7"
+					},
+					{
+						"position": "Vector2( 2234.35, 1634 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff8d6d58",
+						"node_id": "1c7"
 					},
 					{
 						"position": "Vector2( 1936.43, 1806 )",
@@ -1476,17 +1846,6 @@
 						"node_id": "1c9"
 					},
 					{
-						"position": "Vector2( 148.956, 1806 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "204"
-					},
-					{
 						"position": "Vector2( 2532.26, 1806 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -1499,19 +1858,7 @@
 						"node_id": "1e9"
 					},
 					{
-						"position": "Vector2( 1340.61, 1806 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "18e"
-					},
-					{
-						"position": "Vector2( 3723.91, 1806 )",
+						"position": "Vector2( 148.956, 1806 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1519,7 +1866,7 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "217"
+						"node_id": "204"
 					},
 					{
 						"position": "Vector2( 3128.08, 1806 )",
@@ -1534,7 +1881,41 @@
 						"node_id": "1a5"
 					},
 					{
-						"position": "Vector2( 2234.35, 1978 )",
+						"position": "Vector2( 3723.91, 1806 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "217"
+					},
+					{
+						"position": "Vector2( 744.782, 1806 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff8d6d58",
+						"node_id": "1ae"
+					},
+					{
+						"position": "Vector2( 4319.73, 1806 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2af"
+					},
+					{
+						"position": "Vector2( 1340.61, 1806 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1543,7 +1924,7 @@
 						"shadow": true,
 						"block_light": false,
 						"custom_color": "ffd8c888",
-						"node_id": "1b6"
+						"node_id": "18e"
 					},
 					{
 						"position": "Vector2( 3426, 1978 )",
@@ -1558,7 +1939,19 @@
 						"node_id": "183"
 					},
 					{
-						"position": "Vector2( 1638.52, 1978 )",
+						"position": "Vector2( 2830.17, 1978 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff8d6d58",
+						"node_id": "1a4"
+					},
+					{
+						"position": "Vector2( 2234.35, 1978 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1567,7 +1960,7 @@
 						"shadow": true,
 						"block_light": false,
 						"custom_color": "ffd8c888",
-						"node_id": "1b4"
+						"node_id": "1b6"
 					},
 					{
 						"position": "Vector2( 1042.69, 1978 )",
@@ -1593,7 +1986,7 @@
 						"node_id": "203"
 					},
 					{
-						"position": "Vector2( 2830.17, 1978 )",
+						"position": "Vector2( 1638.52, 1978 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1601,11 +1994,11 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"custom_color": "ff8d6d58",
-						"node_id": "1a4"
+						"custom_color": "ffd8c888",
+						"node_id": "1b4"
 					},
 					{
-						"position": "Vector2( 744.782, 2150 )",
+						"position": "Vector2( -148.956, 1978 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1613,7 +2006,52 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "202"
+						"node_id": "28b"
+					},
+					{
+						"position": "Vector2( 4021.82, 1978 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2b0"
+					},
+					{
+						"position": "Vector2( 4617.65, 1978 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2ae"
+					},
+					{
+						"position": "Vector2( 3128.08, 2150 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "2f7"
+					},
+					{
+						"position": "Vector2( 4319.73, 2150 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2cb"
 					},
 					{
 						"position": "Vector2( 1340.61, 2150 )",
@@ -1655,50 +2093,48 @@
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "1f5"
-					},
-					{
-						"position": "Vector2( 3128.08, 2150 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ff8d6d58",
-						"node_id": "1ca"
-					},
-					{
-						"position": "Vector2( 1042.69, 2322 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
 						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
 						"custom_color": "ffd8c888",
-						"node_id": "190"
+						"node_id": "2e9"
+					},
+					{
+						"position": "Vector2( 148.956, 2150 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "26a"
+					},
+					{
+						"position": "Vector2( 744.782, 2150 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "202"
 					},
 					{
 						"position": "Vector2( 2830.17, 2322 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "180"
+						"node_id": "2f5"
 					},
 					{
-						"position": "Vector2( 3426, 2322 )",
+						"position": "Vector2( -148.956, 2322 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1706,7 +2142,7 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "219"
+						"node_id": "28a"
 					},
 					{
 						"position": "Vector2( 2234.35, 2322 )",
@@ -1721,6 +2157,51 @@
 						"node_id": "1db"
 					},
 					{
+						"position": "Vector2( 3426, 2322 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "219"
+					},
+					{
+						"position": "Vector2( 4021.82, 2322 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2ca"
+					},
+					{
+						"position": "Vector2( 4617.65, 2322 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2cd"
+					},
+					{
+						"position": "Vector2( 1042.69, 2322 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "190"
+					},
+					{
 						"position": "Vector2( 1638.52, 2322 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -1733,7 +2214,7 @@
 						"node_id": "1d9"
 					},
 					{
-						"position": "Vector2( 3128.08, 2494 )",
+						"position": "Vector2( 446.869, 2322 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1741,7 +2222,19 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "21a"
+						"node_id": "26b"
+					},
+					{
+						"position": "Vector2( 1936.43, 2494 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "2f9"
 					},
 					{
 						"position": "Vector2( 1340.61, 2494 )",
@@ -1756,19 +2249,7 @@
 						"node_id": "1da"
 					},
 					{
-						"position": "Vector2( 1936.43, 2494 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ff8d6d58",
-						"node_id": "1a3"
-					},
-					{
-						"position": "Vector2( 744.782, 2494 )",
+						"position": "Vector2( 4319.73, 2494 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1776,7 +2257,7 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "201"
+						"node_id": "2cc"
 					},
 					{
 						"position": "Vector2( 3723.91, 2494 )",
@@ -1794,15 +2275,14 @@
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "17e"
+						"node_id": "2f6"
 					},
 					{
-						"position": "Vector2( 446.869, 2666 )",
+						"position": "Vector2( 744.782, 2494 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1810,7 +2290,96 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "256"
+						"node_id": "201"
+					},
+					{
+						"position": "Vector2( 148.956, 2494 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "26c"
+					},
+					{
+						"position": "Vector2( 3128.08, 2494 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "21a"
+					},
+					{
+						"position": "Vector2( -148.956, 2666 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "289"
+					},
+					{
+						"position": "Vector2( 4021.82, 2666 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "21f"
+					},
+					{
+						"position": "Vector2( 4617.65, 2666 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2ce"
+					},
+					{
+						"position": "Vector2( 3426, 2666 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "21c"
+					},
+					{
+						"position": "Vector2( 1638.52, 2666 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "2f8"
+					},
+					{
+						"position": "Vector2( 1042.69, 2666 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "200"
 					},
 					{
 						"position": "Vector2( 2830.17, 2666 )",
@@ -1836,7 +2405,7 @@
 						"node_id": "1a2"
 					},
 					{
-						"position": "Vector2( 3426, 2666 )",
+						"position": "Vector2( 446.869, 2666 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1844,10 +2413,56 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "21c"
+						"node_id": "256"
 					},
 					{
-						"position": "Vector2( 1638.52, 2666 )",
+						"position": "Vector2( 3723.91, 2838 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "17c"
+					},
+					{
+						"position": "Vector2( 4319.73, 2838 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2c9"
+					},
+					{
+						"position": "Vector2( 148.956, 2838 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "26d"
+					},
+					{
+						"position": "Vector2( 3128.08, 2838 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "17b"
+					},
+					{
+						"position": "Vector2( 2532.26, 2838 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1856,29 +2471,7 @@
 						"shadow": true,
 						"block_light": false,
 						"custom_color": "ff8d6d58",
-						"node_id": "1a1"
-					},
-					{
-						"position": "Vector2( 1042.69, 2666 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "200"
-					},
-					{
-						"position": "Vector2( 4021.82, 2666 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "21f"
+						"node_id": "1e6"
 					},
 					{
 						"position": "Vector2( 1936.43, 2838 )",
@@ -1917,31 +2510,7 @@
 						"node_id": "192"
 					},
 					{
-						"position": "Vector2( 3128.08, 2838 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "17b"
-					},
-					{
-						"position": "Vector2( 3723.91, 2838 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "17c"
-					},
-					{
-						"position": "Vector2( 2532.26, 2838 )",
+						"position": "Vector2( 3426, 3010 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1950,7 +2519,63 @@
 						"shadow": true,
 						"block_light": false,
 						"custom_color": "ff8d6d58",
-						"node_id": "1e6"
+						"node_id": "1cf"
+					},
+					{
+						"position": "Vector2( 4021.82, 3010 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "220"
+					},
+					{
+						"position": "Vector2( 2830.17, 3010 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "224"
+					},
+					{
+						"position": "Vector2( -148.956, 3010 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "288"
+					},
+					{
+						"position": "Vector2( 446.869, 3010 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "257"
+					},
+					{
+						"position": "Vector2( 1638.52, 3010 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff8d6d58",
+						"node_id": "193"
 					},
 					{
 						"position": "Vector2( 3426, 3010 )",
@@ -1962,7 +2587,7 @@
 						"shadow": true,
 						"block_light": false,
 						"custom_color": "ff8d6d58",
-						"node_id": "1cf"
+						"node_id": "1d7"
 					},
 					{
 						"position": "Vector2( 2234.35, 3010 )",
@@ -1988,7 +2613,7 @@
 						"node_id": "1ff"
 					},
 					{
-						"position": "Vector2( 446.869, 3010 )",
+						"position": "Vector2( 4617.65, 3010 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -1996,98 +2621,19 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "257"
-					},
-					{
-						"position": "Vector2( 4021.82, 3010 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "220"
-					},
-					{
-						"position": "Vector2( 3426, 3010 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ff8d6d58",
-						"node_id": "1d7"
-					},
-					{
-						"position": "Vector2( 1638.52, 3010 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ff8d6d58",
-						"node_id": "193"
-					},
-					{
-						"position": "Vector2( 2830.17, 3010 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "224"
-					},
-					{
-						"position": "Vector2( 1340.61, 3182 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "13b"
-					},
-					{
-						"position": "Vector2( 744.782, 3182 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "1fe"
+						"node_id": "2c8"
 					},
 					{
 						"position": "Vector2( 3723.91, 3182 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "221"
-					},
-					{
-						"position": "Vector2( 2532.26, 3182 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
 						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"custom_color": "ff8d6d58",
-						"node_id": "19b"
+						"custom_color": "ffd8c888",
+						"node_id": "2f4"
 					},
 					{
 						"position": "Vector2( 3128.08, 3182 )",
@@ -2113,6 +2659,62 @@
 						"node_id": "19e"
 					},
 					{
+						"position": "Vector2( 1340.61, 3182 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "13b"
+					},
+					{
+						"position": "Vector2( 744.782, 3182 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "1fe"
+					},
+					{
+						"position": "Vector2( 4319.73, 3182 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2c5"
+					},
+					{
+						"position": "Vector2( 148.956, 3182 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "26e"
+					},
+					{
+						"position": "Vector2( 2532.26, 3182 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff8d6d58",
+						"node_id": "19b"
+					},
+					{
 						"position": "Vector2( 2234.35, 3354 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -2123,6 +2725,39 @@
 						"block_light": false,
 						"custom_color": "ff8d6d58",
 						"node_id": "19c"
+					},
+					{
+						"position": "Vector2( -148.956, 3354 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "287"
+					},
+					{
+						"position": "Vector2( 4021.82, 3354 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2c3"
+					},
+					{
+						"position": "Vector2( 446.869, 3354 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "269"
 					},
 					{
 						"position": "Vector2( 3426, 3354 )",
@@ -2136,6 +2771,17 @@
 						"node_id": "222"
 					},
 					{
+						"position": "Vector2( 1042.69, 3354 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "13a"
+					},
+					{
 						"position": "Vector2( 2830.17, 3354 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -2145,6 +2791,17 @@
 						"shadow": true,
 						"block_light": false,
 						"node_id": "160"
+					},
+					{
+						"position": "Vector2( 4617.65, 3354 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2c7"
 					},
 					{
 						"position": "Vector2( 1638.52, 3354 )",
@@ -2159,7 +2816,7 @@
 						"node_id": "194"
 					},
 					{
-						"position": "Vector2( 1042.69, 3354 )",
+						"position": "Vector2( 3128.08, 3526 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2167,18 +2824,18 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "13a"
+						"node_id": "161"
 					},
 					{
-						"position": "Vector2( 1340.61, 3526 )",
+						"position": "Vector2( 3723.91, 3526 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "13c"
+						"node_id": "226"
 					},
 					{
 						"position": "Vector2( 2532.26, 3526 )",
@@ -2193,7 +2850,7 @@
 						"node_id": "19a"
 					},
 					{
-						"position": "Vector2( 3723.91, 3526 )",
+						"position": "Vector2( 744.782, 3526 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2201,10 +2858,21 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "226"
+						"node_id": "1fd"
 					},
 					{
-						"position": "Vector2( 3128.08, 3526 )",
+						"position": "Vector2( 148.956, 3526 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "26f"
+					},
+					{
+						"position": "Vector2( 1340.61, 3526 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2212,7 +2880,7 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "161"
+						"node_id": "13c"
 					},
 					{
 						"position": "Vector2( 1936.43, 3526 )",
@@ -2227,7 +2895,7 @@
 						"node_id": "19d"
 					},
 					{
-						"position": "Vector2( 744.782, 3526 )",
+						"position": "Vector2( 4319.73, 3526 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2235,21 +2903,10 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "1fd"
+						"node_id": "2c4"
 					},
 					{
-						"position": "Vector2( 3426, 3698 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "225"
-					},
-					{
-						"position": "Vector2( 1042.69, 3698 )",
+						"position": "Vector2( 2830.17, 3698 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2257,29 +2914,7 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "139"
-					},
-					{
-						"position": "Vector2( 1042.69, 3698 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Banner 4 (blue).webp",
-						"layer": 100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "258"
-					},
-					{
-						"position": "Vector2( 4021.82, 3698 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "227"
+						"node_id": "162"
 					},
 					{
 						"position": "Vector2( 2234.35, 3698 )",
@@ -2294,17 +2929,6 @@
 						"node_id": "199"
 					},
 					{
-						"position": "Vector2( 2830.17, 3698 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "162"
-					},
-					{
 						"position": "Vector2( 446.869, 3698 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -2314,6 +2938,39 @@
 						"shadow": true,
 						"block_light": false,
 						"node_id": "1fc"
+					},
+					{
+						"position": "Vector2( 4617.65, 3698 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2c6"
+					},
+					{
+						"position": "Vector2( 4021.82, 3698 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "227"
+					},
+					{
+						"position": "Vector2( 1042.69, 3698 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Banner 4 (blue).webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "258"
 					},
 					{
 						"position": "Vector2( 1638.52, 3698 )",
@@ -2328,7 +2985,18 @@
 						"node_id": "195"
 					},
 					{
-						"position": "Vector2( 2532.26, 3870 )",
+						"position": "Vector2( -148.956, 3698 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "286"
+					},
+					{
+						"position": "Vector2( 1042.69, 3698 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2336,10 +3004,10 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "163"
+						"node_id": "139"
 					},
 					{
-						"position": "Vector2( 3128.08, 3870 )",
+						"position": "Vector2( 3426, 3698 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2347,40 +3015,7 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "232"
-					},
-					{
-						"position": "Vector2( 3723.91, 3870 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (rocky).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "1dc"
-					},
-					{
-						"position": "Vector2( 1340.61, 3870 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "1f8"
-					},
-					{
-						"position": "Vector2( 2532.26, 3870 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Banner 4 (blue).webp",
-						"layer": 100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "25d"
+						"node_id": "225"
 					},
 					{
 						"position": "Vector2( 1936.43, 3870 )",
@@ -2395,17 +3030,6 @@
 						"node_id": "197"
 					},
 					{
-						"position": "Vector2( 4319.73, 3870 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "228"
-					},
-					{
 						"position": "Vector2( 744.782, 3870 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -2417,18 +3041,7 @@
 						"node_id": "13d"
 					},
 					{
-						"position": "Vector2( 2830.17, 4042 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "157"
-					},
-					{
-						"position": "Vector2( 4021.82, 4042 )",
+						"position": "Vector2( 3723.91, 3870 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2436,10 +3049,10 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "1e0"
+						"node_id": "1dc"
 					},
 					{
-						"position": "Vector2( 446.869, 4042 )",
+						"position": "Vector2( 4319.73, 3870 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2447,7 +3060,62 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "1fb"
+						"node_id": "228"
+					},
+					{
+						"position": "Vector2( 2532.26, 3870 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Banner 4 (blue).webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "25d"
+					},
+					{
+						"position": "Vector2( 2532.26, 3870 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "163"
+					},
+					{
+						"position": "Vector2( 1340.61, 3870 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "1f8"
+					},
+					{
+						"position": "Vector2( 148.956, 3870 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "270"
+					},
+					{
+						"position": "Vector2( 3128.08, 3870 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "232"
 					},
 					{
 						"position": "Vector2( 3426, 4042 )",
@@ -2484,6 +3152,61 @@
 						"node_id": "1f9"
 					},
 					{
+						"position": "Vector2( -148.956, 4042 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "285"
+					},
+					{
+						"position": "Vector2( 446.869, 4042 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "1fb"
+					},
+					{
+						"position": "Vector2( 4617.65, 4042 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2c2"
+					},
+					{
+						"position": "Vector2( 4021.82, 4042 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (rocky).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "1e0"
+					},
+					{
+						"position": "Vector2( 2830.17, 4042 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2d1"
+					},
+					{
 						"position": "Vector2( 2234.35, 4042 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -2496,15 +3219,16 @@
 						"node_id": "198"
 					},
 					{
-						"position": "Vector2( 744.782, 4214 )",
+						"position": "Vector2( 1936.43, 4214 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "1fa"
+						"custom_color": "ff8d6d58",
+						"node_id": "2fa"
 					},
 					{
 						"position": "Vector2( 4319.73, 4214 )",
@@ -2518,17 +3242,6 @@
 						"node_id": "229"
 					},
 					{
-						"position": "Vector2( 1936.43, 4214 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "16d"
-					},
-					{
 						"position": "Vector2( 3723.91, 4214 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -2538,6 +3251,17 @@
 						"shadow": true,
 						"block_light": false,
 						"node_id": "1df"
+					},
+					{
+						"position": "Vector2( 148.956, 4214 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "271"
 					},
 					{
 						"position": "Vector2( 1340.61, 4214 )",
@@ -2551,6 +3275,17 @@
 						"node_id": "13e"
 					},
 					{
+						"position": "Vector2( 3128.08, 4214 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (rocky).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2da"
+					},
+					{
 						"position": "Vector2( 2532.26, 4214 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -2562,7 +3297,7 @@
 						"node_id": "164"
 					},
 					{
-						"position": "Vector2( 3128.08, 4214 )",
+						"position": "Vector2( 744.782, 4214 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2570,18 +3305,18 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "231"
+						"node_id": "1fa"
 					},
 					{
-						"position": "Vector2( 446.869, 4386 )",
+						"position": "Vector2( 1042.69, 4386 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "255"
+						"node_id": "178"
 					},
 					{
 						"position": "Vector2( 2234.35, 4386 )",
@@ -2595,15 +3330,15 @@
 						"node_id": "16c"
 					},
 					{
-						"position": "Vector2( 3426, 4386 )",
+						"position": "Vector2( 4617.65, 4386 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (rocky).webp",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "1de"
+						"node_id": "2c1"
 					},
 					{
 						"position": "Vector2( 4021.82, 4386 )",
@@ -2617,7 +3352,7 @@
 						"node_id": "1e1"
 					},
 					{
-						"position": "Vector2( 2830.17, 4386 )",
+						"position": "Vector2( 1638.52, 4386 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2625,10 +3360,10 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "156"
+						"node_id": "2e6"
 					},
 					{
-						"position": "Vector2( 1638.52, 4386 )",
+						"position": "Vector2( -148.956, 4386 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2636,10 +3371,66 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "1f3"
+						"node_id": "284"
 					},
 					{
-						"position": "Vector2( 1042.69, 4386 )",
+						"position": "Vector2( 3426, 4386 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2d4"
+					},
+					{
+						"position": "Vector2( 2830.17, 4386 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2d0"
+					},
+					{
+						"position": "Vector2( 446.869, 4386 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "255"
+					},
+					{
+						"position": "Vector2( 3128.08, 4558 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "2fb"
+					},
+					{
+						"position": "Vector2( 148.956, 4558 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "272"
+					},
+					{
+						"position": "Vector2( 2532.26, 4558 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2647,7 +3438,29 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "178"
+						"node_id": "16a"
+					},
+					{
+						"position": "Vector2( 3723.91, 4558 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (rocky).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "1e2"
+					},
+					{
+						"position": "Vector2( 1340.61, 4558 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "13f"
 					},
 					{
 						"position": "Vector2( 744.782, 4558 )",
@@ -2662,18 +3475,7 @@
 						"node_id": "17a"
 					},
 					{
-						"position": "Vector2( 3128.08, 4558 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "230"
-					},
-					{
-						"position": "Vector2( 2532.26, 4558 )",
+						"position": "Vector2( 1936.43, 4558 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2681,18 +3483,7 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "16a"
-					},
-					{
-						"position": "Vector2( 1340.61, 4558 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "13f"
+						"node_id": "16e"
 					},
 					{
 						"position": "Vector2( 4319.73, 4558 )",
@@ -2706,40 +3497,7 @@
 						"node_id": "22a"
 					},
 					{
-						"position": "Vector2( 3723.91, 4558 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (rocky).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "1e2"
-					},
-					{
-						"position": "Vector2( 1936.43, 4558 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "16e"
-					},
-					{
-						"position": "Vector2( 2830.17, 4730 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "165"
-					},
-					{
-						"position": "Vector2( 1638.52, 4730 )",
+						"position": "Vector2( 446.869, 4730 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2747,7 +3505,41 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "1f6"
+						"node_id": "253"
+					},
+					{
+						"position": "Vector2( 1638.52, 4730 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2e7"
+					},
+					{
+						"position": "Vector2( 2830.17, 4730 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "2d3"
+					},
+					{
+						"position": "Vector2( -148.956, 4730 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "283"
 					},
 					{
 						"position": "Vector2( 1042.69, 4730 )",
@@ -2783,7 +3575,7 @@
 						"node_id": "1e3"
 					},
 					{
-						"position": "Vector2( 446.869, 4730 )",
+						"position": "Vector2( 4617.65, 4730 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2791,18 +3583,40 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "253"
+						"node_id": "2c0"
 					},
 					{
 						"position": "Vector2( 3426, 4730 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (rocky).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2db"
+					},
+					{
+						"position": "Vector2( 148.956, 4902 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
 						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "22f"
+						"node_id": "273"
+					},
+					{
+						"position": "Vector2( 744.782, 4902 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "251"
 					},
 					{
 						"position": "Vector2( 2532.26, 4902 )",
@@ -2817,15 +3631,15 @@
 						"node_id": "1ef"
 					},
 					{
-						"position": "Vector2( 3723.91, 4902 )",
+						"position": "Vector2( 4319.73, 4902 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (rocky).webp",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "1e4"
+						"node_id": "22b"
 					},
 					{
 						"position": "Vector2( 1340.61, 4902 )",
@@ -2839,28 +3653,6 @@
 						"node_id": "140"
 					},
 					{
-						"position": "Vector2( 3128.08, 4902 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "154"
-					},
-					{
-						"position": "Vector2( 744.782, 4902 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "251"
-					},
-					{
 						"position": "Vector2( 1936.43, 4902 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -2872,7 +3664,18 @@
 						"node_id": "16f"
 					},
 					{
-						"position": "Vector2( 4319.73, 4902 )",
+						"position": "Vector2( 3723.91, 4902 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (rocky).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "1e4"
+					},
+					{
+						"position": "Vector2( 3128.08, 4902 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2880,7 +3683,7 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "22b"
+						"node_id": "2d5"
 					},
 					{
 						"position": "Vector2( 3426, 5074 )",
@@ -2891,18 +3694,18 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "22e"
+						"node_id": "22f"
 					},
 					{
-						"position": "Vector2( 2234.35, 5074 )",
+						"position": "Vector2( 446.869, 5074 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Banner 4 (blue).webp",
-						"layer": 100,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "259"
+						"node_id": "274"
 					},
 					{
 						"position": "Vector2( 2830.17, 5074 )",
@@ -2914,6 +3717,17 @@
 						"shadow": true,
 						"block_light": false,
 						"node_id": "167"
+					},
+					{
+						"position": "Vector2( 2234.35, 5074 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Banner 4 (blue).webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "259"
 					},
 					{
 						"position": "Vector2( 1638.52, 5074 )",
@@ -2928,6 +3742,28 @@
 						"node_id": "1eb"
 					},
 					{
+						"position": "Vector2( -148.956, 5074 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "282"
+					},
+					{
+						"position": "Vector2( 4617.65, 5074 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2bf"
+					},
+					{
 						"position": "Vector2( 2234.35, 5074 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -2938,17 +3774,6 @@
 						"block_light": false,
 						"custom_color": "ff8d6d58",
 						"node_id": "1ee"
-					},
-					{
-						"position": "Vector2( 1042.69, 5074 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "141"
 					},
 					{
 						"position": "Vector2( 4021.82, 5074 )",
@@ -2962,30 +3787,7 @@
 						"node_id": "22c"
 					},
 					{
-						"position": "Vector2( 1936.43, 5246 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"custom_color": "ff8d6d58",
-						"node_id": "1ed"
-					},
-					{
-						"position": "Vector2( 3723.91, 5246 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "22d"
-					},
-					{
-						"position": "Vector2( 3128.08, 5246 )",
+						"position": "Vector2( 1042.69, 5074 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -2993,10 +3795,10 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "166"
+						"node_id": "141"
 					},
 					{
-						"position": "Vector2( 744.782, 5246 )",
+						"position": "Vector2( 148.956, 5246 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -3004,7 +3806,7 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "250"
+						"node_id": "275"
 					},
 					{
 						"position": "Vector2( 1340.61, 5246 )",
@@ -3031,7 +3833,52 @@
 						"node_id": "1f0"
 					},
 					{
-						"position": "Vector2( 1638.52, 5418 )",
+						"position": "Vector2( 4319.73, 5246 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2bd"
+					},
+					{
+						"position": "Vector2( 3128.08, 5246 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "2dd"
+					},
+					{
+						"position": "Vector2( 3723.91, 5246 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "22d"
+					},
+					{
+						"position": "Vector2( 744.782, 5246 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "250"
+					},
+					{
+						"position": "Vector2( 1936.43, 5246 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -3040,18 +3887,18 @@
 						"shadow": true,
 						"block_light": false,
 						"custom_color": "ff8d6d58",
-						"node_id": "1ec"
+						"node_id": "1ed"
 					},
 					{
-						"position": "Vector2( 2234.35, 5418 )",
+						"position": "Vector2( -148.956, 5418 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "14d"
+						"node_id": "281"
 					},
 					{
 						"position": "Vector2( 2830.17, 5418 )",
@@ -3065,7 +3912,7 @@
 						"node_id": "150"
 					},
 					{
-						"position": "Vector2( 3426, 5418 )",
+						"position": "Vector2( 1638.52, 5418 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -3073,11 +3920,11 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "1f7"
+						"custom_color": "ff8d6d58",
+						"node_id": "1ec"
 					},
 					{
-						"position": "Vector2( 446.869, 5418 )",
+						"position": "Vector2( 4021.82, 5418 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -3085,7 +3932,29 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "24f"
+						"node_id": "2bc"
+					},
+					{
+						"position": "Vector2( 4617.65, 5418 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2be"
+					},
+					{
+						"position": "Vector2( 3426, 5418 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "22e"
 					},
 					{
 						"position": "Vector2( 1042.69, 5418 )",
@@ -3099,37 +3968,60 @@
 						"node_id": "142"
 					},
 					{
-						"position": "Vector2( 1936.43, 5590 )",
+						"position": "Vector2( 446.869, 5418 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "14c"
+						"node_id": "24f"
 					},
 					{
-						"position": "Vector2( 2532.26, 5590 )",
+						"position": "Vector2( 2234.35, 5418 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "14e"
+						"custom_color": "ff8d6d58",
+						"node_id": "2e4"
+					},
+					{
+						"position": "Vector2( 3128.08, 5590 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2dc"
 					},
 					{
 						"position": "Vector2( 744.782, 5590 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "143"
+						"node_id": "2ec"
+					},
+					{
+						"position": "Vector2( 2532.26, 5590 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2df"
 					},
 					{
 						"position": "Vector2( 1340.61, 5590 )",
@@ -3143,17 +4035,6 @@
 						"node_id": "171"
 					},
 					{
-						"position": "Vector2( 3128.08, 5590 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "151"
-					},
-					{
 						"position": "Vector2( 3723.91, 5590 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -3165,7 +4046,18 @@
 						"node_id": "233"
 					},
 					{
-						"position": "Vector2( 3426, 5762 )",
+						"position": "Vector2( 1936.43, 5590 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "14c"
+					},
+					{
+						"position": "Vector2( 148.956, 5590 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -3173,7 +4065,18 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "234"
+						"node_id": "276"
+					},
+					{
+						"position": "Vector2( 4319.73, 5590 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2bb"
 					},
 					{
 						"position": "Vector2( 4021.82, 5762 )",
@@ -3187,6 +4090,17 @@
 						"node_id": "245"
 					},
 					{
+						"position": "Vector2( 446.869, 5762 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "24e"
+					},
+					{
 						"position": "Vector2( 1042.69, 5762 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -3198,7 +4112,7 @@
 						"node_id": "176"
 					},
 					{
-						"position": "Vector2( 2830.17, 5762 )",
+						"position": "Vector2( -148.956, 5762 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -3206,7 +4120,18 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "236"
+						"node_id": "280"
+					},
+					{
+						"position": "Vector2( 4617.65, 5762 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2ba"
 					},
 					{
 						"position": "Vector2( 1638.52, 5762 )",
@@ -3224,14 +4149,14 @@
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "14b"
+						"node_id": "2de"
 					},
 					{
-						"position": "Vector2( 446.869, 5762 )",
+						"position": "Vector2( 3426, 5762 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -3239,7 +4164,18 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "24e"
+						"node_id": "234"
+					},
+					{
+						"position": "Vector2( 2830.17, 5762 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "236"
 					},
 					{
 						"position": "Vector2( 1340.61, 5934 )",
@@ -3257,11 +4193,47 @@
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "144"
+						"custom_color": "ffd8c888",
+						"node_id": "2ed"
+					},
+					{
+						"position": "Vector2( 148.956, 5934 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "277"
+					},
+					{
+						"position": "Vector2( 3128.08, 5934 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff8d6d58",
+						"node_id": "1d3"
+					},
+					{
+						"position": "Vector2( 2532.26, 5934 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "2e2"
 					},
 					{
 						"position": "Vector2( 4319.73, 5934 )",
@@ -3275,39 +4247,6 @@
 						"node_id": "244"
 					},
 					{
-						"position": "Vector2( 2532.26, 5934 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "237"
-					},
-					{
-						"position": "Vector2( 1936.43, 5934 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "1f2"
-					},
-					{
-						"position": "Vector2( 3128.08, 5934 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "235"
-					},
-					{
 						"position": "Vector2( 3723.91, 5934 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -3317,10 +4256,10 @@
 						"shadow": true,
 						"block_light": false,
 						"custom_color": "ff8d6d58",
-						"node_id": "1d3"
+						"node_id": "2f3"
 					},
 					{
-						"position": "Vector2( 1638.52, 6106 )",
+						"position": "Vector2( 1936.43, 5934 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -3328,29 +4267,18 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "173"
+						"node_id": "2e0"
 					},
 					{
-						"position": "Vector2( 446.869, 6106 )",
+						"position": "Vector2( 1042.69, 6106 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "24d"
-					},
-					{
-						"position": "Vector2( 2830.17, 6106 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "238"
+						"node_id": "175"
 					},
 					{
 						"position": "Vector2( 4021.82, 6106 )",
@@ -3364,37 +4292,15 @@
 						"node_id": "1d4"
 					},
 					{
-						"position": "Vector2( 2234.35, 6106 )",
+						"position": "Vector2( 446.869, 6106 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "14a"
-					},
-					{
-						"position": "Vector2( 3426, 6106 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Banner 4 (blue).webp",
-						"layer": 100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "25c"
-					},
-					{
-						"position": "Vector2( 1042.69, 6106 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "175"
+						"node_id": "24d"
 					},
 					{
 						"position": "Vector2( 3426, 6106 )",
@@ -3409,7 +4315,7 @@
 						"node_id": "1d1"
 					},
 					{
-						"position": "Vector2( 2532.26, 6278 )",
+						"position": "Vector2( -148.956, 6106 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -3417,7 +4323,73 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "239"
+						"node_id": "27f"
+					},
+					{
+						"position": "Vector2( 2830.17, 6106 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "238"
+					},
+					{
+						"position": "Vector2( 2234.35, 6106 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2e1"
+					},
+					{
+						"position": "Vector2( 1638.52, 6106 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "173"
+					},
+					{
+						"position": "Vector2( 3426, 6106 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Banner 4 (blue).webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "25c"
+					},
+					{
+						"position": "Vector2( 4617.65, 6106 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2b9"
+					},
+					{
+						"position": "Vector2( 744.782, 6278 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2ee"
 					},
 					{
 						"position": "Vector2( 1936.43, 6278 )",
@@ -3431,39 +4403,6 @@
 						"node_id": "149"
 					},
 					{
-						"position": "Vector2( 3723.91, 6278 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "241"
-					},
-					{
-						"position": "Vector2( 1340.61, 6278 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "174"
-					},
-					{
-						"position": "Vector2( 744.782, 6278 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "145"
-					},
-					{
 						"position": "Vector2( 4319.73, 6278 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -3475,16 +4414,37 @@
 						"node_id": "243"
 					},
 					{
+						"position": "Vector2( 148.956, 6278 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "278"
+					},
+					{
+						"position": "Vector2( 3723.91, 6278 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "241"
+					},
+					{
 						"position": "Vector2( 3128.08, 6278 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"custom_color": "ff8d6d58",
-						"node_id": "1d0"
+						"node_id": "2f1"
 					},
 					{
 						"position": "Vector2( 1340.61, 6278 )",
@@ -3498,7 +4458,7 @@
 						"node_id": "25b"
 					},
 					{
-						"position": "Vector2( 2830.17, 6450 )",
+						"position": "Vector2( 1340.61, 6278 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -3506,10 +4466,10 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "1d6"
+						"node_id": "174"
 					},
 					{
-						"position": "Vector2( 2234.35, 6450 )",
+						"position": "Vector2( 2532.26, 6278 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -3517,29 +4477,41 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "23a"
+						"node_id": "239"
+					},
+					{
+						"position": "Vector2( -148.956, 6450 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "27e"
 					},
 					{
 						"position": "Vector2( 1638.52, 6450 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "148"
+						"custom_color": "ffd8c888",
+						"node_id": "2f0"
 					},
 					{
-						"position": "Vector2( 1042.69, 6450 )",
+						"position": "Vector2( 4617.65, 6450 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "146"
+						"node_id": "2b8"
 					},
 					{
 						"position": "Vector2( 4021.82, 6450 )",
@@ -3553,6 +4525,39 @@
 						"node_id": "242"
 					},
 					{
+						"position": "Vector2( 3426, 6450 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2eb"
+					},
+					{
+						"position": "Vector2( 2830.17, 6450 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2ea"
+					},
+					{
+						"position": "Vector2( 2234.35, 6450 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "23a"
+					},
+					{
 						"position": "Vector2( 446.869, 6450 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -3564,29 +4569,7 @@
 						"node_id": "24c"
 					},
 					{
-						"position": "Vector2( 3426, 6450 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "1d5"
-					},
-					{
-						"position": "Vector2( 1340.61, 6622 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush).webp",
-						"layer": -100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "147"
-					},
-					{
-						"position": "Vector2( 3128.08, 6622 )",
+						"position": "Vector2( 1042.69, 6450 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -3594,7 +4577,30 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "23e"
+						"node_id": "2ef"
+					},
+					{
+						"position": "Vector2( 1340.61, 6622 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "2e3"
+					},
+					{
+						"position": "Vector2( 148.956, 6622 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "279"
 					},
 					{
 						"position": "Vector2( 3723.91, 6622 )",
@@ -3619,6 +4625,29 @@
 						"node_id": "24b"
 					},
 					{
+						"position": "Vector2( 2532.26, 6622 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff8d6d58",
+						"node_id": "1d2"
+					},
+					{
+						"position": "Vector2( 3128.08, 6622 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "23e"
+					},
+					{
 						"position": "Vector2( 1936.43, 6622 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -3630,16 +4659,70 @@
 						"node_id": "247"
 					},
 					{
-						"position": "Vector2( 2532.26, 6622 )",
+						"position": "Vector2( 4319.73, 6622 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
-						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (lush) - Colorable.png",
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"custom_color": "ff8d6d58",
-						"node_id": "1d2"
+						"node_id": "2b6"
+					},
+					{
+						"position": "Vector2( -148.956, 6794 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "27d"
+					},
+					{
+						"position": "Vector2( 4617.65, 6794 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2b7"
+					},
+					{
+						"position": "Vector2( 446.869, 6794 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "27a"
+					},
+					{
+						"position": "Vector2( 4021.82, 6794 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2b4"
+					},
+					{
+						"position": "Vector2( 1638.52, 6794 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "248"
 					},
 					{
 						"position": "Vector2( 1042.69, 6794 )",
@@ -3653,7 +4736,7 @@
 						"node_id": "24a"
 					},
 					{
-						"position": "Vector2( 1638.52, 6794 )",
+						"position": "Vector2( 2830.17, 6794 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -3661,7 +4744,7 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "248"
+						"node_id": "23d"
 					},
 					{
 						"position": "Vector2( 3426, 6794 )",
@@ -3686,7 +4769,7 @@
 						"node_id": "23b"
 					},
 					{
-						"position": "Vector2( 2830.17, 6794 )",
+						"position": "Vector2( 3723.91, 6966 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
@@ -3694,7 +4777,29 @@
 						"layer": -100,
 						"shadow": true,
 						"block_light": false,
-						"node_id": "23d"
+						"node_id": "2b3"
+					},
+					{
+						"position": "Vector2( 4319.73, 6966 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2b5"
+					},
+					{
+						"position": "Vector2( 1936.43, 6966 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2b1"
 					},
 					{
 						"position": "Vector2( 1340.61, 6966 )",
@@ -3717,6 +4822,39 @@
 						"shadow": true,
 						"block_light": false,
 						"node_id": "23c"
+					},
+					{
+						"position": "Vector2( 744.782, 6966 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "27b"
+					},
+					{
+						"position": "Vector2( 148.956, 6966 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "27c"
+					},
+					{
+						"position": "Vector2( 3128.08, 6966 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/PEHboH0e/textures/objects/Hex - Base (ocean).webp",
+						"layer": -100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "2b2"
 					}
 				],
 				"lights": [

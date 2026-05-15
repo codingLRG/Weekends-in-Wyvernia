@@ -1,0 +1,1 @@
+Randomize the available markets each day
