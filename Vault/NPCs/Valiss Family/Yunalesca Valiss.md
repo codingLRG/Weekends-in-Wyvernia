@@ -22,3 +22,4 @@ Last Date Recorded: 23
 
 # Notes
 Follower of [[Eldath, goddess of peace]] due to grief of of [[Ciel]]'s death
+33

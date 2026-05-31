@@ -51,7 +51,7 @@ views:
       - Dead
     sort:
       - property: Last Date Recorded
-        direction: ASC
+        direction: DESC
       - property: Alignment
         direction: ASC
       - property: Age Category
