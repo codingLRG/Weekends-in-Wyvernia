@@ -4,7 +4,8 @@ tags:
 ---
 > In world day and time
 # To Do List
-- [x] [[Fire Elemental]] fight
+- [ ] French event master caring more about dinner not being ready than the dead body in the room
+- [ ] [[Adam Blink]]'s father [[Tobias Blink, Hand of Skorveg]] encounter with 
 - [ ] Introduction of the [[Estova]] people
 	- [ ] Grey feathered beings walking proud on their two feet, wings sprout from their backs and hands their hands coated with a light patch of feathers. Faces similar to that of an eagle, bald of course.
 - [ ] Grand Hall
@@ -18,19 +19,5 @@ tags:
 # NPCs
 ![[NPCs.base]]
 # Random Character Names
-## Male
-- [ ] Aldrias Stark
-- [ ] Cinder Moonstep
-- [ ] Gut Presscoat
-- [ ] Selvester Totentaz
-## Female
- - [ ] Bryanne Tusk
- - [ ] Grezelda Wildflow
- - [ ] Arina Raven
- - [ ] 'Catnip' Katrina Nipton
- - [ ] Dorrey Jacobs
+Use Template
 # In Session Notes
-[[Logan|Gorbo]] went unconscious to the [[Fire Elemental]]
-Gang gets rewards
-[[Logan|Gorbo]] and [[Isaac|Steeve]] walk off with [[Adam Blink]]
-The rest of the gang got walked in on looting with the dead chef in the room

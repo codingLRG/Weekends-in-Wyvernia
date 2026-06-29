@@ -17,6 +17,6 @@ Last Location: Skorveg
 
 | What do they want?     | How do they do it?      | What is stopping them? |
 | ---------------------- | ----------------------- | ---------------------- |
-| Be a master horserider | Playing with their toys | They are               |
+| Be a master horserider | Playing with their toys | They are stupid        |
 
 # Notes
