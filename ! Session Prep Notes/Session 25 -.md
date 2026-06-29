@@ -18,3 +18,5 @@ tags:
 # Random Character Names
 Use Template
 # In Session Notes
+[[Adam Blink]]
+Rose, Alice and Zaytretis
