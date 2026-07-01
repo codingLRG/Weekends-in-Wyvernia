@@ -5,7 +5,7 @@ tags:
 > In world day and time
 # To Do List
 - [ ] French event master caring more about dinner not being ready than the dead body in the room
-- [ ] [[Adam Blink]]'s father [[Tobias Blink, Hand of Skorveg]] encounter with 
+- [ ] [[Adam Blink]]'s father [[Tobias Blink, Hand of Skorveg]] encounter with his e-maiden 
 - [ ] Introduction of the [[Estova]] people
 	- [ ] Grey feathered beings walking proud on their two feet, wings sprout from their backs and hands their hands coated with a light patch of feathers. Faces similar to that of an eagle, bald of course.
 - [ ] Grand Hall

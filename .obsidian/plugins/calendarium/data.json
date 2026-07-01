@@ -1,0 +1,352 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Calendar of Wyvernia",
+      "description": null,
+      "id": "ID_fa1878dac9c9",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Sul",
+            "id": "ID_ab58db5a0b99",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Mol",
+            "id": "ID_89c84a7beb3b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Zol",
+            "id": "ID_dac879eb796a",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Wir",
+            "id": "ID_abfa98a8c888",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Zor",
+            "id": "ID_fa087b98a8ab",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Far",
+            "id": "ID_19791abbba8a",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Sar",
+            "id": "ID_19ba8aeb9a7b",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Jade",
+            "type": "month",
+            "length": 28,
+            "id": "ID_1b58cbf9eacb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Fluor",
+            "type": "month",
+            "length": 28,
+            "id": "ID_f8e8aa5a1b18",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Marlbo",
+            "type": "month",
+            "length": 28,
+            "id": "ID_5a5b095abb3a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Amber",
+            "type": "month",
+            "length": 28,
+            "id": "ID_5a3a0bba6879",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Molda",
+            "type": "month",
+            "length": 28,
+            "id": "ID_0978697b8879",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Jacin",
+            "type": "month",
+            "length": 28,
+            "id": "ID_b85b2818aab9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Jargo",
+            "type": "month",
+            "length": 28,
+            "id": "ID_dbd80a1b4a8b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Augite",
+            "type": "month",
+            "length": 28,
+            "id": "ID_2b4a0979690b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Sugil",
+            "type": "month",
+            "length": 28,
+            "id": "ID_fbb80baab86a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Ortho",
+            "type": "month",
+            "length": 28,
+            "id": "ID_8bd8c88b28fb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Nuum",
+            "type": "month",
+            "length": 28,
+            "id": "ID_18da78a8bb5b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Danbur",
+            "type": "month",
+            "length": 28,
+            "id": "ID_ba497a6a8b8a",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Nymm",
+            "cycle": 28,
+            "offset": -14,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_bb083868b978"
+          },
+          {
+            "name": "Barrakas",
+            "cycle": 12,
+            "offset": -7,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_7a0a9af929ca"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": []
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_3ad92b08391a",
+            "name": "Spring",
+            "type": "Dated",
+            "kind": "Spring",
+            "month": 2,
+            "day": 1,
+            "color": "#e6ce27",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_c8eb8a39f83b",
+            "name": "Summer",
+            "type": "Dated",
+            "kind": "Summer",
+            "month": 5,
+            "day": 1,
+            "color": "#e5c6ea",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_a959394b79a9",
+            "name": "Autumn",
+            "type": "Dated",
+            "kind": "Autumn",
+            "month": 8,
+            "day": 1,
+            "color": "#92d903",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_d909b91af87b",
+            "name": "Winter",
+            "type": "Dated",
+            "kind": "Winter",
+            "month": 11,
+            "day": 1,
+            "color": "#273f61",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          }
+        ],
+        "offset": 0,
+        "type": "Dated",
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1,
+          "tempUnits": "Imperial",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "year": 998,
+        "month": 8,
+        "day": 8
+      },
+      "events": [
+        {
+          "name": "Winter Solstice",
+          "description": "<p>The longest night of the year.<br></p>",
+          "id": "3963939",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 14,
+            "year": null,
+            "month": 0
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Spring Equinox",
+          "description": "<p>The spring equinox is when the day and the night are equally as long, and are getting longer.</p>",
+          "id": "3963940",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Summer Solstice",
+          "description": "<p>\tAt the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.</p>",
+          "id": "3963941",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Autumn Equinox",
+          "description": "<p>The autumn equinox is when the day and the night are equally as long, and are getting shorter.</p>",
+          "id": "3963942",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        }
+      ],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_fa1878dac9c9",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}
