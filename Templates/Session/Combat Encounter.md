@@ -1,11 +1,6 @@
-Combat Encounter - Difficulty Level
-	- Actors
-		- 
-	- Scene Uniqueness
-		- 
-	- Stakes Amplifier
-		- 
-	- Panic Button
-		- 
-	- Loot
-		- [ ] 
+## Combat Encounter - Difficulty Level
+| Scene Uniqueness | Stake Amplifier | Panic Button | Loot |
+| ---------------- | --------------- | ------------ | ---- |
+|                  |                 |              |      |
+### Actors
+

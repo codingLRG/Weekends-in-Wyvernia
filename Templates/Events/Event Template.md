@@ -1,6 +1,0 @@
----
-Age:
-Day:
-Year:
-Repeating:
----

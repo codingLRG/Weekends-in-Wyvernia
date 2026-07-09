@@ -1,8 +1,7 @@
 ---
 tags:
-  - events
 ---
-# {{title}}
+## {{title}}
  - [ ] Deadline
 	 Description to remind yourself
 	- If left unresolved
