@@ -1,12 +1,12 @@
 ---
 tags:
   - NPCs
-Profession:
+Profession: Underworld Dealings
 Size: Medium
 Type: Humanoid
 Alignment: chaotic evil
 Last Location: Farafel
-Last Date Recorded: 23
+Last Date Recorded: 0998-09-07T00:00:00
 ---
 > **Sirius Bradley**
 > _Race, Size_

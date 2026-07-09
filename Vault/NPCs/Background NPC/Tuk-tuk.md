@@ -6,7 +6,7 @@ Size: Small
 Type: Humanoid (Goblinoid)
 Alignment: chaotic good
 Last Location: Skorveg
-Last Date Recorded: 6
+Last Date Recorded: 0998-09-07T14:00:00
 ---
 > **Tuk-tuk**
 > [[Booyahg Wielder]]

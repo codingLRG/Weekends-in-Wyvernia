@@ -6,7 +6,7 @@ Size: Large
 Type: Fiend (Demon)
 Alignment: chaotic evil
 Dead:
-Last Date Recorded: 20
+Last Date Recorded: 0998-09-07T22:00:00
 Last Location: Farafel
 ---
 > **Zaju**

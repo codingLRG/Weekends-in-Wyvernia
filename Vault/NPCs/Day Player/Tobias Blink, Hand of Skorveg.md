@@ -5,6 +5,8 @@ Profession: The Hand
 Size: Medium
 Type: Humanoid
 Alignment: neutral
+Last Location: Skorveg
+Last Date Recorded: 0998-09-08T19:00:00
 ---
 > **Tobias Blink, Hand of Skorveg**
 > [[Priest]]

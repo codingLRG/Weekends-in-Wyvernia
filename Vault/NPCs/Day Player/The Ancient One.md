@@ -5,7 +5,7 @@ Profession: Patron
 Size: Gargantuan
 Type: Aberration
 Alignment: neutral evil
-Last Date Recorded: 11
+Last Date Recorded: 0998-09-07T00:00:00
 Last Location: Another Plane
 ---
 > **The Ancient One**

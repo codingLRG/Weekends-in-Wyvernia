@@ -6,7 +6,7 @@ Size: Medium
 Type: Humanoid (Human)
 Alignment: neutral good
 Last Location: Farafel
-Last Date Recorded: 23
+Last Date Recorded: 0998-09-08T15:00:00
 ---
 > **Martha Strout**
 > [[Gold Dragon Wyrmling]]

@@ -2,7 +2,11 @@
 tags:
   - NPCs
 Last Location: Farafel
-Last Date Recorded: 22
+Last Date Recorded: 0998-09-08T15:00:00
+Alignment: neutral
+Size: Small
+Type: Humanoid (Human)
+Profession: Assistant
 ---
 > **Painter**
 > _Race, Size_

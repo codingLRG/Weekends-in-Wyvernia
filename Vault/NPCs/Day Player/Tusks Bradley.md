@@ -1,26 +1,23 @@
 ---
 tags:
   - NPCs
-Profession: Pirate
-Type: Humanoid (Human)
-Size: Medium
-Alignment: neutral
-Last Location: Open Water (West)
-Last Date Recorded: 20
+Profession: Underworld Dealings
+Size: Small
+Type: Humanoid (Halfling)
+Alignment: chaotic evil
+Last Location: Farafel
+Last Date Recorded: 0998-09-07T00:00:00
 ---
-> **Amal**
-> _Medium Humanoid_
-> [[Berserker]]
-# Descriptors
+> **Tusks**
+> _Race, Size_
+> StatSheet
 
 | Physical Distinction | Verbal Distinction |
 | -------------------- | ------------------ |
 |                      |                    
-# Motivations
 
 | What do they want? | How do they do it? | What is stopping them? |
 | ------------------ | ------------------ | ---------------------- |
-|                    |                    |                        |
 |                    |                    |                        |
 
 # Notes

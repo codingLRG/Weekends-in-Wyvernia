@@ -6,7 +6,7 @@ Type: Humanoid (Human)
 Alignment: lawful neutral
 Size: Medium
 Last Location: Skorveg
-Last Date Recorded: 16
+Last Date Recorded: 0998-09-07T22:00:00
 ---
 > **Wilscot**
 > Race, Size

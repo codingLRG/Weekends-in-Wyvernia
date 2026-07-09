@@ -6,7 +6,7 @@ Size: Small
 Type: Humanoid (Dwarf)
 Alignment: neutral
 Last Location: Skorveg
-Last Date Recorded: 17
+Last Date Recorded: 0998-09-07T10:00:00
 ---
 > **Burbrow Everest**
 > [[Priest]]

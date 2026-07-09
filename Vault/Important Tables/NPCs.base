@@ -1,6 +1,6 @@
 properties:
   note.Last Date Recorded:
-    displayName: Session
+    displayName: Last Interacted Date
 views:
   - type: table
     name: All NPCs
@@ -18,12 +18,13 @@ views:
       - Alignment
       - Size
       - Dead
+      - file.folder
     sort:
-      - property: Last Session Recorded
-        direction: ASC
-      - property: Last Date Recorded
+      - property: Last Location
         direction: DESC
-      - property: file.name
+      - property: file.folder
+        direction: ASC
+      - property: Last Session Recorded
         direction: ASC
       - property: Alignment
         direction: ASC
@@ -47,7 +48,12 @@ views:
       - Alignment
       - Size
       - Dead
+      - file.folder
     sort:
+      - property: file.folder
+        direction: ASC
+      - property: Dead
+        direction: ASC
       - property: Last Date Recorded
         direction: DESC
       - property: Alignment
@@ -57,3 +63,13 @@ views:
       - property: Profession
         direction: ASC
     limit: 10
+    columnSize:
+      note.Last Date Recorded: 196
+  - type: table
+    name: Guest Stars
+    filters:
+      and:
+        - file.inFolder("Vault/NPCs/Guest Star")
+    order:
+      - file.name
+      - Last Location

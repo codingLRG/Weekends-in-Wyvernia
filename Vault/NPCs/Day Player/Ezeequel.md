@@ -6,7 +6,7 @@ Size: Medium
 Type: Humanoid (Human)
 Alignment: lawful evil
 Last Location: Skorveg
-Last Date Recorded: 17
+Last Date Recorded: 0998-09-08T19:00:00
 ---
 > **Ezeequel**
 > [[Guard Captain]]

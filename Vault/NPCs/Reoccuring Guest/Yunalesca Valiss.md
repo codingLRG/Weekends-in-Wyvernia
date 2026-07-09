@@ -6,7 +6,7 @@ Size: Medium
 Type: Humanoid (Tiefling)
 Alignment: neutral evil
 Last Location: Skorveg
-Last Date Recorded: 23
+Last Date Recorded: 0998-09-08T16:30:00
 ---
 > **Yunalesca Valiss**
 > _Race, Size_

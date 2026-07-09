@@ -6,7 +6,7 @@ Size: Medium
 Type: Humanoid (Human, Orc)
 Alignment: chaotic neutral
 Last Location: Open Water (West)
-Last Date Recorded: 21
+Last Date Recorded: 0998-09-08T00:00:00
 ---
 > **Niketas O'Neill**
 > [[Bandit Deceiver]]

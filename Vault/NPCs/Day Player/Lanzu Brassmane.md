@@ -6,7 +6,7 @@ Size: Medium
 Type: Humanoid (Elf)
 Alignment: neutral good
 Last Location: Skorveg
-Last Date Recorded: 15
+Last Date Recorded: 0998-09-07T00:00:00
 ---
 > **Lanzu Brassmane**
 > [[Mage]]

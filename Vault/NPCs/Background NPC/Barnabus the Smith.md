@@ -6,7 +6,7 @@ Size: Small
 Type: Humanoid (Dwarf)
 Alignment: neutral
 Last Location: Skorveg
-Last Date Recorded: 23
+Last Date Recorded: 0998-09-07T17:00:00
 ---
 > **Barnabus the Smith**
 > [[Commoner]]

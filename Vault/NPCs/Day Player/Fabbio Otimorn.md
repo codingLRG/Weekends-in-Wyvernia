@@ -7,7 +7,7 @@ Type: Humanoid (Human)
 Alignment: chaotic good
 Last Location: Farafel
 Last Session Recorded:
-Last Date Recorded: 23
+Last Date Recorded: 0998-09-08T15:30:00
 ---
 > **Fabbio Otimorn**
 > [[Blood Witch]] 

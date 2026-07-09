@@ -7,6 +7,7 @@ Type: Humanoid (Human)
 Alignment: lawful evil
 Last Location: Skorveg
 Age: 23
+Last Date Recorded: 0998-09-08T19:30:00
 ---
 > **Zhven, Prince of Estvola**
 > [[Noble Prodigy]]

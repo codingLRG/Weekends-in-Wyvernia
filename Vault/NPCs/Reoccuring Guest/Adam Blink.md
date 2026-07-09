@@ -5,7 +5,7 @@ Profession: Guard
 Size: Medium
 Type: Humanoid
 Alignment: lawful good
-Last Date Recorded: 25
+Last Date Recorded: 0998-09-08T18:30:00
 Last Location: Skorveg
 ---
 > **Adam Blink**

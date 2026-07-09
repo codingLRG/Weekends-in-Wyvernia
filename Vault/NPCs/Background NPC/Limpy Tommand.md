@@ -6,7 +6,7 @@ Size: Medium
 Type: Humanoid (Human)
 Alignment: neutral
 Last Location: Open Water (West)
-Last Date Recorded: 19
+Last Date Recorded: 0998-09-08T00:00:00
 ---
 > **Limpy Tommand**
 > _Medium Human Humanoid, Neutral_
