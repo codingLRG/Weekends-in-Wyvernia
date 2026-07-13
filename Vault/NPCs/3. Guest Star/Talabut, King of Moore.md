@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession: Royal
+Profession: "[[Vocabulary/Major Jobs/Noble|Noble]]"
 Size: Small
 Type: Humanoid (Dwarf)
 Alignment: lawful neutral

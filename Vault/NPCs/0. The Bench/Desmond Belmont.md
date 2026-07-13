@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession: Priest
+Profession: "[[Vocabulary/Major Jobs/Priest|Priest]]"
 Size: Small
 Type: Fey
 Alignment: chaotic good

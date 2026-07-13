@@ -1,0 +1,1 @@
+> a highly educated wielder of arcane magic who manipulates reality through complex study, memory, and rare material components.

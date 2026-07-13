@@ -1,0 +1,1 @@
+> An archaic term for a medical professional who formulates and dispenses medicinal drugs, herbs, and potions

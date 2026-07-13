@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession: Royal
+Profession: "[[Vocabulary/Major Jobs/Noble|Noble]]"
 Size: Medium
 Type: Humanoid (Human)
 Alignment: lawful evil

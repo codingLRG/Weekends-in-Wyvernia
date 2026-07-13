@@ -239,9 +239,9 @@
         "defaultLocation": ""
       },
       "current": {
-        "year": 998,
+        "day": 8,
         "month": 8,
-        "day": 8
+        "year": 998
       },
       "events": [
         {
@@ -311,6 +311,40 @@
             "order": "",
             "timestamp": 0
           }
+        },
+        {
+          "name": "Obelisk Raid",
+          "description": "Undead Raid if the corrupted gem is not retrieved",
+          "date": {
+            "day": 22,
+            "month": 8,
+            "year": 998
+          },
+          "id": "ID_bb9a7adb9a5b",
+          "note": "Calendar/998/9. Sugil/Obelisk Raid.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Death of a Warlock",
+          "description": "Is the reason behind the appearance of Obelisks ",
+          "date": {
+            "day": 9,
+            "month": 8,
+            "year": 498
+          },
+          "id": "ID_6b398b492bc9",
+          "note": "Calendar/498/9. Sugil/Death of a Warlock.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "categories": [],

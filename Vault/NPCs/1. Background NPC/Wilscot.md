@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession: Farmer
+Profession: "[[Farmer]]"
 Type: Humanoid (Human)
 Alignment: lawful neutral
 Size: Medium

@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession: Guard
+Profession: "[[Vocabulary/Major Jobs/Guard|Guard]]"
 Size: Medium
 Type: Humanoid (Human)
 Alignment: lawful evil

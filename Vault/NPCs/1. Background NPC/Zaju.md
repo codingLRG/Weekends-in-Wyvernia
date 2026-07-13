@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession: Mercenary
+Profession: "[[Mercenary]]"
 Size: Large
 Type: Fiend (Demon)
 Alignment: chaotic evil

@@ -1,0 +1,1 @@
+> serves the church through prayer, daily rituals, and community guidance

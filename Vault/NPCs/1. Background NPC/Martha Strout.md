@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession: Butcher
+Profession: "[[Clerk]]"
 Size: Medium
 Type: Humanoid (Human)
 Alignment: neutral good

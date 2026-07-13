@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession: Pirate
+Profession: "[[Mercenary]]"
 Size: Medium
 Type: Humanoid (Human)
 Alignment: neutral

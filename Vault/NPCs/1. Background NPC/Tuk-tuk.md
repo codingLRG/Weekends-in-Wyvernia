@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession: Farmer
+Profession: "[[Farmer]]"
 Size: Small
 Type: Humanoid (Goblinoid)
 Alignment: chaotic good

@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession: Underworld Dealings
+Profession: "[[Guild Artisan]]"
 Size: Medium
 Type: Humanoid
 Alignment: chaotic evil

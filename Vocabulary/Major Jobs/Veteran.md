@@ -1,0 +1,1 @@
+> professional fighters that take up arms for pay or to protect something they believe in or value

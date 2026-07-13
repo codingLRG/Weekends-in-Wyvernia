@@ -1,0 +1,1 @@
+> leads individuals or groups through sites, regions, or outdoor adventures, providing engaging historical and cultural commentary

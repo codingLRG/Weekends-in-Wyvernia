@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession: The Hand
+Profession: "[[Guide]]"
 Size: Medium
 Type: Humanoid
 Alignment: neutral
@@ -9,7 +9,7 @@ Last Location: Skorveg
 Last Date Recorded: 0998-09-08T19:00:00
 ---
 > **Tobias Blink, Hand of Skorveg**
-> [[Priest]]
+> [[Bestiary/Small or Medium/2 (XP 450; PB +2)/Any/Priest]]
 
 | Physical Distinction | Verbal Distinction |
 | -------------------- | ------------------ |

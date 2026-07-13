@@ -1,0 +1,1 @@
+> A skilled craftsperson who creates functional or decorative items by hand or using traditional, non-mechanized methods.

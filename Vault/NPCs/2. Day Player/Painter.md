@@ -6,7 +6,7 @@ Last Date Recorded: 0998-09-08T15:00:00
 Alignment: neutral
 Size: Small
 Type: Humanoid (Human)
-Profession: Assistant
+Profession: "[[Clerk]]"
 ---
 > **Painter**
 > _Race, Size_

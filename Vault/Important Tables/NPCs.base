@@ -12,14 +12,18 @@ views:
       - file.name
       - Last Location
       - Last Date Recorded
-      - Age
       - Profession
-      - Type
       - Alignment
+      - Age
+      - Type
       - Size
       - Dead
       - file.folder
     sort:
+      - property: Last Date Recorded
+        direction: ASC
+      - property: Profession
+        direction: DESC
       - property: Last Location
         direction: DESC
       - property: file.folder
@@ -30,8 +34,8 @@ views:
         direction: ASC
       - property: Age Category
         direction: ASC
-      - property: Profession
-        direction: ASC
+    columnSize:
+      note.Profession: 213
   - type: table
     name: Skorveg NPCs
     filters:

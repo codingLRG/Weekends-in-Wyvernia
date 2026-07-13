@@ -1,0 +1,1 @@
+> an enterprising character who buys, sells, and barters goods for profit.

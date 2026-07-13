@@ -1,0 +1,1 @@
+> A metalworker who creates objects primarily from iron or steel by heating the metal in a forge and shaping it with hammers and an anvil.

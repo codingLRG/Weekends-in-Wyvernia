@@ -1,0 +1,1 @@
+> manage a domain, navigate political intrigue, and serve as an elite bridge between the crown and common folk

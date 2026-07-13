@@ -1,0 +1,20 @@
+1. Audience hall
+2. Main library
+3. Secret library
+4. Wizard’s bedroom
+5. Scrying chamber
+6. Guardians’ hall
+7. Meditation chamber
+8. Treasure vault
+9. Artifact museum
+10. Summoning chamber
+11. Mirror prison
+12. Planar portal
+13. Crystal vault
+14. Advisor’s cell
+15. Alchemical lab
+16. Multiverse orrery
+17. Menagerie
+18. Flesh laboratory
+19. Ooze vaults
+20. Lightning chamber

@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession: Guard
+Profession: "[[Vocabulary/Major Jobs/Knight|Knight]]"
 Size: Medium
 Type: Humanoid
 Alignment: lawful good

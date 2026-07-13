@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession: Doctor
+Profession: "[[Apothecary]]"
 Size: Medium
 Type: Humanoid (Human)
 Alignment: chaotic good

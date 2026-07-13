@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession: Cartographer
+Profession: "[[Guide]]"
 Size: Medium
 Type: Humanoid (Elf)
 Alignment: neutral good
@@ -9,7 +9,7 @@ Last Location: Skorveg
 Last Date Recorded: 0998-09-07T00:00:00
 ---
 > **Lanzu Brassmane**
-> [[Mage]]
+> [[Bestiary/Small or Medium/6 (XP 2,300; PB +3)/Any/Mage]]
 # Descriptors
 
 | Physical Distinction                                  | Verbal Distinction        |

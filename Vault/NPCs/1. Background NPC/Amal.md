@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession: Pirate
+Profession: "[[Vocabulary/Major Jobs/Bandit|Bandit]]"
 Type: Humanoid (Human)
 Size: Medium
 Alignment: neutral

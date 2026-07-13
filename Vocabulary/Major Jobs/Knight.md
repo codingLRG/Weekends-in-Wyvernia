@@ -1,0 +1,1 @@
+> providing military service for a lord in exchange for land, governing manors, and enforcing local laws

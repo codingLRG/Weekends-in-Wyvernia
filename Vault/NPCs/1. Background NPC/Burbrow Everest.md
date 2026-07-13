@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession: Merchant
+Profession: "[[Clerk]]"
 Size: Small
 Type: Humanoid (Dwarf)
 Alignment: neutral
@@ -9,7 +9,7 @@ Last Location: Skorveg
 Last Date Recorded: 0998-09-07T10:00:00
 ---
 > **Burbrow Everest**
-> [[Priest]]
+> [[Bestiary/Small or Medium/2 (XP 450; PB +2)/Any/Priest]]
 # Descriptors
 
 | Physical Distinction                                         | Verbal Distinction                                    |

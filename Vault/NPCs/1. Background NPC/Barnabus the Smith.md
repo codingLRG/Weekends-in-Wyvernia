@@ -1,7 +1,7 @@
 ---
 tags:
   - NPCs
-Profession: Blacksmith
+Profession: "[[Blacksmith]]"
 Size: Small
 Type: Humanoid (Dwarf)
 Alignment: neutral

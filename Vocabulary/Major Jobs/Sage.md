@@ -1,0 +1,1 @@
+> spent their formative years studying rare scrolls, performing odd jobs at monasteries to access libraries, and uncovering the lore of the multiverse
