@@ -1,6 +1,5 @@
 ### Random NPC
-> [[Commoner]]
-#### Ancestry - 1d10
+#### Ancestry: {{rnd}}
 1. Human
 2. Elf
 3. Dwarf
@@ -11,8 +10,8 @@
 8. Orc
 9. Dragonborn
 10. Tiefling
-#### Worldviews - 1d20
-1. Surly
+#### Worldviews: {{rnd}}
+1. [[Surly]]
 2. Friendly
 3. Brash
 4. Elitist
@@ -23,16 +22,16 @@
 9. Wide-eyed
 10. Humorous
 11. Cautious
-12. Roisterous
+12. [[Roisterous]]
 13. Optimistic
 14. Ignorant
 15. Selfless
-16. Brazen
+16. [[Brazen]]
 17. Loving
 18. Ambitious
 19. Greedy
 20. Outgoing
-#### Appearances and Mannerisms - 1d20
+#### Appearances and Mannerisms: {{rnd}}
 1. Wild hair
 2. Scarred cheek
 3. Body tattoos
@@ -53,24 +52,24 @@
 18. Heavy beard
 19. Missing fingers
 20. Half-shaved head
-#### Professions - 1d20 
-1. Farmer
-2. Blacksmith
-3. Clerk
-4. Merchant
-5. Apothecary
-6. Bandit
-7. Guide
-8. Entertainer
-9. Guard
-10. Soldier
-11. Acolyte
-12. Sailor
-13. Mercenary
-14. Sage
-15. Noble
-16. Artisan
-17. Priest
-18. Veteran
-19. Knight
-20. Mage
+#### Professions: {{rnd}} 
+1. [[Farmer]]
+2. [[Blacksmith]]
+3. [[Clerk]]
+4. [[Merchant]]
+5. [[Apothecary]]
+6. [[Bandit]]
+7. [[Guide]]
+8. [[Entertainer]]
+9. [[Guard]]
+10. [[Soldier]]
+11. [[Acolyte]]
+12. [[Sailor]]
+13. [[Mercenary]]
+14. [[Sage]]
+15. [[Noble]]
+16. [[Artisan]]
+17. [[Priest]]
+18. [[Veteran]]
+19. [[Knight]]
+20. [[Mage]]
