@@ -1,1 +1,31 @@
-{}
+{
+  "rows": [
+    {
+      "id": "r-mrmln8sb-e2p2pd",
+      "label": "Row 1",
+      "height": 80,
+      "bgColor": ""
+    }
+  ],
+  "columns": [
+    {
+      "id": "c-mrmlndhw-qk1yjh",
+      "label": "Col 1",
+      "width": 160,
+      "bgColor": ""
+    }
+  ],
+  "cells": {
+    "r-mrmln8sb-e2p2pd-c-mrmlndhw-qk1yjh": {
+      "id": "r-mrmln8sb-e2p2pd-c-mrmlndhw-qk1yjh",
+      "content": "",
+      "bgColor": "",
+      "textColor": "",
+      "bold": false,
+      "italic": false,
+      "align": "center"
+    }
+  },
+  "zoom": 1,
+  "stickyHeaders": true
+}
