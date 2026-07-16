@@ -7,25 +7,8 @@
       "bgColor": ""
     }
   ],
-  "columns": [
-    {
-      "id": "c-mrmlndhw-qk1yjh",
-      "label": "Col 1",
-      "width": 160,
-      "bgColor": ""
-    }
-  ],
-  "cells": {
-    "r-mrmln8sb-e2p2pd-c-mrmlndhw-qk1yjh": {
-      "id": "r-mrmln8sb-e2p2pd-c-mrmlndhw-qk1yjh",
-      "content": "",
-      "bgColor": "",
-      "textColor": "",
-      "bold": false,
-      "italic": false,
-      "align": "center"
-    }
-  },
+  "columns": [],
+  "cells": {},
   "zoom": 1,
   "stickyHeaders": true
 }

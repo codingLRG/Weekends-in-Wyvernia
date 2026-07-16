@@ -1,9 +1,79 @@
 {
   "corkboardPositions": {
     "StoryLine/Weekends in Wyvernia/Notes/00-00 Untitled.md": {
-      "x": -32.66796875,
-      "y": 48.08984375,
-      "z": 1
+      "x": 205.99124705213393,
+      "y": 688.1400258861158,
+      "z": 16
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 0/00-01 Creation of the Necrotome.md": {
+      "x": -82.37348677913427,
+      "y": 10.739097893807088,
+      "z": 2
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 0/00-02 Discovery of Estvola.md": {
+      "x": 200.18916142101003,
+      "y": 6.719006695786746,
+      "z": 3
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-03 The Obelisk Arrival.md": {
+      "x": 640,
+      "y": 0,
+      "z": 4
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-04 Undead Invasion.md": {
+      "x": 960,
+      "y": 0,
+      "z": 5
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-05 The Obelisk Crumbles.md": {
+      "x": 0,
+      "y": 230,
+      "z": 6
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-06 Engagement with the Twins.md": {
+      "x": 320,
+      "y": 230,
+      "z": 7
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-07 Yunaleska kills The Twins.md": {
+      "x": 640,
+      "y": 230,
+      "z": 8
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-09 Discovery of the first passage of the Necrotome.md": {
+      "x": 960,
+      "y": 230,
+      "z": 9
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 2/02-08 Valiss Engagement.md": {
+      "x": 0,
+      "y": 460,
+      "z": 10
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-05 Discovery of Pages of Pride.md": {
+      "x": 0,
+      "y": 230,
+      "z": 11
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-06 The Obelisk Crumbles.md": {
+      "x": 320,
+      "y": 230,
+      "z": 12
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-07 Engagement with the Twins.md": {
+      "x": 640,
+      "y": 230,
+      "z": 13
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-08 Yunaleska kills The Twins.md": {
+      "x": 953.0999753451883,
+      "y": 456.26476786844444,
+      "z": 14
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 2/02-10 Valiss Engagement.md": {
+      "x": 17.519731375869014,
+      "y": 493.66826750983626,
+      "z": 15
     }
   }
 }

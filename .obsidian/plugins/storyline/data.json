@@ -2,7 +2,7 @@
   "storyLineRoot": "StoryLine",
   "activeProjectFile": "StoryLine/Weekends in Wyvernia/Weekends in Wyvernia.md",
   "defaultStatus": "idea",
-  "autoGenerateSequence": true,
+  "autoGenerateSequence": false,
   "defaultTargetWordCount": 800,
   "customStatuses": [],
   "defaultView": "board",
@@ -11,7 +11,7 @@
   "lastBoardGroupBy": "act",
   "lastStorylineViewMode": "subway",
   "lastStorylineSortMode": "reading-order",
-  "lastStorylineArcFilter": "scenes",
+  "lastStorylineArcFilter": "all",
   "lastStorylineShowTagPills": true,
   "timelineOrder": "reading",
   "timelineSwimlaneMode": false,
@@ -19,7 +19,7 @@
   "researchActiveTag": null,
   "researchActiveType": null,
   "autoOpenNavigator": true,
-  "showNotesInKanban": false,
+  "showNotesInKanban": true,
   "showScenesInCorkboard": true,
   "plotgridAutoNote": true,
   "colorCoding": "status",
@@ -37,7 +37,9 @@
   "weeklyWordGoal": 7000,
   "monthlyWordGoal": 30000,
   "projectWordGoal": 80000,
-  "customLocationTypes": [],
+  "customLocationTypes": [
+    "Dungeon"
+  ],
   "enablePlotHoleDetection": true,
   "showWarnings": true,
   "sceneTemplates": [],
@@ -85,7 +87,9 @@
   ],
   "codexCustomCategories": [],
   "codexCategoryFieldTemplates": {},
-  "codexCategoryCustomSections": {},
+  "codexCategoryCustomSections": {
+    "items": []
+  },
   "characterCustomSections": [],
   "locationCustomSections": [],
   "codexSidebarCategories": [],

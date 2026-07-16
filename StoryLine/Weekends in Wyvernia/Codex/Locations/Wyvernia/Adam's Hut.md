@@ -1,9 +1,9 @@
 ---
 type: location
-name: Castle Skorveg
-created: 2026-07-15
+name: Adam's Hut
+created: 2026-07-16
 modified: 2026-07-16
 world: Wyvernia
-parent: Skorveg
 locationType: building
+parent: Castle Skorveg
 ---

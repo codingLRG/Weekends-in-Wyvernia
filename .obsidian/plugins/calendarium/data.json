@@ -313,15 +313,15 @@
           }
         },
         {
-          "name": "Obelisk Raid",
-          "description": "Undead Raid if the corrupted gem is not retrieved",
+          "name": "01-04 Undead Invasion",
+          "description": "Undead Raid if the Pages of Pride is not retrieved",
           "date": {
             "day": 22,
             "month": 8,
             "year": 998
           },
           "id": "ID_bb9a7adb9a5b",
-          "note": "Calendar/998/9. Sugil/Obelisk Raid.md",
+          "note": "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-04 Undead Invasion.md",
           "category": null,
           "sort": {
             "timestamp": 5e-324,
@@ -345,6 +345,46 @@
             "order": ""
           },
           "type": "Date"
+        },
+        {
+          "name": "Donovan",
+          "description": null,
+          "date": {
+            "day": 27,
+            "month": 2,
+            "year": [
+              998,
+              1
+            ]
+          },
+          "id": "ID_eb4bcb7b2a9b",
+          "note": "StoryLine/Weekends in Wyvernia/Codex/Characters/Donovan.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Donovan",
+          "description": "King Donovan's Birthday",
+          "date": {
+            "day": 27,
+            "month": 2,
+            "year": [
+              994,
+              null
+            ]
+          },
+          "id": "ID_1a591a09b8ba",
+          "note": "StoryLine/Weekends in Wyvernia/Codex/Characters/Donovan.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
         }
       ],
       "categories": [],
