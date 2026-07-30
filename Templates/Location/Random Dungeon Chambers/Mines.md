@@ -1,3 +1,4 @@
+{{rnd}}
 1. Deep shafts
 2. Heavy equipment
 3. Narrow tunnels

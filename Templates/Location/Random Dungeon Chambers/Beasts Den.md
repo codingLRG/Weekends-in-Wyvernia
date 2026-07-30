@@ -1,3 +1,4 @@
+{{rnd}}
 1. Sleeping den
 2. Drinking pool
 3. Dining chamber

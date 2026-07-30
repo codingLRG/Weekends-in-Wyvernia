@@ -7,7 +7,7 @@
   "customStatuses": [],
   "defaultView": "board",
   "defaultBoardMode": "corkboard",
-  "lastBoardMode": "kanban",
+  "lastBoardMode": "corkboard",
   "lastBoardGroupBy": "act",
   "lastStorylineViewMode": "subway",
   "lastStorylineSortMode": "reading-order",
@@ -83,14 +83,39 @@
   "stickyNoteFontColorLight": "",
   "stickyNoteFontColorDark": "",
   "codexEnabledCategories": [
-    "items"
+    "items",
+    "creatures",
+    "lore",
+    "systems",
+    "culture",
+    "organizations"
   ],
   "codexCustomCategories": [],
   "codexCategoryFieldTemplates": {},
   "codexCategoryCustomSections": {
-    "items": []
+    "items": [],
+    "creatures": [],
+    "lore": [],
+    "systems": []
   },
-  "characterCustomSections": [],
+  "characterCustomSections": [
+    {
+      "title": "Last Location",
+      "fields": [
+        {
+          "name": "Date",
+          "type": "text",
+          "placeholder": "YYY-MM-DD"
+        },
+        {
+          "name": "Area",
+          "type": "text",
+          "placeholder": "Where did the party last interact with them"
+        }
+      ],
+      "position": 6
+    }
+  ],
   "locationCustomSections": [],
   "codexSidebarCategories": [],
   "series": "",

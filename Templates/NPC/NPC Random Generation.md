@@ -1,4 +1,5 @@
 ### Random NPC
+[[Commoner]]
 #### Ancestry: {{rnd}}
 1. Human
 2. Elf
@@ -58,18 +59,18 @@
 3. [[Clerk]]
 4. [[Merchant]]
 5. [[Apothecary]]
-6. [[Bandit]]
+6. [[Vocabulary/Major Jobs/Bandit]]
 7. [[Guide]]
 8. [[Entertainer]]
-9. [[Guard]]
-10. [[Soldier]]
+9. [[Vocabulary/Major Jobs/Guard]]
+10. [[Vocabulary/Major Jobs/Soldier]]
 11. [[Acolyte]]
 12. [[Sailor]]
 13. [[Mercenary]]
 14. [[Sage]]
-15. [[Noble]]
+15. [[Vocabulary/Major Jobs/Noble]]
 16. [[Artisan]]
-17. [[Priest]]
+17. [[Vocabulary/Major Jobs/Priest]]
 18. [[Veteran]]
-19. [[Knight]]
-20. [[Mage]]
+19. [[Vocabulary/Major Jobs/Knight]]
+20. [[Vocabulary/Major Jobs/Mage]]

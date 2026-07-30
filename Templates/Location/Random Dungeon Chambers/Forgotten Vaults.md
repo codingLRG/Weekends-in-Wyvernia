@@ -1,3 +1,4 @@
+{{rnd}}
 1. False treasury
 2. True treasury
 3. Living pillars

@@ -1,3 +1,4 @@
+{{rnd}}
 1. Crew quarters
 2. Captain quarters
 3. Officer quarters

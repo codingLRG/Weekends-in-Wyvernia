@@ -1,3 +1,4 @@
+{{rnd}}
 1. Glowing pool
 2. Coral pillars
 3. Crystal cave

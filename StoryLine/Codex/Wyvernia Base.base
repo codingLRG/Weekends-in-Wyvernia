@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Characters
+    filters:
+      and:
+        - file.folder == "StoryLine/Weekends in Wyvernia/Codex/Characters"
+    order:
+      - file.name
+      - age
+      - occupation
+      - role
+      - appearance
+    sort:
+      - property: role
+        direction: ASC
+      - property: occupation
+        direction: ASC
+    columnSize:
+      note.role: 150

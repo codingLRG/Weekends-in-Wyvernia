@@ -1,3 +1,4 @@
+{{rnd}}
 1. Waterfall
 2. Large pool
 3. Natural columns

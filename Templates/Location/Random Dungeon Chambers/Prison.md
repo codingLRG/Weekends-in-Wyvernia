@@ -1,3 +1,4 @@
+{{rnd}}
 1. Low-security cells
 2. High-security cells
 3. Sewage drains

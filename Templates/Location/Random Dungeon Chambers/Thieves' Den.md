@@ -1,3 +1,4 @@
+{{rnd}}
 1. Throne room
 2. Thieves’ quarters
 3. Master’s quarters

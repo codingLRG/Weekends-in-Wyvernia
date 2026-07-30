@@ -1,3 +1,4 @@
+{{rnd}}
 1. Main foyer
 2. Master bedroom
 3. Guest bedrooms
