@@ -1,6 +1,3 @@
----
-tags:
----
 ## {{title}}
  - [ ] Deadline
 	 Description to remind yourself

@@ -1,3 +1,4 @@
+{{rnd}}
 1. Vesting rooms
 2. Audience chamber
 3. Feasting hall

@@ -1,1 +1,0 @@
-> Skull and crossbones of a horned creature, the right most horn broken off

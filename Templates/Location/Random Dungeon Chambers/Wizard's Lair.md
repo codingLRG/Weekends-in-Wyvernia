@@ -1,3 +1,4 @@
+{{rnd}}
 1. Audience hall
 2. Main library
 3. Secret library

@@ -1,3 +1,4 @@
+{{rnd}}
 1. Sleeping chamber
 2. Treasure vault
 3. Waterfall

@@ -1,0 +1,84 @@
+{
+  "corkboardPositions": {
+    "StoryLine/Weekends in Wyvernia/Notes/00-00 Untitled.md": {
+      "x": -207.67578125,
+      "y": 196.9375,
+      "z": 18
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 0/00-01 Creation of the Necrotome.md": {
+      "x": -168.47504927913428,
+      "y": -84.61246460619292,
+      "z": 2
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 0/00-02 Discovery of Estvola.md": {
+      "x": 158.54853642101003,
+      "y": -24.667712054213254,
+      "z": 3
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-03 The Obelisk Arrival.md": {
+      "x": 640,
+      "y": 0,
+      "z": 4
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-04 Undead Invasion.md": {
+      "x": 960,
+      "y": 0,
+      "z": 5
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-05 The Obelisk Crumbles.md": {
+      "x": 0,
+      "y": 230,
+      "z": 6
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-06 Engagement with the Twins.md": {
+      "x": 320,
+      "y": 230,
+      "z": 7
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-07 Yunaleska kills The Twins.md": {
+      "x": 640,
+      "y": 230,
+      "z": 8
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-09 Discovery of the first passage of the Necrotome.md": {
+      "x": 960,
+      "y": 230,
+      "z": 9
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 2/02-08 Valiss Engagement.md": {
+      "x": 0,
+      "y": 460,
+      "z": 10
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-05 Discovery of Pages of Pride.md": {
+      "x": 101.578125,
+      "y": 81.9375,
+      "z": 11
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-06 The Obelisk Crumbles.md": {
+      "x": 320,
+      "y": 230,
+      "z": 12
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-07 Engagement with the Twins.md": {
+      "x": 640,
+      "y": 230,
+      "z": 13
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 1/01-08 Yunaleska kills The Twins.md": {
+      "x": 953.0999753451883,
+      "y": 456.26476786844444,
+      "z": 14
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 2/02-10 Valiss Engagement.md": {
+      "x": 213.50801262586901,
+      "y": 425.96904875983626,
+      "z": 15
+    },
+    "StoryLine/Weekends in Wyvernia/Scenes/Act 4/04-00 The Reconstruction of the Necrotome.md": {
+      "x": 640,
+      "y": 460,
+      "z": 17
+    }
+  }
+}

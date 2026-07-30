@@ -9,6 +9,7 @@
     "Knows of": "multitext",
     "Last Date Recorded": "datetime",
     "Last Session Recorded": "number",
-    "Age Category": "number"
+    "Age Category": "number",
+    "inhabitants": "text"
   }
 }

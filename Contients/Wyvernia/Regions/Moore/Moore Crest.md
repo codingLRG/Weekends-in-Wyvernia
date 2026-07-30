@@ -1,1 +1,0 @@
-> Fist holding a battle axe

@@ -1,3 +1,4 @@
+{{rnd}}
 1. Dining hall
 2. Throne room
 3. Kitchens
