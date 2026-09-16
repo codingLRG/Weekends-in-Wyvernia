@@ -1,0 +1,1 @@
+> years spent working aboard a seagoing vessel, surviving mighty storms, and fending off krakens or pirates

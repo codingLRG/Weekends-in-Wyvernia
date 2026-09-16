@@ -1,0 +1,1 @@
+> performing martial, security, or enforcement services strictly for coin, rather than loyalty to a nation or cause

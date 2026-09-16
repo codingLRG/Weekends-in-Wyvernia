@@ -1,0 +1,1 @@
+> A professional who performs to captivate, amuse, or engage an audience

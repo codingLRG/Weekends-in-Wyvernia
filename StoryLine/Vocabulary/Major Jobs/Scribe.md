@@ -1,0 +1,1 @@
+> learned to write with a clear hand and produce finely written texts. Perhaps you scribed government documents or copied tomes of literature

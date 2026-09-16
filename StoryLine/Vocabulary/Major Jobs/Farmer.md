@@ -1,0 +1,1 @@
+> A professional manages agricultural establishments to produce crops, livestock, and dairy products

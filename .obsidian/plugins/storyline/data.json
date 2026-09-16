@@ -1,13 +1,23 @@
 {
   "storyLineRoot": "StoryLine",
+<<<<<<< HEAD
   "activeProjectFile": "StoryLine/Weekends in Wyvernia/Weekends in Wyvernia.md",
   "defaultStatus": "idea",
   "autoGenerateSequence": false,
+=======
+  "activeProjectFile": "Wyvernia-Glossary/Wyvernia/Wyvernia.md",
+  "defaultStatus": "idea",
+  "autoGenerateSequence": true,
+>>>>>>> 5040fdd (Notes)
   "defaultTargetWordCount": 800,
   "customStatuses": [],
   "defaultView": "board",
   "defaultBoardMode": "corkboard",
+<<<<<<< HEAD
   "lastBoardMode": "corkboard",
+=======
+  "lastBoardMode": "kanban",
+>>>>>>> 5040fdd (Notes)
   "lastBoardGroupBy": "act",
   "lastStorylineViewMode": "subway",
   "lastStorylineSortMode": "reading-order",
@@ -37,9 +47,13 @@
   "weeklyWordGoal": 7000,
   "monthlyWordGoal": 30000,
   "projectWordGoal": 80000,
+<<<<<<< HEAD
   "customLocationTypes": [
     "Dungeon"
   ],
+=======
+  "customLocationTypes": [],
+>>>>>>> 5040fdd (Notes)
   "enablePlotHoleDetection": true,
   "showWarnings": true,
   "sceneTemplates": [],
@@ -84,15 +98,21 @@
   "stickyNoteFontColorDark": "",
   "codexEnabledCategories": [
     "items",
+<<<<<<< HEAD
     "creatures",
     "lore",
     "systems",
     "culture",
     "organizations"
+=======
+    "lore",
+    "culture"
+>>>>>>> 5040fdd (Notes)
   ],
   "codexCustomCategories": [],
   "codexCategoryFieldTemplates": {},
   "codexCategoryCustomSections": {
+<<<<<<< HEAD
     "items": [],
     "creatures": [],
     "lore": [],
@@ -116,12 +136,28 @@
       "position": 6
     }
   ],
+=======
+    "lore": []
+  },
+  "characterCustomSections": [],
+>>>>>>> 5040fdd (Notes)
   "locationCustomSections": [],
   "codexSidebarCategories": [],
   "series": "",
   "sharedCodex": "",
   "extraFolders": [],
+<<<<<<< HEAD
   "hiddenFields": {},
+=======
+  "hiddenFields": {
+    "lore": [
+      "loreType"
+    ],
+    "character": [
+      "expectedChange"
+    ]
+  },
+>>>>>>> 5040fdd (Notes)
   "showFormattingToolbar": true,
   "focusDarkenAmount": 40,
   "focusBlurAmount": 1,

@@ -1,0 +1,1 @@
+> deterring crime, patrolling premises, managing entry and exit points, and responding to emergencies or disturbances while strictly following established reporting and safety protocols

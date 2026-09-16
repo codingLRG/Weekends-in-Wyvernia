@@ -1,0 +1,1 @@
+> Two hands cupped open

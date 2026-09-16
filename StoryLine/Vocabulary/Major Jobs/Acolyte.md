@@ -1,0 +1,1 @@
+> A devoted assistant, follower, or someone who helps a religious leader (such as a [[Vocabulary/Major Jobs/Priest|Priest]]) with ceremonial duties, like lighting candles or carrying processional crosses.

@@ -1,0 +1,4 @@
+---
+Dead: true
+---
+[[Jose|John "Ranger" Booth]]'s cow familiar

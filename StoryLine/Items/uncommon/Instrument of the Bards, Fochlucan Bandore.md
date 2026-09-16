@@ -1,0 +1,15 @@
+---
+Source: "DMG'24"
+Rarity: "uncommon"
+Type: "Wondrous Item, Instrument"
+Attunement: "requires attunement by a bard"
+Damage: 
+Properties: 
+Mastery: 
+Weight: 
+Value: 
+---
+
+# Instrument of the Bards, Fochlucan Bandore
+
+An Instrument of the Bards is superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a bard college. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take 2d4 Psychic damage.You can play the Fochlucan Bandore to cast one of the following spells: Fly, Invisibility, Levitate, Protection from Evil and Good, Entangle, Faerie Fire, Shillelagh, and Speak with Animals. Once the Fochlucan Bandore has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.If you have proficiency with a tool, add your Proficiency Bonus to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have Advantage on the check too.

@@ -1,0 +1,1 @@
+> A robber, outlaw, or member of a gang who operates in remote, lawless places.

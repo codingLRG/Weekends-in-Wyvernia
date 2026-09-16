@@ -1,0 +1,7 @@
+- Decide on the amount of gold you want to bet (one gold, 100 gold, 1,000 gold, etc).
+- Each player types **/roll** to see who will go first.
+- The player with the highest number goes first and types **/roll 10,000**.
+- The next player repeats the process but types /roll using the number the first player got.
+- The first player rolls again but types the second roll’s number.
+- This keeps going until one player rolls a one.
+- The player that rolls a one loses and has to pay the winner the bet amount.

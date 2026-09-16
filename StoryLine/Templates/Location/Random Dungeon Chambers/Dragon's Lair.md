@@ -1,0 +1,20 @@
+1. Sleeping chamber
+2. Treasure vault
+3. Waterfall
+4. Audience hall
+5. Egg hatchery
+6. Elemental pool
+7. Private entrance
+8. Livestock pen
+9. Observation roost
+10. Bathing pool
+11. Scrying chamber
+12. Secret vault
+13. Private library
+14. Artifact museum
+15. Servant quarters
+16. Dungeon cells
+17. Trapped maze
+18. Draconic altar
+19. Guardian chamber
+20. Trophy hall
